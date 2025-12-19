@@ -1,0 +1,161 @@
+{
+  "id": "pesto_pork_rigatoni",
+  "title": "Pesto Pork Rigatoni",
+  "subtitle": "Featuring Fresh Spinach and Parmesan",
+  "description": "Savor the gourmet blend of succulent pork and vibrant pesto, enriched by crisp spinach and a hint of rich Parmesan for a comforting winter dish.",
+  "prep_time": "30 minutes",
+  "cooking_time": "",
+  "total_time": "",
+  "servings": "4",
+  "difficulty": "Medium",
+  "serving_size": "",
+  "calories_per_serving": "790 kcal",
+  "dietary_info": "Quick; Contains Wheat, Milk, Soy; Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+  "ingredients": [
+    {
+      "name": "Pork Strips",
+      "quantity": "340 g",
+      "allergens": [],
+      "image_url": "images/ingredient/58dbc836313100596301e9b3-aa011ac7.png"
+    },
+    {
+      "name": "Rigatoni",
+      "quantity": "170 g",
+      "allergens": [
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/581b5efcb0a3604cb9102ac1-15bb60ba.png"
+    },
+    {
+      "name": "Garlic",
+      "quantity": "6 g",
+      "allergens": [],
+      "image_url": "images/ingredient/554a363df8b25e1d268b456b.png"
+    },
+    {
+      "name": "Chicken Broth Concentrate",
+      "quantity": "1 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/5755e5e9f8b25e45148b4567-d6ad65dc.png"
+    },
+    {
+      "name": "Basil Pesto",
+      "quantity": "¼ cup",
+      "allergens": [
+        "Milk",
+        "Soy"
+      ],
+      "image_url": "images/ingredient/5755e3c2f8b25e470d8b4567-820ddb98.png"
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": "56 g",
+      "allergens": [],
+      "image_url": "images/ingredient/577ec99e3933dc33508b4567.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "quantity": "¼ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/5bbe2b9d30006c27504fa002-34f15c81.png"
+    },
+    {
+      "name": "Chili Flakes",
+      "quantity": "¼ tsp",
+      "allergens": [],
+      "image_url": "images/ingredient/554a35f4fd2cb9cf488b4569.png"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "quantity": "1 tbsp",
+      "allergens": [
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b46a8-cd52fdfe.png"
+    },
+    {
+      "name": "Onion, chopped",
+      "quantity": "56 g",
+      "allergens": [],
+      "image_url": "images/ingredient/57110770f8b25ebd2e8b45e9-760c9978.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Milk*",
+      "quantity": "½ cup",
+      "image_url": "images/ingredient/57c06c6892eec975218b4569-ffca2aa9.png"
+    },
+    {
+      "name": "Salt*",
+      "quantity": "2 tsp",
+      "image_url": "images/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+    },
+    {
+      "name": "Oil*",
+      "quantity": "½ tbsp",
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+    },
+    {
+      "name": "Salt and Pepper*",
+      "quantity": "¼ tsp",
+      "image_url": "images/ingredient/5995dab2c28800013e48e192-94c68656.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Before starting, wash and dry all produce. Heat Guide for Step 6 (dbl for 4 ppl): 1/4 tsp mild, 1/2 tsp medium and 1 tsp spicy! Add 10 cups water and 2 tsp salt in a large pot. (NOTE: Use same for 4 ppl.) Cover and bring to a boil over high heat. Add rigatoni to the pot of boiling water. Cook uncovered, stirring occasionally, until tender, 10-12 min. Drain and return the rigatoni to same pot.",
+      "image_url": "images/cooking_step/step-71c4525c.jpg"
+    },
+    {
+      "step": 2,
+      "description": "While the rigatoni cooks, roughly chop the spinach. Peel, then mince or grate the garlic. Pat the pork strips dry with paper towels, then cut in half.",
+      "image_url": "images/cooking_step/step-9ffab909.jpg"
+    },
+    {
+      "step": 3,
+      "description": "Heat a large non-stick pan over medium-high heat. When hot, add 1 tbsp oil (dbl for 4 ppl), the pork. Cook, stirring occasionally, until pork is cooked through, 3-4 min.",
+      "image_url": "images/cooking_step/step-94df35af.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Add the onions and garlic to the pan with the pork. Cook, stirring occasionally, until veggies have softened, 3-4 min. Sprinkle the flour over the pork mixture, then stir to combine, 1 min.",
+      "image_url": "images/cooking_step/step-642e7676.jpg"
+    },
+    {
+      "step": 5,
+      "description": "Add 1/2 cup milk (dbl for 4 ppl), broth concentrate and spinach to the pan. Stir to combine. Cook, stirring often, until sauce thickens slightly, 1-2 min. Remove from heat. Season with salt and pepper.",
+      "image_url": "images/cooking_step/step-3bff3b06.jpg"
+    },
+    {
+      "step": 6,
+      "description": "Pour the sauce over the rigatoni in the large pot and add the pesto. Stir to combine. Divide the pasta between bowls. Sprinkle over Parmesan cheese and 1/4 tsp chili flakes over top (reference heat guide).",
+      "image_url": "images/cooking_step/step-66edd78e.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "790 kcal",
+      "fat": "26 g",
+      "saturated_fat": "8 g",
+      "carbohydrate": "75 g",
+      "sugar": "8 g",
+      "dietary_fiber": "3 g",
+      "protein": "61 g",
+      "cholesterol": "130 mg",
+      "sodium": "1010 mg",
+      "potassium": "",
+      "calcium": "",
+      "iron": ""
+    }
+  },
+  "tags": [
+    "Quick"
+  ],
+  "image_url": "images/dish/rigatonis-cremeux-au-porc-au-pesto-b1d4d4e6.jpg",
+  "cousine": "Italian",
+  "id_legacy": "creamy-pesto-pork-rigatoni"
+}

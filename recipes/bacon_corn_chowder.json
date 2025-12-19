@@ -1,0 +1,179 @@
+{
+  "id": "bacon_corn_chowder",
+  "title": "Bacon Corn Chowder",
+  "subtitle": "Crispy bacon, tangy sour cream, and crumbled feta",
+  "description": "A comforting stew bursting with rich textures and balanced flavors, merging smokiness with creaminess in every spoonful.",
+  "prep_time": "30 minutes",
+  "cooking_time": "8 minutes",
+  "total_time": "38 minutes",
+  "servings": "4",
+  "difficulty": "Easy",
+  "serving_size": "246 g",
+  "calories_per_serving": "590 kcal",
+  "dietary_info": "Calorie Smart, Carb Smart, Low CO2, Allergens - Milk, Wheat, Soy, Sulphites",
+  "ingredients": [
+    {
+      "name": "Bacon Strips",
+      "quantity": "100 g",
+      "allergens": [],
+      "image_url": "images/ingredient/65e585471101bf6720606cf6-21538551.png"
+    },
+    {
+      "name": "Russet Potato",
+      "quantity": "1 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/65e585611101bf672060703e-5bece27f.png"
+    },
+    {
+      "name": "Mirepoix",
+      "quantity": "113 g",
+      "allergens": [],
+      "image_url": "images/ingredient/5880d2179df181780547f7f1-3f2cf596.png"
+    },
+    {
+      "name": "Cream",
+      "quantity": "56 mL",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/65ef112d4916f82b1a901e53-1b7e8838.png"
+    },
+    {
+      "name": "Sour Cream",
+      "quantity": "1 unit(s)",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/65ef01f9a66a6a1427fc21cf-f355306b.png"
+    },
+    {
+      "name": "Feta Cheese, crumbled",
+      "quantity": "¼ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/57110775f8b25ebd2e8b4677-dec4ab3c.png"
+    },
+    {
+      "name": "Cream Sauce Spice Blend",
+      "quantity": "20 g",
+      "allergens": [
+        "Wheat",
+        "Tree nuts",
+        "Milk",
+        "Mustard",
+        "Peanuts",
+        "Sesame",
+        "Soy",
+        "Sulphites"
+      ],
+      "image_url": "images/ingredient/65ef1429d4f95068901461f6-fd1d6892.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "quantity": "7.5 g",
+      "allergens": [
+        "Soy",
+        "Sulphites",
+        "Milk",
+        "Mustard",
+        "Tree nuts",
+        "Peanuts",
+        "Sesame",
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/6724ff5e9ba7c0b27f46d4ad-a8963eb9.png"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "quantity": "4 g",
+      "allergens": [
+        "Sesame",
+        "Triticale",
+        "Peanuts",
+        "Tree nuts",
+        "Wheat",
+        "Mustard",
+        "Sulphites",
+        "Milk",
+        "Soy"
+      ],
+      "image_url": "images/ingredient/66b386636d92980d0360c91d-c6cbf68d.png"
+    },
+    {
+      "name": "Green Onion",
+      "quantity": "1 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/65e585561101bf6720606ef2-1ff5c4d7.png"
+    },
+    {
+      "name": "Corn Kernels",
+      "quantity": "113 g",
+      "allergens": [],
+      "image_url": "images/ingredient/65e58541f5a5196d85e97b7b-22a7cc61.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Salt*",
+      "quantity": "0.06 tsp",
+      "image_url": "images/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+    },
+    {
+      "name": "Pepper*",
+      "quantity": "0.06 tsp",
+      "image_url": "images/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Cut bacon into 1/2-inch pieces. Heat a large pot over medium-high (use same for 4 servings). When hot, add bacon. Cook, stirring occasionally, until crispy, 5-7 min. (TIP: If bacon begins to brown too quickly, reduce heat to medium.) Remove from heat. Using a slotted spoon, transfer bacon to a paper towel-lined plate. Reserve fat in pot.",
+      "image_url": "images/cooking_step/step-b86d4100.jpg"
+    },
+    {
+      "step": 2,
+      "description": "While bacon cooks, on a clean cutting board, peel, then cut potato into 1/4-inch pieces. Thinly slice green onion.",
+      "image_url": "images/cooking_step/step-7e1b8010.jpg"
+    },
+    {
+      "step": 3,
+      "description": "Reheat the same pot over medium heat. When hot, add mirepoix, corn and potato. Cook, stirring often, until veggies are tender-crisp, 4-5 min.",
+      "image_url": "images/cooking_step/step-4d688d20.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Add Cream Sauce Spice Blend and half the Mexican Seasoning (use all for 4 servings). Stir to coat. Add vegetable stock powder, cream and 2 cups (3 1/2 cups) water. Bring to a simmer over high, then reduce heat to medium. Cook, stirring occasionally, until veggies are tender, 6-9 min. (TIP: If liquid reduces too quickly before veggies are tender, add water, 2 tbsp at a time).",
+      "image_url": "images/cooking_step/step-bbc6e230.jpg"
+    },
+    {
+      "step": 5,
+      "description": "Season chowder with salt and pepper to taste. Divide chowder between bowls. Dollop sour cream over top. Sprinkle bacon, feta and green onions over top.",
+      "image_url": "images/cooking_step/step-760f5840.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "590 kcal",
+      "fat": "39 g",
+      "saturated_fat": "17 g",
+      "carbohydrate": "50 g",
+      "sugar": "9 g",
+      "dietary_fiber": "5 g",
+      "protein": "15 g",
+      "cholesterol": "90 mg",
+      "sodium": "2070 mg",
+      "potassium": "1100 mg",
+      "calcium": "150 mg",
+      "iron": "2.5 mg"
+    }
+  },
+  "tags": [
+    "Calorie Smart",
+    "Carb Smart",
+    "Low CO2"
+  ],
+  "image_url": "images/dish/HF_Y24_R1019_W28_CA_RP24935-1_Main_low-c8b10f67.jpg",
+  "cousine": "Mexican",
+  "id_legacy": "smart-esquites-bacon-and-corn-chowder"
+}

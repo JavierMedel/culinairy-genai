@@ -1,0 +1,146 @@
+{
+  "id": "creamy_pesto_chicken_orzo",
+  "title": "Creamy Pesto Chicken Orzo",
+  "subtitle": "Featuring fresh spinach and sweet peas.",
+  "description": "Infused with herbaceous creaminess and tender protein, this dish offers a harmonious balance of savory and vibrant flavors.",
+  "prep_time": "35 minutes",
+  "cooking_time": "",
+  "total_time": "",
+  "servings": "2",
+  "difficulty": "Medium",
+  "serving_size": "",
+  "calories_per_serving": "820 kcal",
+  "dietary_info": "Contains Wheat, Milk. Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+  "ingredients": [
+    {
+      "name": "Chicken Breasts",
+      "quantity": "2 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/5715013bfd2cb9c71f8b4568.png"
+    },
+    {
+      "name": "Lemon-Pepper Seasoning",
+      "quantity": "1 tbsp",
+      "allergens": [],
+      "image_url": "images/ingredient/6234e2661eb0a87142174af2-2cc08f20.png"
+    },
+    {
+      "name": "Orzo",
+      "quantity": "170 g",
+      "allergens": [
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/5566f47ffd2cb952018b456e.png"
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": "56 g",
+      "allergens": [],
+      "image_url": "images/ingredient/577ec99e3933dc33508b4567.png"
+    },
+    {
+      "name": "Basil Pesto",
+      "quantity": "¼ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/6009bd1b3d6f696be177e9eb-820ddb98.png"
+    },
+    {
+      "name": "Parmesan Cheese, shredded",
+      "quantity": "¼ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/57110772f8b25ebd2e8b4625-8ffea243.png"
+    },
+    {
+      "name": "Garlic, cloves",
+      "quantity": "1 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/6137677a256fc53c23222228-c6553cc2.png"
+    },
+    {
+      "name": "Green Peas",
+      "quantity": "56 g",
+      "allergens": [],
+      "image_url": "images/ingredient/57110775f8b25ebd2e8b4678-9aa0cf01.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Salt*",
+      "quantity": "0.38 tsp",
+      "image_url": "images/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+    },
+    {
+      "name": "Pepper*",
+      "quantity": "0.06 tsp",
+      "image_url": "images/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+    },
+    {
+      "name": "Oil*",
+      "quantity": "½ tbsp",
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+    },
+    {
+      "name": "Unsalted Butter*",
+      "quantity": "1 tbsp",
+      "image_url": "images/ingredient/5bc5064e30006c1a261b4612-4ffc3691.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Before starting, preheat the oven to 450˚F. Wash and dry all produce. Heat a large non-stick pan over medium-high heat. While the pan heats, pat chicken dry with paper towels. Season with salt and half the Lemon-Pepper Seasoning. When hot, add 1/2 tbsp oil (dbl for 4 ppl), then chicken. Sear until golden-brown, 1-2 min per side. Remove the pan from heat, then transfer chicken to a parchment-lined baking sheet. Roast in the middle of the oven until chicken is cooked through, 12-14 min. Carefully wipe the pan clean.",
+      "image_url": "images/cooking_step/step-cef0e5ec.jpg"
+    },
+    {
+      "step": 2,
+      "description": "Meanwhile, peel, then mince or grate garlic.",
+      "image_url": "images/cooking_step/step-f9dbcc0a.jpg"
+    },
+    {
+      "step": 3,
+      "description": "Heat the same pan (from step 1) over medium. When hot, add 1 tbsp butter (dbl for 4 ppl), then swirl the pan until melted. Add garlic. Cook, stirring constantly, until fragrant, 30 sec. Stir in orzo, remaining Lemon-Pepper Seasoning, 1/4 tsp salt and 2 1/2 cups water (dbl both for 4 ppl). Cover and bring to a boil over high.",
+      "image_url": "images/cooking_step/step-b68cbf9b.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Once boiling, uncover and reduce heat to medium. Cook uncovered, stirring occasionally, until orzo is tender, 14-16 min. Add peas to the pan halfway through cooking.",
+      "image_url": "images/cooking_step/step-23c44036.jpg"
+    },
+    {
+      "step": 5,
+      "description": "When orzo is tender, add spinach to the pan. Cook, stirring often, until wilted, 1-2 min. Add three-quarters of the Parmesan. Cook, stirring often, until Parmesan melts, 1 min. Remove the pan from heat. Stir in pesto, then season with salt and pepper, to taste.",
+      "image_url": "images/cooking_step/step-a8585577.jpg"
+    },
+    {
+      "step": 6,
+      "description": "Thinly slice chicken. Divide orzo between plates. Top with chicken, then sprinkle with remaining Parmesan.",
+      "image_url": "images/cooking_step/step-3e4be274.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "820 kcal",
+      "fat": "24 g",
+      "saturated_fat": "9 g",
+      "carbohydrate": "75 g",
+      "sugar": "4 g",
+      "dietary_fiber": "7 g",
+      "protein": "57 g",
+      "cholesterol": "153 mg",
+      "sodium": "1060 mg",
+      "potassium": "",
+      "calcium": "",
+      "iron": ""
+    }
+  },
+  "tags": [
+    "Spicy"
+  ],
+  "image_url": "images/dish/orzo-au-poulet-et-pesto-cremeux-2c2b8618.jpg",
+  "cousine": "Italian",
+  "id_legacy": "creamy-pesto-orzo-and-chicken"
+}

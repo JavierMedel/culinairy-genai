@@ -1,0 +1,174 @@
+{
+  "id": "chicken_tortellini_mushrooms",
+  "title": "Chicken Tortellini Mushrooms",
+  "subtitle": "Featuring fresh spinach and pine nuts for added crunch.",
+  "description": "Delight in a velvety sauce with tender textures and a satisfying crunch that elevates an ordinary meal.",
+  "prep_time": "25 minutes",
+  "cooking_time": "",
+  "total_time": "",
+  "servings": "24",
+  "difficulty": "Medium",
+  "serving_size": "",
+  "calories_per_serving": "1000 kcal",
+  "dietary_info": "Contains Egg, Milk, Wheat, Tree nuts, Soy, Sulphites. Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+  "ingredients": [
+    {
+      "name": "Cheese Tortellini",
+      "quantity": "350 g",
+      "allergens": [
+        "Egg",
+        "Milk",
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/5f9998a770231d494336fef4-315306d4.png"
+    },
+    {
+      "name": "Parmesan Cheese, shredded",
+      "quantity": "¼ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/57110772f8b25ebd2e8b4625-8ffea243.png"
+    },
+    {
+      "name": "Pine Nuts",
+      "quantity": "28 g",
+      "allergens": [
+        "Tree nuts"
+      ],
+      "image_url": "images/ingredient/5711077af8b25ebd2e8b46dd.png"
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": "56 g",
+      "allergens": [],
+      "image_url": "images/ingredient/577ec99e3933dc33508b4567.png"
+    },
+    {
+      "name": "Mushrooms",
+      "quantity": "113 g",
+      "allergens": [],
+      "image_url": "images/ingredient/5fd0ffa7af33b842963fba86-67f5cd75.png"
+    },
+    {
+      "name": "Garlic Puree",
+      "quantity": "1 tbsp",
+      "allergens": [],
+      "image_url": "images/ingredient/5e72773fd47b5c0367730d8f-de6c3494.png"
+    },
+    {
+      "name": "Lemon-Pepper Seasoning",
+      "quantity": "½ tbsp",
+      "allergens": [],
+      "image_url": "images/ingredient/6234e2661eb0a87142174af2-2cc08f20.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "quantity": "1 tbsp",
+      "allergens": [
+        "Soy",
+        "Sulphites"
+      ],
+      "image_url": "images/ingredient/62e2d718c7709f4acb0d3cd3-25d99441.png"
+    },
+    {
+      "name": "Cream Cheese",
+      "quantity": "43 g",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b469c-ed1c28fc.png"
+    },
+    {
+      "name": "Cream Sauce Spice Blend",
+      "quantity": "1 tbsp",
+      "allergens": [
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/5ef0cddb37133401e749fde7-bd118885.png"
+    },
+    {
+      "name": "Chives",
+      "quantity": "7 g",
+      "allergens": [],
+      "image_url": "images/ingredient/5550d6864dab71e7118b4569.png"
+    },
+    {
+      "name": "Chicken Breasts",
+      "quantity": "2 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/5715013bfd2cb9c71f8b4568.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Unsalted Butter*",
+      "quantity": "2 tbsp",
+      "image_url": "images/ingredient/5bc5064e30006c1a261b4612-4ffc3691.png"
+    },
+    {
+      "name": "Salt*",
+      "quantity": "0.06 tsp",
+      "image_url": "images/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+    },
+    {
+      "name": "Pepper*",
+      "quantity": "0.13 tsp",
+      "image_url": "images/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Before starting, preheat the oven to 450˚F. Wash and dry all produce. Add 10 cups water and 2 tsp salt to a large pot (use same for 4 ppl). Cover and bring to a boil over high heat. Add tortellini to the boiling water. Cook, stirring occasionally, until tender, 2-3 min. Reserve 1 1/4 cups (2 1/2 cups) pasta water, then drain tortellini.",
+      "image_url": "images/cooking_step/step-f0511541.jpg"
+    },
+    {
+      "step": 2,
+      "description": "Meanwhile, heat a large non-stick pan over medium heat. While the pan heats, thinly slice mushrooms. Thinly slice chives.",
+      "image_url": "images/cooking_step/step-24951d4c.jpg"
+    },
+    {
+      "step": 3,
+      "description": "When the pan is hot, add pine nuts to the dry pan. Toast, stirring often, until golden-brown, 4-5 min. (TIP: Keep your eye on pine nuts so they don't burn!) Transfer pine nuts to a plate. If you've opted to add chicken breasts, return the same pan used for pine nuts to medium-high. While the pan heats, pat chicken dry with paper towels. Season with salt and pepper. When hot, add 1/2 tbsp (1 tbsp) oil, then chicken. Pan-fry until golden-brown, 1-2 min per side. Transfer chicken to an unlined baking sheet. Roast in the middle of the oven until cooked through, 8-10 min.",
+      "image_url": "images/cooking_step/step-0a91ef68.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Heat the same pan over medium-high. When hot, add 2 tbsp (4 tbsp) butter, then swirl the pan until melted. Add mushrooms. Cook, stirring occasionally, until golden-brown, 4-5 min. Season with pepper. Add Cream Sauce Spice Blend, garlic puree and half the Lemon-Pepper Seasoning (use all for 4 ppl). Cook, stirring often, until mushrooms are coated and garlic is fragrant, 30 sec.",
+      "image_url": "images/cooking_step/step-bfa79b99.jpg"
+    },
+    {
+      "step": 5,
+      "description": "Add 1 cup (2 cups) reserved pasta water, stock powder and cream cheese to the pan with mushrooms. Cook, stirring often, until sauce is smooth and comes to a simmer. Once simmering, add tortellini and half the Parmesan. Cook, stirring gently, until sauce thickens slightly, 1-2 min. (TIP: If sauce reduces too much, add remaining pasta water to loosen.) Add spinach. Cook, stirring gently, until spinach wilts, 1-2 min. Season with pepper, to taste. Remove the pan from heat.",
+      "image_url": "images/cooking_step/step-7c619cba.jpg"
+    },
+    {
+      "step": 6,
+      "description": "Thinly slice chicken. Divide tortellini between bowls. Top tortellini with chicken. Sprinkle pine nuts, chives and remaining Parmesan over top.",
+      "image_url": "images/cooking_step/step-0eec893f.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "1000 kcal",
+      "fat": "34 g",
+      "saturated_fat": "10 g",
+      "carbohydrate": "2 g",
+      "sugar": "8 g",
+      "dietary_fiber": "6 g",
+      "protein": "66 g",
+      "cholesterol": "198 mg",
+      "sodium": "1650 mg",
+      "potassium": "",
+      "calcium": "",
+      "iron": ""
+    }
+  },
+  "tags": [
+    "Quick"
+  ],
+  "image_url": "images/dish/tortellinis-au-fromage-avec-poulet-et-sauce-cremeuse-aux-champignons-dc47600c.jpg",
+  "cousine": "Italian",
+  "id_legacy": "chicken-and-creamy-cheese-tortellini-and-mushrooms"
+}

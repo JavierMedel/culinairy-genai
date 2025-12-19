@@ -1,0 +1,142 @@
+{
+  "id": "roasted_dill-garlic_salmon",
+  "title": "Roasted Dill-Garlic Salmon",
+  "subtitle": "Warm Orzo and Spinach Salad",
+  "description": "Succulent salmon roasted with dill and garlic, paired with a Greek-inspired orzo salad accented by olives and feta for a uniquely bright flavor and texture.",
+  "prep_time": "25 minutes",
+  "cooking_time": "",
+  "total_time": "",
+  "servings": "24",
+  "difficulty": "Medium",
+  "serving_size": "",
+  "calories_per_serving": "700 kcal",
+  "dietary_info": "Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+  "ingredients": [
+    {
+      "name": "Salmon Fillets, skin-on",
+      "quantity": "250 g",
+      "allergens": [
+        "Salmon"
+      ],
+      "image_url": "images/ingredient/62cecd6a61c10fc1cc0bc2eb-9b300930.png"
+    },
+    {
+      "name": "Orzo",
+      "quantity": "170 g",
+      "allergens": [
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/5566f47ffd2cb952018b456e.png"
+    },
+    {
+      "name": "Yogurt Sauce",
+      "quantity": "3 tbsp",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/6482253bf0e65da77b034c0f-3ebdfaaf.png"
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": "28 g",
+      "allergens": [],
+      "image_url": "images/ingredient/577ec99e3933dc33508b4567.png"
+    },
+    {
+      "name": "Feta Cheese, crumbled",
+      "quantity": "¼ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/57110775f8b25ebd2e8b4677-dec4ab3c.png"
+    },
+    {
+      "name": "Tomato",
+      "quantity": "1 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/556728a04dab71a90d8b456a.png"
+    },
+    {
+      "name": "Dill-Garlic Spice Blend",
+      "quantity": "1 tsp",
+      "allergens": [],
+      "image_url": "images/ingredient/5ef0ce0f8530d62e2242a8fc-7d1cccb1.png"
+    },
+    {
+      "name": "Mixed Olives",
+      "quantity": "30 g",
+      "allergens": [
+        "Sulphites"
+      ],
+      "image_url": "images/ingredient/5566f37ffd2cb95e018b456a.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Oil*",
+      "quantity": "2 tsp",
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+    },
+    {
+      "name": "Salt*",
+      "quantity": "0.13 tsp",
+      "image_url": "images/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+    },
+    {
+      "name": "Pepper*",
+      "quantity": "0.06 tsp",
+      "image_url": "images/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Before starting, preheat the oven to 450°F. Wash and dry all produce. Add 6 cups water and 1 tsp salt to a large pot (use same for 4 ppl). Cover and bring to a boil over high heat. Add orzo to the boiling water. Cook uncovered, stirring occasionally, until tender, 6-8 min.",
+      "image_url": "images/cooking_step/step-07f533cb.jpg"
+    },
+    {
+      "step": 2,
+      "description": "Meanwhile, pat salmon dry with paper towels. Sprinkle with half the Dill-Garlic Spice Blend, then season with salt and pepper. Arrange salmon on a lightly oiled, foil-lined baking sheet, skin-side down. Drizzle 2 tsp (4 tsp) oil over top. Roast in the middle of the oven until salmon is cooked through, 7-10 min.",
+      "image_url": "images/cooking_step/step-773588f9.jpg"
+    },
+    {
+      "step": 3,
+      "description": "Meanwhile, cut tomato into 1/2-inch pieces. Roughly chop spinach. Add spinach, tomatoes, yogurt sauce and remaining Dill-Garlic Spice Blend to a large bowl. Drain, then roughly chop olives.",
+      "image_url": "images/cooking_step/step-fd55b1e7.jpg"
+    },
+    {
+      "step": 4,
+      "description": "When orzo is tender, reserve 2 tbsp (4 tbsp) pasta water, then drain orzo well. Add orzo and reserved pasta water to the large bowl with spinach-yogurt sauce mixture. Season with salt, then stir to combine.",
+      "image_url": "images/cooking_step/step-6ca6e29d.jpg"
+    },
+    {
+      "step": 5,
+      "description": "Divide warm orzo salad between plates. Top with olives, then dill-garlic salmon. Sprinkle feta over top.",
+      "image_url": "images/cooking_step/step-73a80acc.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "700 kcal",
+      "fat": "30 g",
+      "saturated_fat": "8 g",
+      "carbohydrate": "70 g",
+      "sugar": "5 g",
+      "dietary_fiber": "6 g",
+      "protein": "40 g",
+      "cholesterol": "95 mg",
+      "sodium": "770 mg",
+      "potassium": "950 mg",
+      "calcium": "175 mg",
+      "iron": "3.75 mg"
+    }
+  },
+  "tags": [
+    "Family Friendly",
+    "Quick",
+    "Low CO2"
+  ],
+  "image_url": "images/dish/saumon-roti-a-laneth-et-a-lail-0625c81c.jpg",
+  "cousine": "Greek",
+  "id_legacy": "roasted-dill-garlic-salmon"
+}

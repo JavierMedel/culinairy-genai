@@ -1,0 +1,156 @@
+{
+  "id": "hearty_bolognese_pasta",
+  "title": "Hearty Bolognese Pasta",
+  "subtitle": "Infused with Fresh Baby Tomatoes",
+  "description": "A creative twist on an Italian classic that delivers a rich, savory sauce with a delightful burst of freshness.",
+  "prep_time": "30 minutes",
+  "cooking_time": "",
+  "total_time": "",
+  "servings": "24",
+  "difficulty": "Medium",
+  "serving_size": "",
+  "calories_per_serving": "970 kcal",
+  "dietary_info": "Contains Wheat, Sulphites, Milk. Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "quantity": "250 g",
+      "allergens": [],
+      "image_url": "images/ingredient/57110772f8b25ebd2e8b462d-edb66b38.png"
+    },
+    {
+      "name": "Spaghetti",
+      "quantity": "170 g",
+      "allergens": [
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/57110771f8b25ebd2e8b460f.png"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "quantity": "1 tbsp",
+      "allergens": [
+        "Sulphites"
+      ],
+      "image_url": "images/ingredient/554a3879fd2cb9ba4f8b456a.png"
+    },
+    {
+      "name": "Zucchini",
+      "quantity": "200 g",
+      "allergens": [],
+      "image_url": "images/ingredient/5553981df8b25e5d0c8b456a.png"
+    },
+    {
+      "name": "Garlic Puree",
+      "quantity": "1 tbsp",
+      "allergens": [],
+      "image_url": "images/ingredient/5e72773fd47b5c0367730d8f-de6c3494.png"
+    },
+    {
+      "name": "Parmesan Cheese, shredded",
+      "quantity": "½ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/57110772f8b25ebd2e8b4625-8ffea243.png"
+    },
+    {
+      "name": "Basil Pesto",
+      "quantity": "¼ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/6009bd1b3d6f696be177e9eb-820ddb98.png"
+    },
+    {
+      "name": "Italian Seasoning",
+      "quantity": "2 tbsp",
+      "allergens": [],
+      "image_url": "images/ingredient/5711077cf8b25ebd2e8b4715-7ab11b87.png"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": "113 g",
+      "allergens": [],
+      "image_url": "images/ingredient/5fd1005e12e3ee2a0630c88e-580817ed.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Unsalted Butter*",
+      "quantity": "1 tbsp",
+      "image_url": "images/ingredient/5bc5064e30006c1a261b4612-4ffc3691.png"
+    },
+    {
+      "name": "Salt*",
+      "quantity": "0.13 tsp",
+      "image_url": "images/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+    },
+    {
+      "name": "Oil*",
+      "quantity": "1 tbsp",
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+    },
+    {
+      "name": "Pepper*",
+      "quantity": "0.13 tsp",
+      "image_url": "images/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Before starting, wash and dry all produce. Add 10 cups water and 2 tsp salt to a large pot (use same for 4 ppl). Cover and bring to a boil over high heat. Meanwhile, halve zucchini lengthwise, then cut into 1/4-inch half-moons. Halve tomatoes.",
+      "image_url": "images/cooking_step/step-c0420b41.jpg"
+    },
+    {
+      "step": 2,
+      "description": "Add spaghetti to the boiling water. Cook uncovered, stirring occasionally, until tender, 10-12 min. Reserve 1/2 cup pasta water (dbl for 4 ppl), then drain.",
+      "image_url": "images/cooking_step/step-ebd8e0be.jpg"
+    },
+    {
+      "step": 3,
+      "description": "Meanwhile, heat a large non-stick pan over medium-high heat. When hot, add 1 tbsp oil (dbl for 4 ppl), then beef, garlic puree and Italian Seasoning. Cook, breaking up beef into smaller pieces, until no pink remains, 4-5 min. Add zucchini. Cook, stirring occasionally, until tender, 3-4 min. Season with salt and pepper.",
+      "image_url": "images/cooking_step/step-9ff63af4.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Add tomatoes, vinegar and 1/4 cup pasta water (dbl for 4 ppl) to beef mixture. (TIP: For a looser consistency, add more pasta water, 1 tbsp at a time!) Cook, stirring occasionally, until sauce thickens, 1-2 min.",
+      "image_url": "images/cooking_step/step-f92a3656.jpg"
+    },
+    {
+      "step": 5,
+      "description": "Add spaghetti, pesto, half the Parmesan and 1 tbsp butter (dbl for 4 ppl) to the pan with sauce. Remove the pan from heat. Toss to coat spaghetti. Season with salt and pepper, to taste.",
+      "image_url": "images/cooking_step/step-42433a26.jpg"
+    },
+    {
+      "step": 6,
+      "description": "Divide Bolognese between bowls. Sprinkle remaining Parmesan over top.",
+      "image_url": "images/cooking_step/step-f0fffd30.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "970 kcal",
+      "fat": "44 g",
+      "saturated_fat": "17 g",
+      "carbohydrate": "78 g",
+      "sugar": "8 g",
+      "dietary_fiber": "8 g",
+      "protein": "49 g",
+      "cholesterol": "90 mg",
+      "sodium": "600 mg",
+      "potassium": "",
+      "calcium": "",
+      "iron": ""
+    }
+  },
+  "tags": [
+    "Pasta",
+    "Italian",
+    "Bolognese"
+  ],
+  "image_url": "images/dish/pates-a-la-bolognaise-aux-legumes-9684d137.jpg",
+  "cousine": "Italian",
+  "id_legacy": "harvest-bolognese-pasta"
+}

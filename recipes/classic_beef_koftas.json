@@ -1,0 +1,215 @@
+{
+  "id": "classic_beef_koftas",
+  "title": "Classic Beef Koftas",
+  "subtitle": "Paired with Vibrant Veggie Hash and Creamy Garlic Hummus",
+  "description": "Experience a bold fusion of spice and texture as savory, aromatic koftas meet a crisp, colorful vegetable hash, all elevated by a silky garlic hummus.",
+  "prep_time": "20 minutes",
+  "cooking_time": "8 minutes",
+  "total_time": "28 minutes",
+  "servings": "4",
+  "difficulty": "Medium",
+  "serving_size": "1 plate",
+  "calories_per_serving": "840 kcal",
+  "dietary_info": "Carb Smart (50 g carbohydrates or less)",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "quantity": "250 g",
+      "allergens": [],
+      "image_url": "images/ingredient/65e5855d1101bf6720606fdc-f89a8727.png"
+    },
+    {
+      "name": "Hummus",
+      "quantity": "4 tbsp",
+      "allergens": [
+        "Sesame",
+        "Mustard",
+        "Sulphites",
+        "Egg",
+        "Crustaceans",
+        "Wheat",
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Milk"
+      ],
+      "image_url": "images/ingredient/6725850ecfb28a28105739dd-44bda02f.png"
+    },
+    {
+      "name": "Carrot",
+      "quantity": "1 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/65e5854e762a70483e9d8ce9-1f167c7d.png"
+    },
+    {
+      "name": "Sweet Bell Pepper",
+      "quantity": "1 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/5c1a8527c445fa1c487319b2-35ee6fcd.png"
+    },
+    {
+      "name": "Parsley",
+      "quantity": "7 g",
+      "allergens": [],
+      "image_url": "images/ingredient/65e58561762a70483e9d8f68-b874122f.png"
+    },
+    {
+      "name": "Dukkah Spice",
+      "quantity": "7 g",
+      "allergens": [
+        "Sesame",
+        "Wheat",
+        "Milk",
+        "Mustard",
+        "Peanuts",
+        "Soy",
+        "Sulphites",
+        "Tree nuts"
+      ],
+      "image_url": "images/ingredient/65f1c52d97477827aca4f245-4c97b2ce.png"
+    },
+    {
+      "name": "Zucchini",
+      "quantity": "1 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/65e5855af5a5196d85e97eca-bc03eec2.png"
+    },
+    {
+      "name": "Garlic, cloves",
+      "quantity": "2 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/65e5856ef5a5196d85e98159-6bc5fc53.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "quantity": "2 tbsp",
+      "allergens": [
+        "Egg",
+        "Mustard",
+        "Crustaceans",
+        "Fish",
+        "Gluten",
+        "Milk",
+        "Sesame",
+        "Soy",
+        "Sulphites",
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/6724fc7ba598974dca32235c-1ea539b0.png"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "quantity": "⅓ cup",
+      "allergens": [
+        "Wheat",
+        "Gluten"
+      ],
+      "image_url": "images/ingredient/667c810c4510917eadbc58d0-20702300.png"
+    },
+    {
+      "name": "Feta Cheese, crumbled",
+      "quantity": "¼ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/57110775f8b25ebd2e8b4677-dec4ab3c.png"
+    },
+    {
+      "name": "Tahini Sauce",
+      "quantity": "2 tbsp",
+      "allergens": [
+        "Sesame",
+        "Soy",
+        "Milk",
+        "Mustard",
+        "Sulphites",
+        "Wheat",
+        "Crustaceans",
+        "Egg",
+        "Fish",
+        "Gluten"
+      ],
+      "image_url": "images/ingredient/6725851bcfb28a2810573a52-9dd949bb.png"
+    },
+    {
+      "name": "Couscous",
+      "quantity": "¼ cup",
+      "allergens": [
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/65ef267a4916f82b1a902798-5b5e8662.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Salt*",
+      "quantity": "0.63 tsp",
+      "image_url": "images/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+    },
+    {
+      "name": "Pepper*",
+      "quantity": "¼ tsp",
+      "image_url": "images/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+    },
+    {
+      "name": "Oil*",
+      "quantity": "2 tbsp",
+      "image_url": "images/ingredient/65e6f87c1101bf672060a1c3-6893ff30.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Before starting, preheat the oven to 450°F. Wash and dry all produce. To a medium pot, add 1/2 cup (1 cup) water and 1/8 tsp (1/4 tsp) salt. Cover and bring to a boil over high heat. Once boiling, remove from heat, then add half the couscous (use all for 4 servings). Stir to combine. Cover and let stand for 5 min. When couscous is tender, fluff with a fork. Meanwhile, halve zucchini lengthwise, then cut into 1/4-inch half-moons. Core, then cut pepper into 1/2-inch pieces. Peel, then cut carrot into 1/2-inch rounds.",
+      "image_url": "images/cooking_step/step-89ac5d00.jpg"
+    },
+    {
+      "step": 2,
+      "description": "Peel, then mince or grate garlic. Roughly chop parsley. To a medium bowl, add beef, Dukkah Spice, panko, half the garlic, half the parsley and 1/4 tsp (1/2 tsp) salt. Season with pepper, then combine. Roll beef mixture into 6 (12) 2-inch logs.",
+      "image_url": "images/cooking_step/step-1d91e710.jpg"
+    },
+    {
+      "step": 3,
+      "description": "On one side of a parchment-lined baking sheet, arrange koftas. On the other side of the baking sheet, add carrots and 1 tbsp (2 tbsp) oil. Season with salt and pepper, then toss to coat. Roast in the middle of the oven for 12-16 min, until carrots are tender and koftas are cooked through.",
+      "image_url": "images/cooking_step/step-02937920.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Meanwhile, heat a large non-stick pan over medium-high. When hot, add 1 tbsp oil, then zucchini and peppers. (NOTE: For 4 servings, cook in 2 batches, using 1 tbsp oil per batch.) Season with salt. Cook for 6-8 min, stirring often, until veggies are tender-crisp.",
+      "image_url": "images/cooking_step/step-ac791f30.jpg"
+    },
+    {
+      "step": 5,
+      "description": "To a small bowl, add hummus, half the tahini sauce (use all for 4 servings), mayo, 2 tsp (4 tsp) water and remaining garlic. Season with salt and pepper, then stir to combine.",
+      "image_url": "images/cooking_step/step-23198440.jpg"
+    },
+    {
+      "step": 6,
+      "description": "Fluff couscous with a fork. Season with salt and pepper. Divide couscous, veggie hash and roasted carrots between plates, then top with beef koftas. Spoon garlic hummus over top. Sprinkle with feta and remaining parsley.",
+      "image_url": "images/cooking_step/step-0d892a50.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "840 kcal",
+      "fat": "54 g",
+      "saturated_fat": "13 g",
+      "carbohydrate": "47 g",
+      "sugar": "12 g",
+      "dietary_fiber": "8 g",
+      "protein": "38 g",
+      "cholesterol": "95 mg",
+      "sodium": "1560 mg",
+      "potassium": "1250 mg",
+      "calcium": "175 mg",
+      "iron": "6 mg"
+    }
+  },
+  "tags": [
+    "Carb Smart",
+    "Quick"
+  ],
+  "image_url": "images/dish/HF_Y24_R1021_W27_CA_RB153453-21_Main_low-58477df1.jpg",
+  "cousine": "Mediterranean",
+  "id_legacy": "carb-smart-beef-koftas"
+}

@@ -1,0 +1,208 @@
+{
+  "id": "cheese_tortellini_mushrooms",
+  "title": "Cheese Tortellini Mushrooms",
+  "subtitle": "Featuring Fresh Spinach and Toasted Pine Nuts",
+  "description": "A luxurious blend of silky pasta and savory mushrooms creates a comforting dish with delightful textures and a burst of flavor, perfect for any weeknight dinner.",
+  "prep_time": "25 minutes",
+  "cooking_time": "6 minutes",
+  "total_time": "31 minutes",
+  "servings": "4",
+  "difficulty": "Medium",
+  "serving_size": "One serving bowl",
+  "calories_per_serving": "830 kcal",
+  "dietary_info": "Veggie; Quick; Low CO2",
+  "ingredients": [
+    {
+      "name": "Cheese Tortellini",
+      "quantity": "350 g",
+      "allergens": [
+        "Egg",
+        "Milk",
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/66f2e47a409e10e806942f8a-b5ad4836.png"
+    },
+    {
+      "name": "Parmesan Cheese, shredded",
+      "quantity": "¼ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/57110772f8b25ebd2e8b4625-8ffea243.png"
+    },
+    {
+      "name": "Pine Nuts",
+      "quantity": "28 g",
+      "allergens": [
+        "Pine nuts",
+        "Tree nuts"
+      ],
+      "image_url": "images/ingredient/66e22f5d8d1d9d64aff1e210-54035f46.png"
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": "56 g",
+      "allergens": [],
+      "image_url": "images/ingredient/65e585591101bf6720606f4b-f54e83c4.png"
+    },
+    {
+      "name": "Mushrooms",
+      "quantity": "113 g",
+      "allergens": [],
+      "image_url": "images/ingredient/65e5853b762a70483e9d8a67-cec2316f.png"
+    },
+    {
+      "name": "Garlic Puree",
+      "quantity": "1 tbsp",
+      "allergens": [
+        "Wheat",
+        "Crustaceans",
+        "Fish",
+        "Mustard",
+        "Gluten",
+        "Sesame",
+        "Sulphites",
+        "Soy",
+        "Milk",
+        "Tree nuts",
+        "Egg"
+      ],
+      "image_url": "images/ingredient/66a7dae372d2a210384ae00c-a0900083.png"
+    },
+    {
+      "name": "Vegetable Stock Powder",
+      "quantity": "1 tbsp",
+      "allergens": [
+        "Soy",
+        "Sulphites",
+        "Wheat",
+        "Mustard",
+        "Sesame",
+        "Tree nuts",
+        "Milk",
+        "Peanuts",
+        "Triticale"
+      ],
+      "image_url": "images/ingredient/66b38a6a1047ce9880458f6b-b9cb0a0f.png"
+    },
+    {
+      "name": "Cream Cheese",
+      "quantity": "2 unit(s)",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/65ef01b4d4f9506890145cdc-50d0b635.png"
+    },
+    {
+      "name": "Cream Sauce Spice Blend",
+      "quantity": "1 tbsp",
+      "allergens": [
+        "Wheat",
+        "Peanuts",
+        "Triticale",
+        "Tree nuts",
+        "Sesame",
+        "Soy",
+        "Milk",
+        "Sulphites",
+        "Mustard"
+      ],
+      "image_url": "images/ingredient/66bb6b0911ecbd46e2d008b3-0d96147f.png"
+    },
+    {
+      "name": "Chives",
+      "quantity": "7 g",
+      "allergens": [],
+      "image_url": "images/ingredient/65e585491101bf6720606d45-a54aef91.png"
+    },
+    {
+      "name": "Lemon-Pepper Seasoning",
+      "quantity": "1 tbsp",
+      "allergens": [
+        "Triticale",
+        "Mustard",
+        "Wheat",
+        "Sesame",
+        "Soy",
+        "Peanuts",
+        "Sulphites",
+        "Milk",
+        "Tree nuts"
+      ],
+      "image_url": "images/ingredient/66b3a0df1047ce98804591ce-e54dc87d.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Unsalted Butter*",
+      "quantity": "2 tbsp",
+      "image_url": "images/ingredient/5bc5064e30006c1a261b4612-4ffc3691.png"
+    },
+    {
+      "name": "Salt*",
+      "quantity": "0.06 tsp",
+      "image_url": "images/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+    },
+    {
+      "name": "Pepper*",
+      "quantity": "0.13 tsp",
+      "image_url": "images/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Add 10 cups water and 2 tsp salt to a large pot (use same for 4 ppl). Cover and bring to a boil over high heat. Add tortellini to the boiling water. Cook, stirring occasionally, until tender, 2-3 min. Reserve 1 1/4 cups (2 1/2 cups) pasta water, then drain tortellini.",
+      "image_url": "images/cooking_step/step-ad4ffb00.jpg"
+    },
+    {
+      "step": 2,
+      "description": "Meanwhile, heat a large non-stick pan over medium heat. While the pan heats, thinly slice mushrooms. Thinly slice chives.",
+      "image_url": "images/cooking_step/step-4bceb110.jpg"
+    },
+    {
+      "step": 3,
+      "description": "When the pan is hot, add pine nuts to the dry pan. Toast, stirring often, until golden-brown, 4-5 min. (TIP: Keep your eye on pine nuts so they don't burn.) Transfer toasted pine nuts to a plate.",
+      "image_url": "images/cooking_step/step-291eb820.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Reheat the same pan over medium-high. When the pan is hot, add 2 tbsp (4 tbsp) butter, then swirl until melted. Add mushrooms. Cook, stirring occasionally, until golden-brown, 4-5 min. Season with pepper. Add Cream Sauce Spice Blend and garlic puree. Cook, stirring often, until mushrooms are coated and garlic is fragrant, 30 sec.",
+      "image_url": "images/cooking_step/step-ae3a6e30.jpg"
+    },
+    {
+      "step": 5,
+      "description": "Add 1 cup (2 cups) reserved pasta water, stock powder, Lemon Pepper Seasoning and cream cheese to the pan with mushrooms. Cook, stirring often, until sauce is smooth and comes to a simmer. Once simmering, add tortellini and half the Parmesan. Cook, stirring gently, until sauce thickens slightly, 1-2 min. (TIP: If sauce reduces too much, add remaining pasta water to loosen.) Add spinach. Cook, stirring gently, until spinach wilts, 1-2 min. Season with pepper, to taste. Remove the pan from heat.",
+      "image_url": "images/cooking_step/step-51f5a140.jpg"
+    },
+    {
+      "step": 6,
+      "description": "Divide tortellini between bowls. Sprinkle pine nuts, chives and remaining Parmesan over top.",
+      "image_url": "images/cooking_step/step-21960150.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "830 kcal",
+      "fat": "35 g",
+      "saturated_fat": "15 g",
+      "carbohydrate": "103 g",
+      "sugar": "9 g",
+      "dietary_fiber": "6 g",
+      "protein": "30 g",
+      "cholesterol": "110 mg",
+      "sodium": "2080 mg",
+      "potassium": "900 mg",
+      "calcium": "300 mg",
+      "iron": "4 mg"
+    }
+  },
+  "tags": [
+    "Veggie",
+    "Quick",
+    "Low CO2"
+  ],
+  "image_url": "images/dish/HF220615_R1004_W31_CA_RV153200-1_KB_Main_low_remove_lemons-1cc89651.jpg",
+  "cousine": "Italian",
+  "id_legacy": "creamy-cheese-tortellini-and-mushrooms"
+}

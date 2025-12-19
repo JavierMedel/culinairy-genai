@@ -1,0 +1,172 @@
+{
+  "id": "chicken_chive_sauce",
+  "title": "Chicken Chive Sauce",
+  "subtitle": "Served with parmesan potatoes and crisp greens",
+  "description": "Tender chicken meets a velvety herb sauce, enhanced by savory potatoes and fresh greens for a well-balanced dinner.",
+  "prep_time": "35 minutes",
+  "cooking_time": "",
+  "total_time": "Approximately 60 minutes",
+  "servings": "24",
+  "difficulty": "Medium",
+  "serving_size": "",
+  "calories_per_serving": "780 kcal",
+  "dietary_info": "Contains Milk and Wheat. Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+  "ingredients": [
+    {
+      "name": "Chicken Leg (Boneless)",
+      "quantity": "310 g",
+      "allergens": [],
+      "image_url": "images/ingredient/5c09a079c445fa4f346f04e2-95bf7003.png"
+    },
+    {
+      "name": "Russet Potato",
+      "quantity": "460 g",
+      "allergens": [],
+      "image_url": "images/ingredient/5711077df8b25ebd2e8b471b-b10a7316.png"
+    },
+    {
+      "name": "Zucchini",
+      "quantity": "200 g",
+      "allergens": [],
+      "image_url": "images/ingredient/5553981df8b25e5d0c8b456a.png"
+    },
+    {
+      "name": "Green Beans",
+      "quantity": "170 g",
+      "allergens": [],
+      "image_url": "images/ingredient/5bb60dceae08b5034f101102-9246563a.png"
+    },
+    {
+      "name": "Sour Cream",
+      "quantity": "6 tbsp",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/5550e1064dab71893e8b4569.png"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "quantity": "1 tbsp",
+      "allergens": [
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b46a8-cd52fdfe.png"
+    },
+    {
+      "name": "Chives",
+      "quantity": "7 g",
+      "allergens": [],
+      "image_url": "images/ingredient/5550d6864dab71e7118b4569.png"
+    },
+    {
+      "name": "Shallot",
+      "quantity": "50 g",
+      "allergens": [],
+      "image_url": "images/ingredient/554a3dfbf8b25e1d268b456f.png"
+    },
+    {
+      "name": "Garlic Salt",
+      "quantity": "1 tsp",
+      "allergens": [],
+      "image_url": "images/ingredient/57d30976d804b5661c8b4568-b3884a9e.png"
+    },
+    {
+      "name": "Chicken Broth Concentrate",
+      "quantity": "1 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/5755e5e9f8b25e45148b4567-d6ad65dc.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "quantity": "¼ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/5bbe2b9d30006c27504fa002-34f15c81.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Milk*",
+      "quantity": "½ cup",
+      "image_url": "images/ingredient/57c06c6892eec975218b4569-ffca2aa9.png"
+    },
+    {
+      "name": "Unsalted Butter*",
+      "quantity": "1 tbsp",
+      "image_url": "images/ingredient/5bc5064e30006c1a261b4612-4ffc3691.png"
+    },
+    {
+      "name": "Oil*",
+      "quantity": "2 tbsp",
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+    },
+    {
+      "name": "Salt and Pepper*",
+      "quantity": "0.13 tsp",
+      "image_url": "images/ingredient/5995dab2c28800013e48e192-94c68656.png"
+    },
+    {
+      "name": "Salt*",
+      "quantity": "¼ tsp",
+      "image_url": "images/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Before starting, preheat the oven to 450°F. Wash and dry all produce. Cut potatoes into 1/2-inch thick wedges. Toss potatoes with 1 tbsp oil (dbl for 4 ppl) and half the garlic salt on a baking sheet. Season with pepper. Roast in the middle of the oven, until golden brown, 22-24 min. (NOTE: For 4 ppl, use 2 baking sheets, with 1 tbsp oil per sheet. Roast in the middle and bottom of the oven, rotating sheets halfway through cooking.)",
+      "image_url": "images/cooking_step/step-c5f0e043.jpg"
+    },
+    {
+      "step": 2,
+      "description": "While potatoes roast, trim green beans. Cut zucchini into 1/4-inch rounds. Peel, then finely chop shallot. Thinly slice chives. Pat chicken dry with paper towels, then sprinkle with remaining garlic salt. Season with pepper. Combine zucchini and 1/4 tsp salt (dbl for 4 ppl) in a medium bowl. Set aside.",
+      "image_url": "images/cooking_step/step-6492bd8a.jpg"
+    },
+    {
+      "step": 3,
+      "description": "Heat a large non-stick pan over medium-high heat. When hot, add 1/2 tbsp oil (dbl for 4 ppl), then chicken. Cook, until golden-brown, 1-2 min per side. Transfer to another baking sheet. Bake, in the top of the oven, until chicken is cooked through, 10-12 min.**",
+      "image_url": "images/cooking_step/step-70446857.jpg"
+    },
+    {
+      "step": 4,
+      "description": "While the chicken cooks, heat the same pan over medium-high heat. When hot, add 1/2 tbsp oil (dbl for 4 ppl), then green beans and zucchini. Cook, stirring occasionally, until tender-crisp, 4-5 min. Season with pepper. Remove pan from the heat, then transfer veggies to a plate. Cover to keep warm.",
+      "image_url": "images/cooking_step/step-6b1d5640.jpg"
+    },
+    {
+      "step": 5,
+      "description": "Heat the same pan over medium heat. When hot, add 1 tbsp butter (dbl for 4 ppl), then shallots. Cook, stirring often, until softened, 2-3 min. Sprinkle flour over shallots. Cook, stirring often, until coated, 1-2 min. Add 1/2 cup milk (dbl for 4 ppl) and broth concentrate. Cook, stirring often, until sauce thickens slightly, 2-3 min. Remove pan from the heat, then stir in sour cream and half the chives. Season with salt and pepper.",
+      "image_url": "images/cooking_step/step-80e1b7d4.jpg"
+    },
+    {
+      "step": 6,
+      "description": "When potatoes are done, sprinkle with Parmesan. Thinly slice chicken. Divide chicken, potatoes and veggies between plates. Spoon chive sauce over chicken and sprinkle with remaining chives.",
+      "image_url": "images/cooking_step/step-2b6ef796.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "780 kcal",
+      "fat": "38 g",
+      "saturated_fat": "14 g",
+      "carbohydrate": "65 g",
+      "sugar": "14 g",
+      "dietary_fiber": "7 g",
+      "protein": "48 g",
+      "cholesterol": "200 mg",
+      "sodium": "1790 mg",
+      "potassium": "",
+      "calcium": "",
+      "iron": ""
+    }
+  },
+  "tags": [
+    "Chicken",
+    "Creamy",
+    "Chive",
+    "Comfort Food"
+  ],
+  "image_url": "images/dish/poulet-dans-une-sauce-cremeuse-a-la-ciboulette-4da5212f.jpg",
+  "cousine": "Canadian",
+  "id_legacy": "chicken-and-creamy-chive-sauce"
+}

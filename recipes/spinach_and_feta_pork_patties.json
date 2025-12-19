@@ -1,0 +1,169 @@
+{
+  "id": "spinach_and_feta_pork_patties",
+  "title": "Spinach and Feta Pork Patties",
+  "subtitle": "Bright, tangy tomato and pepper salad",
+  "description": "Experience a vibrant fusion of Greek-inspired zest with robust garlic and a satisfying protein-packed texture.",
+  "prep_time": "20 minutes",
+  "cooking_time": "10 minutes",
+  "total_time": "30 minutes",
+  "servings": "24",
+  "difficulty": "Medium",
+  "serving_size": "1 patty with salad",
+  "calories_per_serving": "550 kcal",
+  "dietary_info": "Carb Smart. Contains allergens: Barley, Milk, Oats, Rye, Sesame, Soy, Wheat. May contain traces: Egg, Sesame, Soy, Sulphites, Tree nuts, Wheat, Milk, Mustard, Peanuts.",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "quantity": "250 g",
+      "allergens": [],
+      "image_url": "images/ingredient/65e58558762a70483e9d8e1d-a14563dc.png"
+    },
+    {
+      "name": "Italian Breadcrumbs",
+      "quantity": "4 tbsp",
+      "allergens": [
+        "Barley",
+        "Milk",
+        "Oats",
+        "Rye",
+        "Sesame",
+        "Soy",
+        "Wheat",
+        "Egg"
+      ],
+      "image_url": "images/ingredient/65ef1c4ed4f9506890146542-22a4ff7c.png"
+    },
+    {
+      "name": "Sweet Bell Pepper",
+      "quantity": "1 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/5c1a8527c445fa1c487319b2-35ee6fcd.png"
+    },
+    {
+      "name": "Baby Tomatoes",
+      "quantity": "113 g",
+      "allergens": [],
+      "image_url": "images/ingredient/5fd1005e12e3ee2a0630c88e-580817ed.png"
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": "56 g",
+      "allergens": [],
+      "image_url": "images/ingredient/65e585591101bf6720606f4b-f54e83c4.png"
+    },
+    {
+      "name": "Feta Cheese, crumbled",
+      "quantity": "½ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/57110775f8b25ebd2e8b4677-dec4ab3c.png"
+    },
+    {
+      "name": "Lemon-Pepper Seasoning",
+      "quantity": "1 tbsp",
+      "allergens": [
+        "Sesame",
+        "Soy",
+        "Sulphites",
+        "Tree nuts",
+        "Wheat",
+        "Milk",
+        "Mustard",
+        "Peanuts"
+      ],
+      "image_url": "images/ingredient/65ef1c4ed4f950689014653f-3dc8cb72.png"
+    },
+    {
+      "name": "Garlic, cloves",
+      "quantity": "1 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/65e5856ef5a5196d85e98159-6bc5fc53.png"
+    },
+    {
+      "name": "Lemon",
+      "quantity": "1 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/65e585631101bf6720607070-36b864f4.png"
+    },
+    {
+      "name": "Spring Mix",
+      "quantity": "56 g",
+      "allergens": [],
+      "image_url": "images/ingredient/5711077ff8b25ebd2e8b4742-b1456bec.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Salt*",
+      "quantity": "0.06 tsp",
+      "image_url": "images/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+    },
+    {
+      "name": "Oil*",
+      "quantity": "1.5 tbsp",
+      "image_url": "images/ingredient/65e6f87c1101bf672060a1c3-6893ff30.png"
+    },
+    {
+      "name": "Pepper*",
+      "quantity": "0.06 tsp",
+      "image_url": "images/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Finely chop spinach. Heat a large non-stick pan over medium heat. When hot, add spinach to the dry pan. Cook, stirring often, until wilted. Transfer to a paper towel-lined plate to cool slightly.",
+      "image_url": "images/cooking_step/step-aaba6d00.jpg"
+    },
+    {
+      "step": 2,
+      "description": "While spinach cools, core, then cut pepper into 1/4-inch slices. Halve tomatoes. Zest, then juice half the lemon (whole lemon for 4 ppl). Cut any remaining lemon into wedges. Peel, then mince or grate garlic.",
+      "image_url": "images/cooking_step/step-600b2b10.jpg"
+    },
+    {
+      "step": 3,
+      "description": "Add breadcrumbs, cooked spinach, Lemon-Pepper Seasoning, lemon zest, garlic and half the feta to a medium bowl. Add pork, then combine. (TIP: If you prefer more tender patties, add an egg to mixture.) Form mixture into eight 2-inch-wide patties (16 patties for 4 ppl).",
+      "image_url": "images/cooking_step/step-2b7fdc20.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Reheat the same pan (from step 1) over medium. When the pan is hot, add 1/2 tbsp oil, then patties. (NOTE: For 4 ppl, cook patties in 2 batches, using 1/2 tbsp oil per batch.) Pan-fry until cooked through, 3-4 min per side. Transfer to a plate, then cover to keep warm.",
+      "image_url": "images/cooking_step/step-5c082c30.jpg"
+    },
+    {
+      "step": 5,
+      "description": "Meanwhile, add lemon juice and 1 tbsp (2 tbsp) oil to a large bowl. Season with salt and pepper, then whisk to combine. Add tomatoes, peppers, spring mix and remaining feta, then toss to combine.",
+      "image_url": "images/cooking_step/step-37949840.jpg"
+    },
+    {
+      "step": 6,
+      "description": "Divide pork patties and lemony tomato-pepper salad between plates. Squeeze a lemon wedge over top, if desired.",
+      "image_url": "images/cooking_step/step-84689d50.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "550 kcal",
+      "fat": "37 g",
+      "saturated_fat": "13 g",
+      "carbohydrate": "23 g",
+      "sugar": "7 g",
+      "dietary_fiber": "5 g",
+      "protein": "33 g",
+      "cholesterol": "105 mg",
+      "sodium": "970 mg",
+      "potassium": "950 mg",
+      "calcium": "200 mg",
+      "iron": "4 mg"
+    }
+  },
+  "tags": [
+    "BBQ Contest",
+    "Carb Smart",
+    "Quick"
+  ],
+  "image_url": "images/dish/HF_Y24_R1019_W23_CA_RP154143-15_Main_low-9cb9f819.jpg",
+  "cousine": "Greek",
+  "id_legacy": "carb-smart-spinach-feta-pork-patties"
+}

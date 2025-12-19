@@ -1,0 +1,194 @@
+{
+  "id": "beef_roasted_pepper_ragu",
+  "title": "Beef Roasted Pepper Ragu",
+  "subtitle": "Tender beef with vibrant roasted peppers",
+  "description": "A rich, savory ragu featuring tender beef and roasted red peppers, infused with herbs and garlic for an irresistible twist.",
+  "prep_time": "25 minutes",
+  "cooking_time": "8 minutes",
+  "total_time": "33 minutes",
+  "servings": "2",
+  "difficulty": "Medium",
+  "serving_size": "1 plate",
+  "calories_per_serving": "770 kcal",
+  "dietary_info": "Contains sulphites, wheat, milk; produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "quantity": "250 g",
+      "allergens": [],
+      "image_url": "images/ingredient/65e5855d1101bf6720606fdc-f89a8727.png"
+    },
+    {
+      "name": "Sweet Bell Pepper",
+      "quantity": "1 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/5c1a8527c445fa1c487319b2-35ee6fcd.png"
+    },
+    {
+      "name": "Italian Seasoning",
+      "quantity": "4.3 g",
+      "allergens": [
+        "Sulphites",
+        "Milk",
+        "Mustard",
+        "Tree nuts",
+        "Peanuts",
+        "Sesame",
+        "Soy",
+        "Triticale",
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/675856748e49d3d7ba0b4528-376ddc50.png"
+    },
+    {
+      "name": "Crushed Tomatoes with Garlic and Onion",
+      "quantity": "1 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/5a972e97ae08b50985677592-2726edc5.png"
+    },
+    {
+      "name": "Spaghetti",
+      "quantity": "170 g",
+      "allergens": [
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/65ef1e0d4916f82b1a902316-e2208f6b.png"
+    },
+    {
+      "name": "Parmesan Cheese, shredded",
+      "quantity": "¼ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/57110772f8b25ebd2e8b4625-8ffea243.png"
+    },
+    {
+      "name": "Chili Flakes",
+      "quantity": "4 g",
+      "allergens": [
+        "Sulphites",
+        "Tree nuts",
+        "Mustard",
+        "Soy",
+        "Milk",
+        "Sesame",
+        "Triticale",
+        "Wheat",
+        "Peanuts"
+      ],
+      "image_url": "images/ingredient/66b387201047ce9880458ebc-bc66ac76.png"
+    },
+    {
+      "name": "Beef Broth Concentrate",
+      "quantity": "1 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b46a4-4424c626.png"
+    },
+    {
+      "name": "Tomato Sauce Base",
+      "quantity": "2 tbsp",
+      "allergens": [
+        "Mustard",
+        "Milk",
+        "Tree nuts",
+        "Fish",
+        "Egg",
+        "Sesame",
+        "Crustaceans",
+        "Gluten",
+        "Sulphites",
+        "Soy",
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/66a7defd296f17bc1e121b9e-5102e5d3.png"
+    },
+    {
+      "name": "Garlic Salt",
+      "quantity": "2 g",
+      "allergens": [
+        "Milk",
+        "Sulphites",
+        "Wheat",
+        "Tree nuts",
+        "Triticale",
+        "Mustard",
+        "Soy",
+        "Sesame",
+        "Peanuts"
+      ],
+      "image_url": "images/ingredient/66b388e96d92980d0360c946-62a53812.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Salt*",
+      "quantity": "0.13 tsp",
+      "image_url": "images/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+    },
+    {
+      "name": "Sugar*",
+      "quantity": "¼ tsp",
+      "image_url": "images/ingredient/65e6f8861101bf672060a1db-e29767a1.png"
+    },
+    {
+      "name": "Oil*",
+      "quantity": "½ tbsp",
+      "image_url": "images/ingredient/65e6f87c1101bf672060a1c3-6893ff30.png"
+    },
+    {
+      "name": "Pepper*",
+      "quantity": "¼ tsp",
+      "image_url": "images/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Add 10 cups water and 2 tsp salt to a large pot (use same for 4 ppl). Cover and bring to a boil over high heat. Add spaghetti to the boiling water. Cook uncovered, stirring occasionally, until tender, 10-12 min. Drain and return spaghetti to the same pot, off heat.",
+      "image_url": "images/cooking_step/step-99fd3700.jpg"
+    },
+    {
+      "step": 2,
+      "description": "Meanwhile, core, then cut pepper into 1/2-inch pieces. Add peppers and 1/2 tbsp (1 tbsp) oil to an unlined baking sheet. Season with salt and pepper, then toss to combine. Roast in the middle of the oven, stirring halfway through, until tender, 14-15 min.",
+      "image_url": "images/cooking_step/step-78af0610.jpg"
+    },
+    {
+      "step": 3,
+      "description": "Meanwhile, heat a large non-stick pan over medium-high heat. When hot, add beef to the dry pan. Cook, breaking up beef into smaller pieces, until no pink remains, 4-5 min. Carefully drain and discard excess fat. Season with 1/4 tsp (1/2 tsp) garlic salt and pepper.",
+      "image_url": "images/cooking_step/step-a657f320.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Add tomato sauce base and Italian Seasoning to the pan. Cook, stirring often, until fragrant, 1 min. Add crushed tomatoes, broth concentrate and 1/4 tsp (1/2 tsp) sugar. Reduce heat to medium-low. Add roasted peppers. Cook, stirring occasionally, until sauce thickens slightly, 5-6 min. Season with 1/4 tsp (1/2 tsp) garlic salt and pepper.",
+      "image_url": "images/cooking_step/step-f401b730.jpg"
+    },
+    {
+      "step": 5,
+      "description": "Add sauce to the pot with spaghetti. Season with salt and pepper, then toss to coat. Divide roasted red pepper beef ragu and spaghetti between plates. Sprinkle Parmesan over top. Sprinkle with chili flakes, if desired.",
+      "image_url": "images/cooking_step/step-b57b6140.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "770 kcal",
+      "fat": "26 g",
+      "saturated_fat": "10 g",
+      "carbohydrate": "93 g",
+      "sugar": "17 g",
+      "dietary_fiber": "9 g",
+      "protein": "43 g",
+      "cholesterol": "85 mg",
+      "sodium": "1240 mg",
+      "potassium": "1550 mg",
+      "calcium": "250 mg",
+      "iron": "7.5 mg"
+    }
+  },
+  "tags": [
+    "Quick",
+    "Bestseller"
+  ],
+  "image_url": "images/dish/HF_Y23_R1014_W51_CA_RB152035-16_Main__1low-4fbbd833.jpg",
+  "cousine": "Italian",
+  "id_legacy": "beef-and-roasted-red-pepper-ragu"
+}

@@ -1,0 +1,3774 @@
+{
+  "recipes": [
+    {
+      "id": "beef_roasted_pepper_ragu",
+      "title": "Beef Roasted Pepper Ragu",
+      "subtitle": "Tender beef with vibrant roasted peppers",
+      "description": "A rich, savory ragu featuring tender beef and roasted red peppers, infused with herbs and garlic for an irresistible twist.",
+      "prep_time": "25 minutes",
+      "cooking_time": "8 minutes",
+      "total_time": "33 minutes",
+      "servings": "2",
+      "difficulty": "Medium",
+      "serving_size": "1 plate",
+      "calories_per_serving": "770 kcal",
+      "dietary_info": "Contains sulphites, wheat, milk; produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": "250 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e5855d1101bf6720606fdc-f89a8727.png"
+        },
+        {
+          "name": "Sweet Bell Pepper",
+          "quantity": "1 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5c1a8527c445fa1c487319b2-35ee6fcd.png"
+        },
+        {
+          "name": "Italian Seasoning",
+          "quantity": "4.3 g",
+          "allergens": [
+            "Sulphites",
+            "Milk",
+            "Mustard",
+            "Tree nuts",
+            "Peanuts",
+            "Sesame",
+            "Soy",
+            "Triticale",
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/675856748e49d3d7ba0b4528-376ddc50.png"
+        },
+        {
+          "name": "Crushed Tomatoes with Garlic and Onion",
+          "quantity": "1 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5a972e97ae08b50985677592-2726edc5.png"
+        },
+        {
+          "name": "Spaghetti",
+          "quantity": "170 g",
+          "allergens": [
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65ef1e0d4916f82b1a902316-e2208f6b.png"
+        },
+        {
+          "name": "Parmesan Cheese, shredded",
+          "quantity": "\u00bc cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110772f8b25ebd2e8b4625-8ffea243.png"
+        },
+        {
+          "name": "Chili Flakes",
+          "quantity": "4 g",
+          "allergens": [
+            "Sulphites",
+            "Tree nuts",
+            "Mustard",
+            "Soy",
+            "Milk",
+            "Sesame",
+            "Triticale",
+            "Wheat",
+            "Peanuts"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66b387201047ce9880458ebc-bc66ac76.png"
+        },
+        {
+          "name": "Beef Broth Concentrate",
+          "quantity": "1 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b46a4-4424c626.png"
+        },
+        {
+          "name": "Tomato Sauce Base",
+          "quantity": "2 tbsp",
+          "allergens": [
+            "Mustard",
+            "Milk",
+            "Tree nuts",
+            "Fish",
+            "Egg",
+            "Sesame",
+            "Crustaceans",
+            "Gluten",
+            "Sulphites",
+            "Soy",
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66a7defd296f17bc1e121b9e-5102e5d3.png"
+        },
+        {
+          "name": "Garlic Salt",
+          "quantity": "2 g",
+          "allergens": [
+            "Milk",
+            "Sulphites",
+            "Wheat",
+            "Tree nuts",
+            "Triticale",
+            "Mustard",
+            "Soy",
+            "Sesame",
+            "Peanuts"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66b388e96d92980d0360c946-62a53812.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Salt*",
+          "quantity": "0.13 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+        },
+        {
+          "name": "Sugar*",
+          "quantity": "\u00bc tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e6f8861101bf672060a1db-e29767a1.png"
+        },
+        {
+          "name": "Oil*",
+          "quantity": "\u00bd tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e6f87c1101bf672060a1c3-6893ff30.png"
+        },
+        {
+          "name": "Pepper*",
+          "quantity": "\u00bc tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Add 10 cups water and 2 tsp salt to a large pot (use same for 4 ppl). Cover and bring to a boil over high heat. Add spaghetti to the boiling water. Cook uncovered, stirring occasionally, until tender, 10-12 min. Drain and return spaghetti to the same pot, off heat.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/673ca0be410266f3b3acdba8/step-99fd3700.jpg"
+        },
+        {
+          "step": 2,
+          "description": "Meanwhile, core, then cut pepper into 1/2-inch pieces. Add peppers and 1/2 tbsp (1 tbsp) oil to an unlined baking sheet. Season with salt and pepper, then toss to combine. Roast in the middle of the oven, stirring halfway through, until tender, 14-15 min.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/673ca0be410266f3b3acdba8/step-78af0610.jpg"
+        },
+        {
+          "step": 3,
+          "description": "Meanwhile, heat a large non-stick pan over medium-high heat. When hot, add beef to the dry pan. Cook, breaking up beef into smaller pieces, until no pink remains, 4-5 min. Carefully drain and discard excess fat. Season with 1/4 tsp (1/2 tsp) garlic salt and pepper.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/673ca0be410266f3b3acdba8/step-a657f320.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Add tomato sauce base and Italian Seasoning to the pan. Cook, stirring often, until fragrant, 1 min. Add crushed tomatoes, broth concentrate and 1/4 tsp (1/2 tsp) sugar. Reduce heat to medium-low. Add roasted peppers. Cook, stirring occasionally, until sauce thickens slightly, 5-6 min. Season with 1/4 tsp (1/2 tsp) garlic salt and pepper.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/673ca0be410266f3b3acdba8/step-f401b730.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Add sauce to the pot with spaghetti. Season with salt and pepper, then toss to coat. Divide roasted red pepper beef ragu and spaghetti between plates. Sprinkle Parmesan over top. Sprinkle with chili flakes, if desired.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/673ca0be410266f3b3acdba8/step-b57b6140.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "770 kcal",
+          "fat": "26 g",
+          "saturated_fat": "10 g",
+          "carbohydrate": "93 g",
+          "sugar": "17 g",
+          "dietary_fiber": "9 g",
+          "protein": "43 g",
+          "cholesterol": "85 mg",
+          "sodium": "1240 mg",
+          "potassium": "1550 mg",
+          "calcium": "250 mg",
+          "iron": "7.5 mg"
+        }
+      },
+      "tags": [
+        "Quick",
+        "Bestseller"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y23_R1014_W51_CA_RB152035-16_Main__1low-4fbbd833.jpg",
+      "cousine": "Italian",
+      "id_legacy": "beef-and-roasted-red-pepper-ragu"
+    },
+    {
+      "id": "tex-mex_beef_bowl",
+      "title": "Tex-Mex Beef Bowl",
+      "subtitle": "Smoky charred corn, zesty slaw, and cooling crema",
+      "description": "Experience a blend of smoky, crisp textures and creamy notes that deliver a perfectly balanced, vibrant meal.",
+      "prep_time": "25 minutes",
+      "cooking_time": "5 minutes",
+      "total_time": "30 minutes",
+      "servings": "1",
+      "difficulty": "Medium",
+      "serving_size": "246 g",
+      "calories_per_serving": "680 kcal",
+      "dietary_info": "Calorie Smart; Contains Milk, Mustard, Sulphites; may contain traces of Gluten, Fish, Sesame, Egg, Crustaceans, Wheat, Soy",
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": "250 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e5855d1101bf6720606fdc-f89a8727.png"
+        },
+        {
+          "name": "Tex-Mex Paste",
+          "quantity": "1 tbsp",
+          "allergens": [
+            "Mustard",
+            "Gluten",
+            "Fish",
+            "Sesame",
+            "Egg",
+            "Crustaceans",
+            "Milk",
+            "Wheat",
+            "Sulphites",
+            "Soy"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/67250acea598974dca3223f1-94912c07.png"
+        },
+        {
+          "name": "Mexican Seasoning",
+          "quantity": "8 g",
+          "allergens": [
+            "Sesame",
+            "Triticale",
+            "Peanuts",
+            "Tree nuts",
+            "Wheat",
+            "Mustard",
+            "Sulphites",
+            "Milk",
+            "Soy"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66b386636d92980d0360c91d-c6cbf68d.png"
+        },
+        {
+          "name": "Corn Kernels",
+          "quantity": "113 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e58541f5a5196d85e97b7b-22a7cc61.png"
+        },
+        {
+          "name": "Red Cabbage, shredded",
+          "quantity": "56 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e585411101bf6720606c04-28e5305e.jpg"
+        },
+        {
+          "name": "White Wine Vinegar",
+          "quantity": "1 tbsp",
+          "allergens": [
+            "Sulphites",
+            "Egg",
+            "Fish",
+            "Milk",
+            "Mustard",
+            "Sesame",
+            "Soy",
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/6687cdb41839b5db2281dd73-8dd0509b.png"
+        },
+        {
+          "name": "Green Onion",
+          "quantity": "1 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e585561101bf6720606ef2-1ff5c4d7.png"
+        },
+        {
+          "name": "Feta Cheese, crumbled",
+          "quantity": "\u00bc cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110775f8b25ebd2e8b4677-dec4ab3c.png"
+        },
+        {
+          "name": "Sour Cream",
+          "quantity": "1 unit(s)",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e5853f1101bf6720606bc3-4d005f30.png"
+        },
+        {
+          "name": "Wild Rice Medley",
+          "quantity": "\u00bd cup",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/6113d3a5439a9e6824084664-b5871440.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Oil*",
+          "quantity": "3.5 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+        },
+        {
+          "name": "Pepper*",
+          "quantity": "0.13 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+        },
+        {
+          "name": "Salt*",
+          "quantity": "0.38 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Before starting, wash and dry all produce. Using a strainer, rinse rice until water runs clear. In a medium pot, stir together wild rice medley, 1 cup (2 cups) water and 1/4 tsp (1/2 tsp) salt. Bring to a boil over high heat. Once boiling, reduce heat to medium-low. Cover and cook for 20-22 min, until rice is tender and liquid is absorbed. Remove from heat. Set aside, still covered.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6756600999d409f3ec8a2562/step-67ab5300.jpg"
+        },
+        {
+          "step": 2,
+          "description": "Meanwhile, thinly slice green onion. To a medium bowl, add 2 tsp (4 tsp) vinegar and 2 tsp (4 tsp) oil. (TIP: Add 1/4 tsp [1/2 tsp] sugar, if desired.) Season with salt and pepper, then whisk until combined. Add cabbage, then toss to combine.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6756600999d409f3ec8a2562/step-1d068d10.jpg"
+        },
+        {
+          "step": 3,
+          "description": "Meanwhile, heat a large non-stick pan over medium-high. While the pan heats, pat corn dry with paper towels. When hot, add corn to the dry pan. Cook for 5 min, stirring occasionally, until dark brown in spots. Add half the Mexican Seasoning. Cook for 15 sec., stirring often, until fragrant. Transfer corn to the medium bowl with slaw, then toss to combine. Carefully wipe the pan clean.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6756600999d409f3ec8a2562/step-db7fb120.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Return the same pan to medium-high. When the pan is hot, add 1/2 tbsp (1 tbsp) oil, then beef. Cook for 4-5 min, breaking up beef into smaller pieces, until no pink remains. Add Tex-Mex paste, remaining Mexican Seasoning and 2 tbsp (4 tbsp) water. Cook for 30 sec.-1 min, stirring often, until fragrant and no longer watery. Season with pepper.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6756600999d409f3ec8a2562/step-9da57830.jpg"
+        },
+        {
+          "step": 5,
+          "description": "To a small bowl, add sour cream, remaining vinegar and 1 tsp (2 tsp) water. Season with salt and pepper, then stir to combine.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6756600999d409f3ec8a2562/step-42fdc540.jpg"
+        },
+        {
+          "step": 6,
+          "description": "Add half the green onions to the pot with wild rice medley, then fluff with a fork. Divide wild rice medley between bowls. Top with slaw and beef. Sprinkle feta and remaining green onions over top. Dollop crema over bowls.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6756600999d409f3ec8a2562/step-65d92450.jpg"
+        },
+        {
+          "step": 7,
+          "description": "If you've opted to get beef, cook in the same way the recipe instructs you to cook the turkey.",
+          "image_url": "https://img.hellofresh.com/w_3840,q_auto,f_auto,c_limit,fl_lossy/hellofresh_website/landing-pages/Pages/menu-top.png"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "680 kcal",
+          "fat": "34 g",
+          "saturated_fat": "12 g",
+          "carbohydrate": "60 g",
+          "sugar": "7 g",
+          "dietary_fiber": "4 g",
+          "protein": "35 g",
+          "cholesterol": "95 mg",
+          "sodium": "1310 mg",
+          "potassium": "950 mg",
+          "calcium": "150 mg",
+          "iron": "4 mg"
+        }
+      },
+      "tags": [
+        "Quick",
+        "Calorie Smart"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y23_R1027_W29_CA_RT157675-1_Main_low-789505be.jpg",
+      "cousine": "Tex-Mex",
+      "id_legacy": "cal-smart-tex-mex-beef-bowls"
+    },
+    {
+      "id": "classic_beef_koftas",
+      "title": "Classic Beef Koftas",
+      "subtitle": "Paired with Vibrant Veggie Hash and Creamy Garlic Hummus",
+      "description": "Experience a bold fusion of spice and texture as savory, aromatic koftas meet a crisp, colorful vegetable hash, all elevated by a silky garlic hummus.",
+      "prep_time": "20 minutes",
+      "cooking_time": "8 minutes",
+      "total_time": "28 minutes",
+      "servings": "4",
+      "difficulty": "Medium",
+      "serving_size": "1 plate",
+      "calories_per_serving": "840 kcal",
+      "dietary_info": "Carb Smart (50 g carbohydrates or less)",
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": "250 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e5855d1101bf6720606fdc-f89a8727.png"
+        },
+        {
+          "name": "Hummus",
+          "quantity": "4 tbsp",
+          "allergens": [
+            "Sesame",
+            "Mustard",
+            "Sulphites",
+            "Egg",
+            "Crustaceans",
+            "Wheat",
+            "Gluten",
+            "Soy",
+            "Fish",
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/6725850ecfb28a28105739dd-44bda02f.png"
+        },
+        {
+          "name": "Carrot",
+          "quantity": "1 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e5854e762a70483e9d8ce9-1f167c7d.png"
+        },
+        {
+          "name": "Sweet Bell Pepper",
+          "quantity": "1 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5c1a8527c445fa1c487319b2-35ee6fcd.png"
+        },
+        {
+          "name": "Parsley",
+          "quantity": "7 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e58561762a70483e9d8f68-b874122f.png"
+        },
+        {
+          "name": "Dukkah Spice",
+          "quantity": "7 g",
+          "allergens": [
+            "Sesame",
+            "Wheat",
+            "Milk",
+            "Mustard",
+            "Peanuts",
+            "Soy",
+            "Sulphites",
+            "Tree nuts"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65f1c52d97477827aca4f245-4c97b2ce.png"
+        },
+        {
+          "name": "Zucchini",
+          "quantity": "1 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e5855af5a5196d85e97eca-bc03eec2.png"
+        },
+        {
+          "name": "Garlic, cloves",
+          "quantity": "2 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e5856ef5a5196d85e98159-6bc5fc53.png"
+        },
+        {
+          "name": "Mayonnaise",
+          "quantity": "2 tbsp",
+          "allergens": [
+            "Egg",
+            "Mustard",
+            "Crustaceans",
+            "Fish",
+            "Gluten",
+            "Milk",
+            "Sesame",
+            "Soy",
+            "Sulphites",
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/6724fc7ba598974dca32235c-1ea539b0.png"
+        },
+        {
+          "name": "Panko Breadcrumbs",
+          "quantity": "\u2153 cup",
+          "allergens": [
+            "Wheat",
+            "Gluten"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/667c810c4510917eadbc58d0-20702300.png"
+        },
+        {
+          "name": "Feta Cheese, crumbled",
+          "quantity": "\u00bc cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110775f8b25ebd2e8b4677-dec4ab3c.png"
+        },
+        {
+          "name": "Tahini Sauce",
+          "quantity": "2 tbsp",
+          "allergens": [
+            "Sesame",
+            "Soy",
+            "Milk",
+            "Mustard",
+            "Sulphites",
+            "Wheat",
+            "Crustaceans",
+            "Egg",
+            "Fish",
+            "Gluten"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/6725851bcfb28a2810573a52-9dd949bb.png"
+        },
+        {
+          "name": "Couscous",
+          "quantity": "\u00bc cup",
+          "allergens": [
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65ef267a4916f82b1a902798-5b5e8662.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Salt*",
+          "quantity": "0.63 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+        },
+        {
+          "name": "Pepper*",
+          "quantity": "\u00bc tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+        },
+        {
+          "name": "Oil*",
+          "quantity": "2 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e6f87c1101bf672060a1c3-6893ff30.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Before starting, preheat the oven to 450\u00b0F. Wash and dry all produce. To a medium pot, add 1/2 cup (1 cup) water and 1/8 tsp (1/4 tsp) salt. Cover and bring to a boil over high heat. Once boiling, remove from heat, then add half the couscous (use all for 4 servings). Stir to combine. Cover and let stand for 5 min. When couscous is tender, fluff with a fork. Meanwhile, halve zucchini lengthwise, then cut into 1/4-inch half-moons. Core, then cut pepper into 1/2-inch pieces. Peel, then cut carrot into 1/2-inch rounds.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/673e0a1cdd37d34956af0bf5/step-89ac5d00.jpg"
+        },
+        {
+          "step": 2,
+          "description": "Peel, then mince or grate garlic. Roughly chop parsley. To a medium bowl, add beef, Dukkah Spice, panko, half the garlic, half the parsley and 1/4 tsp (1/2 tsp) salt. Season with pepper, then combine. Roll beef mixture into 6 (12) 2-inch logs.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/673e0a1cdd37d34956af0bf5/step-1d91e710.jpg"
+        },
+        {
+          "step": 3,
+          "description": "On one side of a parchment-lined baking sheet, arrange koftas. On the other side of the baking sheet, add carrots and 1 tbsp (2 tbsp) oil. Season with salt and pepper, then toss to coat. Roast in the middle of the oven for 12-16 min, until carrots are tender and koftas are cooked through.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/673e0a1cdd37d34956af0bf5/step-02937920.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Meanwhile, heat a large non-stick pan over medium-high. When hot, add 1 tbsp oil, then zucchini and peppers. (NOTE: For 4 servings, cook in 2 batches, using 1 tbsp oil per batch.) Season with salt. Cook for 6-8 min, stirring often, until veggies are tender-crisp.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/673e0a1cdd37d34956af0bf5/step-ac791f30.jpg"
+        },
+        {
+          "step": 5,
+          "description": "To a small bowl, add hummus, half the tahini sauce (use all for 4 servings), mayo, 2 tsp (4 tsp) water and remaining garlic. Season with salt and pepper, then stir to combine.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/673e0a1cdd37d34956af0bf5/step-23198440.jpg"
+        },
+        {
+          "step": 6,
+          "description": "Fluff couscous with a fork. Season with salt and pepper. Divide couscous, veggie hash and roasted carrots between plates, then top with beef koftas. Spoon garlic hummus over top. Sprinkle with feta and remaining parsley.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/673e0a1cdd37d34956af0bf5/step-0d892a50.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "840 kcal",
+          "fat": "54 g",
+          "saturated_fat": "13 g",
+          "carbohydrate": "47 g",
+          "sugar": "12 g",
+          "dietary_fiber": "8 g",
+          "protein": "38 g",
+          "cholesterol": "95 mg",
+          "sodium": "1560 mg",
+          "potassium": "1250 mg",
+          "calcium": "175 mg",
+          "iron": "6 mg"
+        }
+      },
+      "tags": [
+        "Carb Smart",
+        "Quick"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R1021_W27_CA_RB153453-21_Main_low-58477df1.jpg",
+      "cousine": "Mediterranean",
+      "id_legacy": "carb-smart-beef-koftas"
+    },
+    {
+      "id": "chicken_caesar_salad",
+      "title": "Chicken Caesar Salad",
+      "subtitle": "Featuring Crispy Chickpea Croutons",
+      "description": "Experience a fresh twist on a classic salad with tender chicken and crunchy, protein-rich chickpea croutons delivering satisfying textures and balanced flavors.",
+      "prep_time": "30 minutes",
+      "cooking_time": "",
+      "total_time": "",
+      "servings": "4",
+      "difficulty": "Medium",
+      "serving_size": "1 serving",
+      "calories_per_serving": "750 kcal",
+      "dietary_info": "Contains Egg, Mustard, Milk; Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean, and sulphites.",
+      "ingredients": [
+        {
+          "name": "Chicken Breasts",
+          "quantity": "2 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5715013bfd2cb9c71f8b4568.png"
+        },
+        {
+          "name": "Chickpeas",
+          "quantity": "370 mL",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/554a4024f8b25e1d268b4570.png"
+        },
+        {
+          "name": "Baby Spinach",
+          "quantity": "113 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/577ec99e3933dc33508b4567.png"
+        },
+        {
+          "name": "Lemon",
+          "quantity": "1 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/554a302ffd2cb9324b8b4569.png"
+        },
+        {
+          "name": "Mayonnaise",
+          "quantity": "4 tbsp",
+          "allergens": [
+            "Egg",
+            "Mustard"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/554a2f494dab71636c8b4569.png"
+        },
+        {
+          "name": "Parmesan Cheese, grated",
+          "quantity": "\u00bc cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/606ed9241c6c855ddb0c743b-45a42476.png"
+        },
+        {
+          "name": "Garlic, cloves",
+          "quantity": "1 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/6137677a256fc53c23222228-c6553cc2.png"
+        },
+        {
+          "name": "Dijon Mustard",
+          "quantity": "1.5 tsp",
+          "allergens": [
+            "Mustard"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5ea33bb3b51a9a08711358d8-001a44ce.png"
+        },
+        {
+          "name": "Chicken Salt",
+          "quantity": "1 tbsp",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/6177ff1fc6637801005337a4-cbd88b3e.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Oil*",
+          "quantity": "2.5 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+        },
+        {
+          "name": "Pepper*",
+          "quantity": "0.13 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Before starting, preheat the oven to 425\u02daF. Wash and dry all produce. Garlic Guide for Step 4 (dbl for 4 ppl): 1/8 tsp mild, 1/4 tsp medium and 1/2 tsp extra! Drain and rinse chickpeas, then pat dry with paper towels. Zest, then juice half the lemon. Cut remaining lemon into wedges. Peel, then mince or grate garlic.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6214e05fa94fc8613534de07/step-60452682.jpg"
+        },
+        {
+          "step": 2,
+          "description": "Pat chicken dry with paper towels. Season with half the chicken salt and pepper. Heat a large non-stick pan over medium-high heat. When hot, add 1/2 tbsp oil (dbl for 4 ppl), then chicken. Cook until golden-brown, 1-2 min per side. (NOTE: Don't overcrowd the pan; cook chicken in 2 batches if needed!) Transfer chicken to an unlined baking sheet. Bake in the middle of the oven until chicken is cooked through, 12-14 min.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6214e05fa94fc8613534de07/step-cb3b0a2b.jpg"
+        },
+        {
+          "step": 3,
+          "description": "While chicken bakes, heat the same pan over medium. When hot, add 2 tbsp oil (dbl for 4 ppl), then chickpeas and remaining chicken salt. Season with pepper. Cover and cook, stirring occasionally, until chickpeas are golden, 5-6 min. Transfer chickpeas to a plate to cool slightly.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6214e05fa94fc8613534de07/step-b9c06b72.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Add mayo, Dijon, lemon zest, half the Parmesan, 1 tsp lemon juice (dbl for 4 ppl) and 1/8 tsp garlic to a large bowl. (NOTE: Reference garlic guide.) Season with pepper, then stir to combine.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6214e05fa94fc8613534de07/step-ccfd668b.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Add chickpeas and spinach to the large bowl with dressing, then toss to combine.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6214e05fa94fc8613534de07/step-d62e4a13.jpg"
+        },
+        {
+          "step": 6,
+          "description": "Let chicken rest for 3-5 min, then thinly slice. Add chicken to the bowl with salad, then toss to combine. Divide salad between plates. Sprinkle remaining Parmesan over top. Squeeze over a lemon wedge, if desired.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6214e05fa94fc8613534de07/step-73db29cb.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "750 kcal",
+          "fat": "48 g",
+          "saturated_fat": "5 g",
+          "carbohydrate": "33 g",
+          "sugar": "6 g",
+          "dietary_fiber": "11 g",
+          "protein": "50 g",
+          "cholesterol": "155 mg",
+          "sodium": "1520 mg",
+          "potassium": "",
+          "calcium": "",
+          "iron": ""
+        }
+      },
+      "tags": [
+        "Carb Smart"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/carb-smart-chicken-caesar-salad-1f55ccd7.jpg",
+      "cousine": "American",
+      "id_legacy": "carb-smart-chicken-caesar-salad"
+    },
+    {
+      "id": "lemon_chicken_tenders",
+      "title": "Lemon Chicken Tenders",
+      "subtitle": "With Zucchini and Peppers",
+      "description": "A creamy lemon sauce coats tender chicken, enhanced with fresh vegetables for a light, flavorful dinner.",
+      "prep_time": "25 minutes",
+      "cooking_time": "8 minutes",
+      "total_time": "33 minutes",
+      "servings": "2",
+      "difficulty": "Medium",
+      "serving_size": "1 serving",
+      "calories_per_serving": "530 kcal",
+      "dietary_info": "Contains Sulphites, Milk. Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+      "ingredients": [
+        {
+          "name": "Chicken Breast Tenders",
+          "quantity": "310 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e5855cf5a5196d85e97f19-f8f6a6e6.png"
+        },
+        {
+          "name": "Zucchini",
+          "quantity": "2 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e5855af5a5196d85e97eca-bc03eec2.png"
+        },
+        {
+          "name": "Sweet Bell Pepper",
+          "quantity": "1 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5c1a8527c445fa1c487319b2-35ee6fcd.png"
+        },
+        {
+          "name": "Garlic, cloves",
+          "quantity": "1 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e5856ef5a5196d85e98159-6bc5fc53.png"
+        },
+        {
+          "name": "Dill-Garlic Spice Blend",
+          "quantity": "1 tsp",
+          "allergens": [
+            "Sulphites",
+            "Milk",
+            "Mustard",
+            "Tree nuts",
+            "Peanuts",
+            "Sesame",
+            "Soy",
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65f87e05473c4f42771cea72-4a0bb124.png"
+        },
+        {
+          "name": "Lemon",
+          "quantity": "1 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e585631101bf6720607070-36b864f4.png"
+        },
+        {
+          "name": "Cream",
+          "quantity": "56 mL",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65ef112d4916f82b1a901e53-1b7e8838.png"
+        },
+        {
+          "name": "Chicken Broth Concentrate",
+          "quantity": "1 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5755e5e9f8b25e45148b4567-d6ad65dc.png"
+        },
+        {
+          "name": "Lemon-Pepper Seasoning",
+          "quantity": "1 tbsp",
+          "allergens": [
+            "Sesame",
+            "Soy",
+            "Sulphites",
+            "Tree nuts",
+            "Wheat",
+            "Milk",
+            "Mustard",
+            "Peanuts"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65ef1c4ed4f950689014653f-3dc8cb72.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Pepper*",
+          "quantity": "0.06 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+        },
+        {
+          "name": "Unsalted Butter*",
+          "quantity": "1 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5bc5064e30006c1a261b4612-4ffc3691.png"
+        },
+        {
+          "name": "Oil*",
+          "quantity": "1.5 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e6f87c1101bf672060a1c3-6893ff30.png"
+        },
+        {
+          "name": "Salt*",
+          "quantity": "0.13 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Cut zucchini into 1/4-inch rounds. Core, then cut pepper into 1-inch pieces. Peel, then mince or grate garlic. Zest half the lemon (whole lemon for 4 ppl). Cut both halves into wedges.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/65cac93047d43baa75052374/step-7f86a900.jpg"
+        },
+        {
+          "step": 2,
+          "description": "Add zucchini, peppers and 1 tbsp oil to an unlined baking sheet. (NOTE: For 4 ppl, use 2 baking sheets, with 1 tbsp oil per sheet.) Season with salt, pepper and Dill-Garlic Spice Blend. Toss to combine. Roast in the middle of the oven, 5 min. (NOTE: For 4 ppl, roast in the top and middle of the oven, rotating sheets halfway through. Veggies will continue to roast in step 4.)",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/65cac93047d43baa75052374/step-89cff910.jpg"
+        },
+        {
+          "step": 3,
+          "description": "Meanwhile, pat chicken dry with paper towels. Season with salt and 2 tsp (4 tsp) Lemon-Pepper Seasoning. Heat a large non-stick pan over medium-high heat. When the pan is hot, add 1/2 tbsp (1 tbsp) oil, then chicken breast tenders. Sear until tenders are golden-brown and cooked through, 3-5 min per side.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/65cac93047d43baa75052374/step-f838a020.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Continue to roast in the middle of the oven until veggies are tender and chicken is cooked through, 10-12 min.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/65cac93047d43baa75052374/step-e4746730.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Meanwhile, reheat the same pan (from step 3) over medium. When the pan is hot, add 1 tbsp (2 tbsp) butter, then garlic. Cook, stirring often, until fragrant, 30 sec. Add 1/4 cup (1/2 cup) water, cream, broth concentrate and remaining Lemon-Pepper Seasoning. Cook, stirring occasionally, until sauce thickens slightly, 2-3 min. Remove the pan from heat, then stir in half the lemon zest.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/65cac93047d43baa75052374/step-c9c6bb40.jpg"
+        },
+        {
+          "step": 6,
+          "description": "When veggies are done, sprinkle with remaining lemon zest. Toss gently to coat. Divide chicken and veggies between plates. Drizzle lemon cream sauce over chicken. Squeeze a lemon wedge over top, if desired.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/65cac93047d43baa75052374/step-435bc250.jpg"
+        },
+        {
+          "step": 7,
+          "description": "If you've opted to get chicken breast tenders, prepare and cook them in the same way the recipe instructs you to prepare and cook the chicken breast. Increase sear time to 3-5 min per side, until cooked through. Skip the step to roast. Transfer tenders to a plate and cover to keep warm.",
+          "image_url": ""
+        },
+        {
+          "step": 8,
+          "description": "Plate chicken breast tenders as the recipe instructs you to plate the chicken breast, no need to slice.",
+          "image_url": ""
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "530 kcal",
+          "fat": "32 g",
+          "saturated_fat": "12 g",
+          "carbohydrate": "18 g",
+          "sugar": "9 g",
+          "dietary_fiber": "4 g",
+          "protein": "42 g",
+          "cholesterol": "175 mg",
+          "sodium": "820 mg",
+          "potassium": "1250 mg",
+          "calcium": "75 mg",
+          "iron": "2 mg"
+        }
+      },
+      "tags": [
+        "Carb Smart",
+        "Quick"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/carb-smart-lemon-cream-chicken-4f885a82-a63f5867.jpg",
+      "cousine": "Canadian",
+      "id_legacy": "carb-smart-lemon-cream-chicken-breast-tenders"
+    },
+    {
+      "id": "spinach_and_feta_pork_patties",
+      "title": "Spinach and Feta Pork Patties",
+      "subtitle": "Bright, tangy tomato and pepper salad",
+      "description": "Experience a vibrant fusion of Greek-inspired zest with robust garlic and a satisfying protein-packed texture.",
+      "prep_time": "20 minutes",
+      "cooking_time": "10 minutes",
+      "total_time": "30 minutes",
+      "servings": "24",
+      "difficulty": "Medium",
+      "serving_size": "1 patty with salad",
+      "calories_per_serving": "550 kcal",
+      "dietary_info": "Carb Smart. Contains allergens: Barley, Milk, Oats, Rye, Sesame, Soy, Wheat. May contain traces: Egg, Sesame, Soy, Sulphites, Tree nuts, Wheat, Milk, Mustard, Peanuts.",
+      "ingredients": [
+        {
+          "name": "Ground Pork",
+          "quantity": "250 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e58558762a70483e9d8e1d-a14563dc.png"
+        },
+        {
+          "name": "Italian Breadcrumbs",
+          "quantity": "4 tbsp",
+          "allergens": [
+            "Barley",
+            "Milk",
+            "Oats",
+            "Rye",
+            "Sesame",
+            "Soy",
+            "Wheat",
+            "Egg"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65ef1c4ed4f9506890146542-22a4ff7c.png"
+        },
+        {
+          "name": "Sweet Bell Pepper",
+          "quantity": "1 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5c1a8527c445fa1c487319b2-35ee6fcd.png"
+        },
+        {
+          "name": "Baby Tomatoes",
+          "quantity": "113 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5fd1005e12e3ee2a0630c88e-580817ed.png"
+        },
+        {
+          "name": "Baby Spinach",
+          "quantity": "56 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e585591101bf6720606f4b-f54e83c4.png"
+        },
+        {
+          "name": "Feta Cheese, crumbled",
+          "quantity": "\u00bd cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110775f8b25ebd2e8b4677-dec4ab3c.png"
+        },
+        {
+          "name": "Lemon-Pepper Seasoning",
+          "quantity": "1 tbsp",
+          "allergens": [
+            "Sesame",
+            "Soy",
+            "Sulphites",
+            "Tree nuts",
+            "Wheat",
+            "Milk",
+            "Mustard",
+            "Peanuts"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65ef1c4ed4f950689014653f-3dc8cb72.png"
+        },
+        {
+          "name": "Garlic, cloves",
+          "quantity": "1 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e5856ef5a5196d85e98159-6bc5fc53.png"
+        },
+        {
+          "name": "Lemon",
+          "quantity": "1 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e585631101bf6720607070-36b864f4.png"
+        },
+        {
+          "name": "Spring Mix",
+          "quantity": "56 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ff8b25ebd2e8b4742-b1456bec.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Salt*",
+          "quantity": "0.06 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+        },
+        {
+          "name": "Oil*",
+          "quantity": "1.5 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e6f87c1101bf672060a1c3-6893ff30.png"
+        },
+        {
+          "name": "Pepper*",
+          "quantity": "0.06 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Finely chop spinach. Heat a large non-stick pan over medium heat. When hot, add spinach to the dry pan. Cook, stirring often, until wilted. Transfer to a paper towel-lined plate to cool slightly.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/65f1cc02086e015a835841ad/step-aaba6d00.jpg"
+        },
+        {
+          "step": 2,
+          "description": "While spinach cools, core, then cut pepper into 1/4-inch slices. Halve tomatoes. Zest, then juice half the lemon (whole lemon for 4 ppl). Cut any remaining lemon into wedges. Peel, then mince or grate garlic.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/65f1cc02086e015a835841ad/step-600b2b10.jpg"
+        },
+        {
+          "step": 3,
+          "description": "Add breadcrumbs, cooked spinach, Lemon-Pepper Seasoning, lemon zest, garlic and half the feta to a medium bowl. Add pork, then combine. (TIP: If you prefer more tender patties, add an egg to mixture.) Form mixture into eight 2-inch-wide patties (16 patties for 4 ppl).",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/65f1cc02086e015a835841ad/step-2b7fdc20.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Reheat the same pan (from step 1) over medium. When the pan is hot, add 1/2 tbsp oil, then patties. (NOTE: For 4 ppl, cook patties in 2 batches, using 1/2 tbsp oil per batch.) Pan-fry until cooked through, 3-4 min per side. Transfer to a plate, then cover to keep warm.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/65f1cc02086e015a835841ad/step-5c082c30.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Meanwhile, add lemon juice and 1 tbsp (2 tbsp) oil to a large bowl. Season with salt and pepper, then whisk to combine. Add tomatoes, peppers, spring mix and remaining feta, then toss to combine.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/65f1cc02086e015a835841ad/step-37949840.jpg"
+        },
+        {
+          "step": 6,
+          "description": "Divide pork patties and lemony tomato-pepper salad between plates. Squeeze a lemon wedge over top, if desired.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/65f1cc02086e015a835841ad/step-84689d50.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "550 kcal",
+          "fat": "37 g",
+          "saturated_fat": "13 g",
+          "carbohydrate": "23 g",
+          "sugar": "7 g",
+          "dietary_fiber": "5 g",
+          "protein": "33 g",
+          "cholesterol": "105 mg",
+          "sodium": "970 mg",
+          "potassium": "950 mg",
+          "calcium": "200 mg",
+          "iron": "4 mg"
+        }
+      },
+      "tags": [
+        "BBQ Contest",
+        "Carb Smart",
+        "Quick"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R1019_W23_CA_RP154143-15_Main_low-9cb9f819.jpg",
+      "cousine": "Greek",
+      "id_legacy": "carb-smart-spinach-feta-pork-patties"
+    },
+    {
+      "id": "charred_shrimp_skewers",
+      "title": "Charred Shrimp Skewers",
+      "subtitle": "Zesty flavors with a tropical twist",
+      "description": "Experience succulent shrimp with a charred exterior and a vibrant, citrus-kissed finish that delights the palate.",
+      "prep_time": "30 minutes",
+      "cooking_time": "",
+      "total_time": "",
+      "servings": "2",
+      "difficulty": "Easy",
+      "serving_size": "",
+      "calories_per_serving": "0 kcal",
+      "dietary_info": "Lactose Free, Eat First, Gluten free",
+      "ingredients": [
+        {
+          "name": "Lime",
+          "quantity": "1 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/554a3c9efd2cb9ba4f8b456c.png"
+        },
+        {
+          "name": "Wooden Skewers",
+          "quantity": "4 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5550dca4fd2cb90e1a8b4568.png"
+        },
+        {
+          "name": "Jalape\u00f1o",
+          "quantity": "1 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110772f8b25ebd2e8b4630-28ab42a1.png"
+        },
+        {
+          "name": "Basmati Rice",
+          "quantity": "\u00be cup",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/554a35914dab71716c8b4569.png"
+        },
+        {
+          "name": "Shrimp",
+          "quantity": "285 g",
+          "allergens": [
+            "Crustacean/Crustac\u00e9"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/57110772f8b25ebd2e8b462c.png"
+        },
+        {
+          "name": "Pineapple",
+          "quantity": "113 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5b3e7f9cae08b51a1d7f75f2-b4c153f2.png"
+        },
+        {
+          "name": "Mexican Oregano",
+          "quantity": "1 tsp",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077bf8b25ebd2e8b46fd-172dc93a.png"
+        },
+        {
+          "name": "Avocado",
+          "quantity": "1 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/55661b614dab71627d8b4568.png"
+        },
+        {
+          "name": "Cilantro",
+          "quantity": "7 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/554a3c4d4dab71716c8b456c.png"
+        },
+        {
+          "name": "Red Onion",
+          "quantity": "56 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/554a3947fd2cb9cf488b456b.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Salt*",
+          "quantity": "unit",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+        },
+        {
+          "name": "Pepper*",
+          "quantity": "unit",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+        },
+        {
+          "name": "Oil*",
+          "quantity": "unit",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Prep: Heat your broiler to high or oven to 500\u00b0F. Soak the wooden skewers in water in a shallow pan. In a small pot, bring 1\u00bd cups water (double for 4 people) to boil with a large pinch of salt. Wash and dry all produce. Mince the pickled jalapen\u0303os, removing the ribs and seeds if you prefer less heat. Zest and juice the lime(s).",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/5761ac4dfd2cb95c298b4567/step_5761b1584b89f.jpg"
+        },
+        {
+          "step": 2,
+          "description": "Cook the rice: Once boiling, add the rice to the pot, cover, and simmer for 15 minutes, until tender.",
+          "image_url": ""
+        },
+        {
+          "step": 3,
+          "description": "Make the skewers: Meanwhile, toss the shrimp with the lime zest and half the lime juice in a medium bowl. Season with salt, pepper, and Mexican oregano. Thread the shrimp onto half the skewers. Thread the pineapple onto the remaining skewers.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/5761ac4dfd2cb95c298b4567/step_5761b15871c1e.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Cook the skewers: Place the skewers on a lightly oiled baking sheet and set under the broiler or in the oven for 2-3 minutes per side, until pineapple is lightly charred and shrimp are opaque.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/5761ac4dfd2cb95c298b4567/step_5761b158dec6c.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Meanwhile, halve, pit, and peel the avocado, then cut into 1/2-inch cubes.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/5761ac4dfd2cb95c298b4567/step_5761b158f0661.jpg"
+        },
+        {
+          "step": 6,
+          "description": "Make the pineapple-avocado salsa: Remove the pineapple from the skewers and cut into \u00bd-inch cubes. In a medium bowl, toss together the pineapple, avocado, remaining lime juice, half the cilantro, as much jalape\u00f1o and red onion as you like (to taste), and a drizzle of oil. Season with salt and pepper.",
+          "image_url": ""
+        },
+        {
+          "step": 7,
+          "description": "Finish and serve: Fluff the rice with a fork and toss in the remaining cilantro. Serve with the shrimp and a generous serving of pineapple salsa on top. Ol\u00e9! BBQ TIP: Instead of broiling, grill shrimp and pineapple skewers on medium-high, with lid open, 2 to 3 minutes per side.",
+          "image_url": ""
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "0 kcal",
+          "fat": "0 g",
+          "saturated_fat": "0 g",
+          "carbohydrate": "0 g",
+          "sugar": "0 g",
+          "dietary_fiber": "0 g",
+          "protein": "0 g",
+          "cholesterol": "0 mg",
+          "sodium": "0 mg",
+          "potassium": "0 mg",
+          "calcium": "0 mg",
+          "iron": "0 mg"
+        }
+      },
+      "tags": [
+        "Lactose Free",
+        "Eat First",
+        "Gluten free"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/charred-shrimp-skewers-a6e67989.jpg",
+      "cousine": "Mexican",
+      "id_legacy": "charred-shrimp-skewers"
+    },
+    {
+      "id": "chicken_tortellini_mushrooms",
+      "title": "Chicken Tortellini Mushrooms",
+      "subtitle": "Featuring fresh spinach and pine nuts for added crunch.",
+      "description": "Delight in a velvety sauce with tender textures and a satisfying crunch that elevates an ordinary meal.",
+      "prep_time": "25 minutes",
+      "cooking_time": "",
+      "total_time": "",
+      "servings": "24",
+      "difficulty": "Medium",
+      "serving_size": "",
+      "calories_per_serving": "1000 kcal",
+      "dietary_info": "Contains Egg, Milk, Wheat, Tree nuts, Soy, Sulphites. Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+      "ingredients": [
+        {
+          "name": "Cheese Tortellini",
+          "quantity": "350 g",
+          "allergens": [
+            "Egg",
+            "Milk",
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5f9998a770231d494336fef4-315306d4.png"
+        },
+        {
+          "name": "Parmesan Cheese, shredded",
+          "quantity": "\u00bc cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110772f8b25ebd2e8b4625-8ffea243.png"
+        },
+        {
+          "name": "Pine Nuts",
+          "quantity": "28 g",
+          "allergens": [
+            "Tree nuts"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5711077af8b25ebd2e8b46dd.png"
+        },
+        {
+          "name": "Baby Spinach",
+          "quantity": "56 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/577ec99e3933dc33508b4567.png"
+        },
+        {
+          "name": "Mushrooms",
+          "quantity": "113 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5fd0ffa7af33b842963fba86-67f5cd75.png"
+        },
+        {
+          "name": "Garlic Puree",
+          "quantity": "1 tbsp",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5e72773fd47b5c0367730d8f-de6c3494.png"
+        },
+        {
+          "name": "Lemon-Pepper Seasoning",
+          "quantity": "\u00bd tbsp",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/6234e2661eb0a87142174af2-2cc08f20.png"
+        },
+        {
+          "name": "Vegetable Stock Powder",
+          "quantity": "1 tbsp",
+          "allergens": [
+            "Soy",
+            "Sulphites"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/62e2d718c7709f4acb0d3cd3-25d99441.png"
+        },
+        {
+          "name": "Cream Cheese",
+          "quantity": "43 g",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b469c-ed1c28fc.png"
+        },
+        {
+          "name": "Cream Sauce Spice Blend",
+          "quantity": "1 tbsp",
+          "allergens": [
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5ef0cddb37133401e749fde7-bd118885.png"
+        },
+        {
+          "name": "Chives",
+          "quantity": "7 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5550d6864dab71e7118b4569.png"
+        },
+        {
+          "name": "Chicken Breasts",
+          "quantity": "2 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5715013bfd2cb9c71f8b4568.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Unsalted Butter*",
+          "quantity": "2 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5bc5064e30006c1a261b4612-4ffc3691.png"
+        },
+        {
+          "name": "Salt*",
+          "quantity": "0.06 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+        },
+        {
+          "name": "Pepper*",
+          "quantity": "0.13 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Before starting, preheat the oven to 450\u02daF. Wash and dry all produce. Add 10 cups water and 2 tsp salt to a large pot (use same for 4 ppl). Cover and bring to a boil over high heat. Add tortellini to the boiling water. Cook, stirring occasionally, until tender, 2-3 min. Reserve 1 1/4 cups (2 1/2 cups) pasta water, then drain tortellini.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6499cb2920c912e9d60d6451/step-f0511541.jpg"
+        },
+        {
+          "step": 2,
+          "description": "Meanwhile, heat a large non-stick pan over medium heat. While the pan heats, thinly slice mushrooms. Thinly slice chives.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6499cb2920c912e9d60d6451/step-24951d4c.jpg"
+        },
+        {
+          "step": 3,
+          "description": "When the pan is hot, add pine nuts to the dry pan. Toast, stirring often, until golden-brown, 4-5 min. (TIP: Keep your eye on pine nuts so they don't burn!) Transfer pine nuts to a plate. If you've opted to add chicken breasts, return the same pan used for pine nuts to medium-high. While the pan heats, pat chicken dry with paper towels. Season with salt and pepper. When hot, add 1/2 tbsp (1 tbsp) oil, then chicken. Pan-fry until golden-brown, 1-2 min per side. Transfer chicken to an unlined baking sheet. Roast in the middle of the oven until cooked through, 8-10 min.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6499cb2920c912e9d60d6451/step-0a91ef68.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Heat the same pan over medium-high. When hot, add 2 tbsp (4 tbsp) butter, then swirl the pan until melted. Add mushrooms. Cook, stirring occasionally, until golden-brown, 4-5 min. Season with pepper. Add Cream Sauce Spice Blend, garlic puree and half the Lemon-Pepper Seasoning (use all for 4 ppl). Cook, stirring often, until mushrooms are coated and garlic is fragrant, 30 sec.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6499cb2920c912e9d60d6451/step-bfa79b99.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Add 1 cup (2 cups) reserved pasta water, stock powder and cream cheese to the pan with mushrooms. Cook, stirring often, until sauce is smooth and comes to a simmer. Once simmering, add tortellini and half the Parmesan. Cook, stirring gently, until sauce thickens slightly, 1-2 min. (TIP: If sauce reduces too much, add remaining pasta water to loosen.) Add spinach. Cook, stirring gently, until spinach wilts, 1-2 min. Season with pepper, to taste. Remove the pan from heat.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,flossy/hellofresh_s3/6499cb2920c912e9d60d6451/step-7c619cba.jpg"
+        },
+        {
+          "step": 6,
+          "description": "Thinly slice chicken. Divide tortellini between bowls. Top tortellini with chicken. Sprinkle pine nuts, chives and remaining Parmesan over top.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6499cb2920c912e9d60d6451/step-0eec893f.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "1000 kcal",
+          "fat": "34 g",
+          "saturated_fat": "10 g",
+          "carbohydrate": "2 g",
+          "sugar": "8 g",
+          "dietary_fiber": "6 g",
+          "protein": "66 g",
+          "cholesterol": "198 mg",
+          "sodium": "1650 mg",
+          "potassium": "",
+          "calcium": "",
+          "iron": ""
+        }
+      },
+      "tags": [
+        "Quick"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/tortellinis-au-fromage-avec-poulet-et-sauce-cremeuse-aux-champignons-dc47600c.jpg",
+      "cousine": "Italian",
+      "id_legacy": "chicken-and-creamy-cheese-tortellini-and-mushrooms"
+    },
+    {
+      "id": "chicken_chive_sauce",
+      "title": "Chicken Chive Sauce",
+      "subtitle": "Served with parmesan potatoes and crisp greens",
+      "description": "Tender chicken meets a velvety herb sauce, enhanced by savory potatoes and fresh greens for a well-balanced dinner.",
+      "prep_time": "35 minutes",
+      "cooking_time": "",
+      "total_time": "Approximately 60 minutes",
+      "servings": "24",
+      "difficulty": "Medium",
+      "serving_size": "",
+      "calories_per_serving": "780 kcal",
+      "dietary_info": "Contains Milk and Wheat. Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+      "ingredients": [
+        {
+          "name": "Chicken Leg (Boneless)",
+          "quantity": "310 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5c09a079c445fa4f346f04e2-95bf7003.png"
+        },
+        {
+          "name": "Russet Potato",
+          "quantity": "460 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077df8b25ebd2e8b471b-b10a7316.png"
+        },
+        {
+          "name": "Zucchini",
+          "quantity": "200 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5553981df8b25e5d0c8b456a.png"
+        },
+        {
+          "name": "Green Beans",
+          "quantity": "170 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5bb60dceae08b5034f101102-9246563a.png"
+        },
+        {
+          "name": "Sour Cream",
+          "quantity": "6 tbsp",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5550e1064dab71893e8b4569.png"
+        },
+        {
+          "name": "All-Purpose Flour",
+          "quantity": "1 tbsp",
+          "allergens": [
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b46a8-cd52fdfe.png"
+        },
+        {
+          "name": "Chives",
+          "quantity": "7 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5550d6864dab71e7118b4569.png"
+        },
+        {
+          "name": "Shallot",
+          "quantity": "50 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/554a3dfbf8b25e1d268b456f.png"
+        },
+        {
+          "name": "Garlic Salt",
+          "quantity": "1 tsp",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57d30976d804b5661c8b4568-b3884a9e.png"
+        },
+        {
+          "name": "Chicken Broth Concentrate",
+          "quantity": "1 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5755e5e9f8b25e45148b4567-d6ad65dc.png"
+        },
+        {
+          "name": "Parmesan Cheese",
+          "quantity": "\u00bc cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5bbe2b9d30006c27504fa002-34f15c81.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Milk*",
+          "quantity": "\u00bd cup",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57c06c6892eec975218b4569-ffca2aa9.png"
+        },
+        {
+          "name": "Unsalted Butter*",
+          "quantity": "1 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5bc5064e30006c1a261b4612-4ffc3691.png"
+        },
+        {
+          "name": "Oil*",
+          "quantity": "2 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+        },
+        {
+          "name": "Salt and Pepper*",
+          "quantity": "0.13 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5995dab2c28800013e48e192-94c68656.png"
+        },
+        {
+          "name": "Salt*",
+          "quantity": "\u00bc tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Before starting, preheat the oven to 450\u00b0F. Wash and dry all produce. Cut potatoes into 1/2-inch thick wedges. Toss potatoes with 1 tbsp oil (dbl for 4 ppl) and half the garlic salt on a baking sheet. Season with pepper. Roast in the middle of the oven, until golden brown, 22-24 min. (NOTE: For 4 ppl, use 2 baking sheets, with 1 tbsp oil per sheet. Roast in the middle and bottom of the oven, rotating sheets halfway through cooking.)",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6035054d760e0d16a10dcad2/step-c5f0e043.jpg"
+        },
+        {
+          "step": 2,
+          "description": "While potatoes roast, trim green beans. Cut zucchini into 1/4-inch rounds. Peel, then finely chop shallot. Thinly slice chives. Pat chicken dry with paper towels, then sprinkle with remaining garlic salt. Season with pepper. Combine zucchini and 1/4 tsp salt (dbl for 4 ppl) in a medium bowl. Set aside.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6035054d760e0d16a10dcad2/step-6492bd8a.jpg"
+        },
+        {
+          "step": 3,
+          "description": "Heat a large non-stick pan over medium-high heat. When hot, add 1/2 tbsp oil (dbl for 4 ppl), then chicken. Cook, until golden-brown, 1-2 min per side. Transfer to another baking sheet. Bake, in the top of the oven, until chicken is cooked through, 10-12 min.**",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6035054d760e0d16a10dcad2/step-70446857.jpg"
+        },
+        {
+          "step": 4,
+          "description": "While the chicken cooks, heat the same pan over medium-high heat. When hot, add 1/2 tbsp oil (dbl for 4 ppl), then green beans and zucchini. Cook, stirring occasionally, until tender-crisp, 4-5 min. Season with pepper. Remove pan from the heat, then transfer veggies to a plate. Cover to keep warm.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6035054d760e0d16a10dcad2/step-6b1d5640.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Heat the same pan over medium heat. When hot, add 1 tbsp butter (dbl for 4 ppl), then shallots. Cook, stirring often, until softened, 2-3 min. Sprinkle flour over shallots. Cook, stirring often, until coated, 1-2 min. Add 1/2 cup milk (dbl for 4 ppl) and broth concentrate. Cook, stirring often, until sauce thickens slightly, 2-3 min. Remove pan from the heat, then stir in sour cream and half the chives. Season with salt and pepper.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6035054d760e0d16a10dcad2/step-80e1b7d4.jpg"
+        },
+        {
+          "step": 6,
+          "description": "When potatoes are done, sprinkle with Parmesan. Thinly slice chicken. Divide chicken, potatoes and veggies between plates. Spoon chive sauce over chicken and sprinkle with remaining chives.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6035054d760e0d16a10dcad2/step-2b6ef796.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "780 kcal",
+          "fat": "38 g",
+          "saturated_fat": "14 g",
+          "carbohydrate": "65 g",
+          "sugar": "14 g",
+          "dietary_fiber": "7 g",
+          "protein": "48 g",
+          "cholesterol": "200 mg",
+          "sodium": "1790 mg",
+          "potassium": "",
+          "calcium": "",
+          "iron": ""
+        }
+      },
+      "tags": [
+        "Chicken",
+        "Creamy",
+        "Chive",
+        "Comfort Food"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/poulet-dans-une-sauce-cremeuse-a-la-ciboulette-4da5212f.jpg",
+      "cousine": "Canadian",
+      "id_legacy": "chicken-and-creamy-chive-sauce"
+    },
+    {
+      "id": "chicken_tikka_masala",
+      "title": "Chicken Tikka Masala",
+      "subtitle": "Savory Carrots and Garlic Rice",
+      "description": "A hearty curry boasting a balance of bold spices and creamy texture that elevates tender chicken to a comforting delight.",
+      "prep_time": "30 minutes",
+      "cooking_time": "8 minutes",
+      "total_time": "38 minutes",
+      "servings": "4",
+      "difficulty": "Medium",
+      "serving_size": "246 g",
+      "calories_per_serving": "740 kcal",
+      "dietary_info": "Contains Milk. May contain traces of Egg, Sesame, Mustard, Sulphites, Wheat, Soy, Gluten, Fish, Crustaceans, Tree nuts, and Peanuts. Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+      "ingredients": [
+        {
+          "name": "Chicken Breasts",
+          "quantity": "2 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e5853f762a70483e9d8ae2-c2108407.png"
+        },
+        {
+          "name": "Basmati Rice",
+          "quantity": "\u00be cup",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e5853f1101bf6720606bbd-df308ea7.png"
+        },
+        {
+          "name": "Carrot",
+          "quantity": "1 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e5854e762a70483e9d8ce9-1f167c7d.png"
+        },
+        {
+          "name": "Baby Spinach",
+          "quantity": "28 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e585591101bf6720606f4b-f54e83c4.png"
+        },
+        {
+          "name": "Garlic, cloves",
+          "quantity": "1 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e5856ef5a5196d85e98159-6bc5fc53.png"
+        },
+        {
+          "name": "Tikka Sauce",
+          "quantity": "\u00bd cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/67250d55738eb980ccb9d738-6818c9d5.png"
+        },
+        {
+          "name": "Curry Paste",
+          "quantity": "2 tbsp",
+          "allergens": [
+            "Mustard",
+            "Milk",
+            "Fish",
+            "Gluten",
+            "Soy",
+            "Crustaceans",
+            "Egg",
+            "Sesame",
+            "Sulphites",
+            "Wheat",
+            "Tree nuts"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66a82d7271ae0e887989ea46-8694b7b3.png"
+        },
+        {
+          "name": "Garlic Salt",
+          "quantity": "4 g",
+          "allergens": [
+            "Milk",
+            "Sulphites",
+            "Wheat",
+            "Tree nuts",
+            "Triticale",
+            "Mustard",
+            "Soy",
+            "Sesame",
+            "Peanuts"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66b388e96d92980d0360c946-62a53812.png"
+        },
+        {
+          "name": "Cream",
+          "quantity": "56 mL",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65ef112d4916f82b1a901e53-1b7e8838.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Salt*",
+          "quantity": "0.13 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+        },
+        {
+          "name": "Pepper*",
+          "quantity": "0.13 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+        },
+        {
+          "name": "Oil*",
+          "quantity": "1 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e6f87c1101bf672060a1c3-6893ff30.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Peel, then mince or grate garlic. Heat a medium pot over medium heat. When the pot is hot, add 1/2 tbsp (1 tbsp) oil, then rice and garlic. Cook, stirring often, until fragrant, 2-3 min. Add 1 1/4 cups (2 1/2 cups) water and half the garlic salt. Bring to a boil over high. Once boiling, reduce heat to low. Cover and cook until rice is tender and liquid is absorbed, 12-14 min. Remove from heat. Set aside, still covered.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/673ca0b5410266f3b3acdb78/step-291ee500.jpg"
+        },
+        {
+          "step": 2,
+          "description": "Meanwhile, peel, then halve carrot lengthwise. Cut into 1/4-inch half-moons. Roughly chop spinach.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/673ca0b5410266f3b3acdb78/step-cd709610.jpg"
+        },
+        {
+          "step": 3,
+          "description": "Heat a large non-stick pan over medium-high heat. When the pan is hot, add 1/2 cup (3/4 cup) water, then carrots. Cook, stirring often, until water is absorbed and carrots are tender-crisp, 5-6 min. Season with salt and pepper, to taste, then transfer to a plate.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/673ca0b5410266f3b3acdb78/step-f7897720.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Pat chicken dry with paper towels. Cut into 1-inch pieces. Season with remaining garlic salt and pepper. Reheat the same pan over medium. When the pan is hot, add 1/2 tbsp (1 tbsp) oil, then chicken. Cook until golden-brown, 2-3 min per side. (NOTE: Chicken will finish cooking in the next step.)",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/673ca0b5410266f3b3acdb78/step-a4cc2930.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Add curry paste to the pan with chicken. Cook, stirring often, until fragrant, 30 sec. Reduce heat to medium-low, then add tikka sauce, cream and 1/4 cup (1/2 cup) water. Cook, stirring occasionally, until sauce thickens slightly and chicken is cooked through, 5-7 min. Add carrots and spinach. Season with salt and pepper, then stir until spinach wilts, 1-2 min.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/673ca0b5410266f3b3acdb78/step-21bd8340.jpg"
+        },
+        {
+          "step": 6,
+          "description": "Fluff garlic rice with a fork. Divide rice between plates. Top with chicken tikka masala.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/673ca0b5410266f3b3acdb78/step-94633b50.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "740 kcal",
+          "fat": "25 g",
+          "saturated_fat": "9 g",
+          "carbohydrate": "80 g",
+          "sugar": "11 g",
+          "dietary_fiber": "5 g",
+          "protein": "48 g",
+          "cholesterol": "160 mg",
+          "sodium": "1350 mg",
+          "potassium": "1300 mg",
+          "calcium": "150 mg",
+          "iron": "4.5 mg"
+        }
+      },
+      "tags": [
+        "Spicy",
+        "Bestseller"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/poulet-tikka-masala-79aae4bb-abca9e27.jpg",
+      "cousine": "Indian",
+      "id_legacy": "chicken-tikka-masala"
+    },
+    {
+      "id": "cheese_tortellini_mushrooms",
+      "title": "Cheese Tortellini Mushrooms",
+      "subtitle": "Featuring Fresh Spinach and Toasted Pine Nuts",
+      "description": "A luxurious blend of silky pasta and savory mushrooms creates a comforting dish with delightful textures and a burst of flavor, perfect for any weeknight dinner.",
+      "prep_time": "25 minutes",
+      "cooking_time": "6 minutes",
+      "total_time": "31 minutes",
+      "servings": "4",
+      "difficulty": "Medium",
+      "serving_size": "One serving bowl",
+      "calories_per_serving": "830 kcal",
+      "dietary_info": "Veggie; Quick; Low CO2",
+      "ingredients": [
+        {
+          "name": "Cheese Tortellini",
+          "quantity": "350 g",
+          "allergens": [
+            "Egg",
+            "Milk",
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66f2e47a409e10e806942f8a-b5ad4836.png"
+        },
+        {
+          "name": "Parmesan Cheese, shredded",
+          "quantity": "\u00bc cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110772f8b25ebd2e8b4625-8ffea243.png"
+        },
+        {
+          "name": "Pine Nuts",
+          "quantity": "28 g",
+          "allergens": [
+            "Pine nuts",
+            "Tree nuts"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66e22f5d8d1d9d64aff1e210-54035f46.png"
+        },
+        {
+          "name": "Baby Spinach",
+          "quantity": "56 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e585591101bf6720606f4b-f54e83c4.png"
+        },
+        {
+          "name": "Mushrooms",
+          "quantity": "113 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e5853b762a70483e9d8a67-cec2316f.png"
+        },
+        {
+          "name": "Garlic Puree",
+          "quantity": "1 tbsp",
+          "allergens": [
+            "Wheat",
+            "Crustaceans",
+            "Fish",
+            "Mustard",
+            "Gluten",
+            "Sesame",
+            "Sulphites",
+            "Soy",
+            "Milk",
+            "Tree nuts",
+            "Egg"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66a7dae372d2a210384ae00c-a0900083.png"
+        },
+        {
+          "name": "Vegetable Stock Powder",
+          "quantity": "1 tbsp",
+          "allergens": [
+            "Soy",
+            "Sulphites",
+            "Wheat",
+            "Mustard",
+            "Sesame",
+            "Tree nuts",
+            "Milk",
+            "Peanuts",
+            "Triticale"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66b38a6a1047ce9880458f6b-b9cb0a0f.png"
+        },
+        {
+          "name": "Cream Cheese",
+          "quantity": "2 unit(s)",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65ef01b4d4f9506890145cdc-50d0b635.png"
+        },
+        {
+          "name": "Cream Sauce Spice Blend",
+          "quantity": "1 tbsp",
+          "allergens": [
+            "Wheat",
+            "Peanuts",
+            "Triticale",
+            "Tree nuts",
+            "Sesame",
+            "Soy",
+            "Milk",
+            "Sulphites",
+            "Mustard"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66bb6b0911ecbd46e2d008b3-0d96147f.png"
+        },
+        {
+          "name": "Chives",
+          "quantity": "7 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e585491101bf6720606d45-a54aef91.png"
+        },
+        {
+          "name": "Lemon-Pepper Seasoning",
+          "quantity": "1 tbsp",
+          "allergens": [
+            "Triticale",
+            "Mustard",
+            "Wheat",
+            "Sesame",
+            "Soy",
+            "Peanuts",
+            "Sulphites",
+            "Milk",
+            "Tree nuts"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66b3a0df1047ce98804591ce-e54dc87d.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Unsalted Butter*",
+          "quantity": "2 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5bc5064e30006c1a261b4612-4ffc3691.png"
+        },
+        {
+          "name": "Salt*",
+          "quantity": "0.06 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+        },
+        {
+          "name": "Pepper*",
+          "quantity": "0.13 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Add 10 cups water and 2 tsp salt to a large pot (use same for 4 ppl). Cover and bring to a boil over high heat. Add tortellini to the boiling water. Cook, stirring occasionally, until tender, 2-3 min. Reserve 1 1/4 cups (2 1/2 cups) pasta water, then drain tortellini.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/66635bb5d824d78597572b99/step-ad4ffb00.jpg"
+        },
+        {
+          "step": 2,
+          "description": "Meanwhile, heat a large non-stick pan over medium heat. While the pan heats, thinly slice mushrooms. Thinly slice chives.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/66635bb5d824d78597572b99/step-4bceb110.jpg"
+        },
+        {
+          "step": 3,
+          "description": "When the pan is hot, add pine nuts to the dry pan. Toast, stirring often, until golden-brown, 4-5 min. (TIP: Keep your eye on pine nuts so they don't burn.) Transfer toasted pine nuts to a plate.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/66635bb5d824d78597572b99/step-291eb820.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Reheat the same pan over medium-high. When the pan is hot, add 2 tbsp (4 tbsp) butter, then swirl until melted. Add mushrooms. Cook, stirring occasionally, until golden-brown, 4-5 min. Season with pepper. Add Cream Sauce Spice Blend and garlic puree. Cook, stirring often, until mushrooms are coated and garlic is fragrant, 30 sec.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/66635bb5d824d78597572b99/step-ae3a6e30.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Add 1 cup (2 cups) reserved pasta water, stock powder, Lemon Pepper Seasoning and cream cheese to the pan with mushrooms. Cook, stirring often, until sauce is smooth and comes to a simmer. Once simmering, add tortellini and half the Parmesan. Cook, stirring gently, until sauce thickens slightly, 1-2 min. (TIP: If sauce reduces too much, add remaining pasta water to loosen.) Add spinach. Cook, stirring gently, until spinach wilts, 1-2 min. Season with pepper, to taste. Remove the pan from heat.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/66635bb5d824d78597572b99/step-51f5a140.jpg"
+        },
+        {
+          "step": 6,
+          "description": "Divide tortellini between bowls. Sprinkle pine nuts, chives and remaining Parmesan over top.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/66635bb5d824d78597572b99/step-21960150.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "830 kcal",
+          "fat": "35 g",
+          "saturated_fat": "15 g",
+          "carbohydrate": "103 g",
+          "sugar": "9 g",
+          "dietary_fiber": "6 g",
+          "protein": "30 g",
+          "cholesterol": "110 mg",
+          "sodium": "2080 mg",
+          "potassium": "900 mg",
+          "calcium": "300 mg",
+          "iron": "4 mg"
+        }
+      },
+      "tags": [
+        "Veggie",
+        "Quick",
+        "Low CO2"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF220615_R1004_W31_CA_RV153200-1_KB_Main_low_remove_lemons-1cc89651.jpg",
+      "cousine": "Italian",
+      "id_legacy": "creamy-cheese-tortellini-and-mushrooms"
+    },
+    {
+      "id": "garlic_salmon_penne",
+      "title": "Garlic Salmon Penne",
+      "subtitle": "Spinach and Parmesan add vibrant appeal",
+      "description": "Savor silky pasta with tender salmon, aromatic garlic, fresh spinach, and a rich Parmesan finish.",
+      "prep_time": "20 minutes",
+      "cooking_time": "3 minutes",
+      "total_time": "23 minutes",
+      "servings": "2",
+      "difficulty": "Medium",
+      "serving_size": "246 g",
+      "calories_per_serving": "780 kcal",
+      "dietary_info": "Contains: Salmon, Wheat, Sulphites, Milk; May contain traces of sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, soybean.",
+      "ingredients": [
+        {
+          "name": "Salmon Fillets, skin-on",
+          "quantity": "250 g",
+          "allergens": [
+            "Salmon"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65ef34c3a66a6a1427fc317e-22414fd8.png"
+        },
+        {
+          "name": "Baby Spinach",
+          "quantity": "56 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e585591101bf6720606f4b-f54e83c4.png"
+        },
+        {
+          "name": "Lemon-Pepper Seasoning",
+          "quantity": "6 g",
+          "allergens": [
+            "Triticale",
+            "Mustard",
+            "Wheat",
+            "Sesame",
+            "Soy",
+            "Peanuts",
+            "Sulphites",
+            "Milk",
+            "Tree nuts"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66b3a0df1047ce98804591ce-e54dc87d.png"
+        },
+        {
+          "name": "Quick-Cook Penne",
+          "quantity": "227 g",
+          "allergens": [
+            "Wheat",
+            "Crustaceans",
+            "Egg",
+            "Fish",
+            "Gluten",
+            "Milk",
+            "Mustard",
+            "Soy",
+            "Sulphites"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/672512ca781d45521669a337-ad33dab5.jpg"
+        },
+        {
+          "name": "Yellow Onion",
+          "quantity": "1 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e58565762a70483e9d9002-d4d03260.png"
+        },
+        {
+          "name": "Garlic Puree",
+          "quantity": "1 tbsp",
+          "allergens": [
+            "Wheat",
+            "Crustaceans",
+            "Fish",
+            "Mustard",
+            "Gluten",
+            "Sesame",
+            "Sulphites",
+            "Soy",
+            "Milk",
+            "Tree nuts",
+            "Egg"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66a7dae372d2a210384ae00c-a0900083.png"
+        },
+        {
+          "name": "Cream Sauce Spice Blend",
+          "quantity": "10 g",
+          "allergens": [
+            "Wheat",
+            "Tree nuts",
+            "Milk",
+            "Mustard",
+            "Peanuts",
+            "Sesame",
+            "Soy",
+            "Sulphites"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65ef1429d4f95068901461f6-fd1d6892.png"
+        },
+        {
+          "name": "White Cooking Wine",
+          "quantity": "4 tbsp",
+          "allergens": [
+            "Sulphites",
+            "Sesame",
+            "Wheat",
+            "Gluten",
+            "Tree nuts",
+            "Mustard",
+            "Soy",
+            "Egg",
+            "Fish",
+            "Milk",
+            "Crustaceans"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66a8039d1f846dd185487e31-442ee3a0.png"
+        },
+        {
+          "name": "Vegetable Broth Concentrate",
+          "quantity": "1 unit",
+          "allergens": [
+            "Milk",
+            "Sesame",
+            "Gluten",
+            "Egg",
+            "Fish",
+            "Mustard",
+            "Crustaceans",
+            "Soy",
+            "Tree nuts",
+            "Wheat",
+            "Sulphites"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66a7d9b71f846dd185487d90-d4abc143.png"
+        },
+        {
+          "name": "Cream Cheese",
+          "quantity": "3 unit",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65ef01b4d4f9506890145cdc-50d0b635.png"
+        },
+        {
+          "name": "Parmesan Cheese, shredded",
+          "quantity": "\u00bc cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110772f8b25ebd2e8b4625-8ffea243.png"
+        },
+        {
+          "name": "Chili Flakes",
+          "quantity": "4 g",
+          "allergens": [
+            "Sulphites",
+            "Tree nuts",
+            "Mustard",
+            "Soy",
+            "Milk",
+            "Sesame",
+            "Triticale",
+            "Wheat",
+            "Peanuts"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66b387201047ce9880458ebc-bc66ac76.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Butter*",
+          "quantity": "2 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b46a3-24de9dfc.png"
+        },
+        {
+          "name": "Pepper*",
+          "quantity": "0.13 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+        },
+        {
+          "name": "Salt*",
+          "quantity": "0.13 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Before starting, preheat the broiler to high. Wash and dry all produce. To a large pot, add 10 cups water and 1 tbsp salt (use same for 4 servings). Cover and bring to a boil over high heat. Heat a large non-stick pan over medium-high. While the pan heats, roughly chop spinach. Pat salmon dry with paper towels, then season with salt and Lemon-Pepper Seasoning.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/67211c8110bbc833b990063b/step-fdc2b700.jpg"
+        },
+        {
+          "step": 2,
+          "description": "When the pan is hot, add 1 tbsp (2 tbsp) butter, then swirl until melted. Add salmon, skin-side down. Sear for 1-2 min, until golden. Transfer to a foil-lined baking sheet, skin-side down. Drizzle remaining melted butter over salmon. Broil in the middle of the oven for 4-6 min, until salmon is cooked through.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/67211c8110bbc833b990063b/step-c37e2710.jpg"
+        },
+        {
+          "step": 3,
+          "description": "While salmon broils, add penne to the boiling water. Cook uncovered for 2-3 min, stirring occasionally, until tender. Reserve 1 cup (2 cups) pasta water, then drain and return penne to the same pot, off heat.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/67211c8110bbc833b990063b/step-fbdbd120.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Meanwhile, return the same pan (from step 2) to medium. Add 1 tbsp (2 tbsp) butter, then onions. Season with salt and pepper. Cook for 1-2 min, stirring occasionally, until slightly softened. Add garlic puree and Cream Sauce Spice Blend, then stir to coat, 30 sec. Add cooking wine. Cook for 20-40 sec., stirring often, until wine reduces by half.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/67211c8110bbc833b990063b/step-a53b2f30.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Add reserved pasta water, broth concentrate and cream cheese to the pan with onion mixture. Cook, whisking often, until sauce comes to a simmer. Simmer for 2-3 min, stirring often, until cream cheese is combined and sauce thickens slightly. Add penne, spinach and half the Parmesan. Cook for 1-2 min, stirring often, until sauce coats pasta and spinach wilts. Season with salt and pepper, to taste.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/67211c8110bbc833b990063b/step-f4cb1540.jpg"
+        },
+        {
+          "step": 6,
+          "description": "Carefully remove and discard salmon skin, if desired. Divide penne between bowls. Top with salmon. Sprinkle remaining Parmesan and chili flakes over top, if desired.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/67211c8110bbc833b990063b/step-a179c450.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "780 kcal",
+          "fat": "42 g",
+          "saturated_fat": "17 g",
+          "carbohydrate": "58 g",
+          "sugar": "9 g",
+          "dietary_fiber": "5 g",
+          "protein": "39 g",
+          "cholesterol": "140 mg",
+          "sodium": "1430 mg",
+          "potassium": "1100 mg",
+          "calcium": "250 mg",
+          "iron": "3 mg"
+        }
+      },
+      "tags": [
+        "Quick",
+        "Spicy",
+        "Low CO2"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y25_R1029_W01_CA_RF154375-8_Main_low-c460b1dd.jpg",
+      "cousine": "Italian",
+      "id_legacy": "creamy-garlic-salmon-penne"
+    },
+    {
+      "id": "creamy_pesto_chicken_orzo",
+      "title": "Creamy Pesto Chicken Orzo",
+      "subtitle": "Featuring fresh spinach and sweet peas.",
+      "description": "Infused with herbaceous creaminess and tender protein, this dish offers a harmonious balance of savory and vibrant flavors.",
+      "prep_time": "35 minutes",
+      "cooking_time": "",
+      "total_time": "",
+      "servings": "2",
+      "difficulty": "Medium",
+      "serving_size": "",
+      "calories_per_serving": "820 kcal",
+      "dietary_info": "Contains Wheat, Milk. Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+      "ingredients": [
+        {
+          "name": "Chicken Breasts",
+          "quantity": "2 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5715013bfd2cb9c71f8b4568.png"
+        },
+        {
+          "name": "Lemon-Pepper Seasoning",
+          "quantity": "1 tbsp",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/6234e2661eb0a87142174af2-2cc08f20.png"
+        },
+        {
+          "name": "Orzo",
+          "quantity": "170 g",
+          "allergens": [
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5566f47ffd2cb952018b456e.png"
+        },
+        {
+          "name": "Baby Spinach",
+          "quantity": "56 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/577ec99e3933dc33508b4567.png"
+        },
+        {
+          "name": "Basil Pesto",
+          "quantity": "\u00bc cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/6009bd1b3d6f696be177e9eb-820ddb98.png"
+        },
+        {
+          "name": "Parmesan Cheese, shredded",
+          "quantity": "\u00bc cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110772f8b25ebd2e8b4625-8ffea243.png"
+        },
+        {
+          "name": "Garlic, cloves",
+          "quantity": "1 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/6137677a256fc53c23222228-c6553cc2.png"
+        },
+        {
+          "name": "Green Peas",
+          "quantity": "56 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110775f8b25ebd2e8b4678-9aa0cf01.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Salt*",
+          "quantity": "0.38 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+        },
+        {
+          "name": "Pepper*",
+          "quantity": "0.06 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+        },
+        {
+          "name": "Oil*",
+          "quantity": "\u00bd tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+        },
+        {
+          "name": "Unsalted Butter*",
+          "quantity": "1 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5bc5064e30006c1a261b4612-4ffc3691.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Before starting, preheat the oven to 450\u02daF. Wash and dry all produce. Heat a large non-stick pan over medium-high heat. While the pan heats, pat chicken dry with paper towels. Season with salt and half the Lemon-Pepper Seasoning. When hot, add 1/2 tbsp oil (dbl for 4 ppl), then chicken. Sear until golden-brown, 1-2 min per side. Remove the pan from heat, then transfer chicken to a parchment-lined baking sheet. Roast in the middle of the oven until chicken is cooked through, 12-14 min. Carefully wipe the pan clean.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/62c3f6618f610837d90dc375/step-cef0e5ec.jpg"
+        },
+        {
+          "step": 2,
+          "description": "Meanwhile, peel, then mince or grate garlic.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/62c3f6618f610837d90dc375/step-f9dbcc0a.jpg"
+        },
+        {
+          "step": 3,
+          "description": "Heat the same pan (from step 1) over medium. When hot, add 1 tbsp butter (dbl for 4 ppl), then swirl the pan until melted. Add garlic. Cook, stirring constantly, until fragrant, 30 sec. Stir in orzo, remaining Lemon-Pepper Seasoning, 1/4 tsp salt and 2 1/2 cups water (dbl both for 4 ppl). Cover and bring to a boil over high.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/62c3f6618f610837d90dc375/step-b68cbf9b.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Once boiling, uncover and reduce heat to medium. Cook uncovered, stirring occasionally, until orzo is tender, 14-16 min. Add peas to the pan halfway through cooking.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/62c3f6618f610837d90dc375/step-23c44036.jpg"
+        },
+        {
+          "step": 5,
+          "description": "When orzo is tender, add spinach to the pan. Cook, stirring often, until wilted, 1-2 min. Add three-quarters of the Parmesan. Cook, stirring often, until Parmesan melts, 1 min. Remove the pan from heat. Stir in pesto, then season with salt and pepper, to taste.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/62c3f6618f610837d90dc375/step-a8585577.jpg"
+        },
+        {
+          "step": 6,
+          "description": "Thinly slice chicken. Divide orzo between plates. Top with chicken, then sprinkle with remaining Parmesan.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/62c3f6618f610837d90dc375/step-3e4be274.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "820 kcal",
+          "fat": "24 g",
+          "saturated_fat": "9 g",
+          "carbohydrate": "75 g",
+          "sugar": "4 g",
+          "dietary_fiber": "7 g",
+          "protein": "57 g",
+          "cholesterol": "153 mg",
+          "sodium": "1060 mg",
+          "potassium": "",
+          "calcium": "",
+          "iron": ""
+        }
+      },
+      "tags": [
+        "Spicy"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/orzo-au-poulet-et-pesto-cremeux-2c2b8618.jpg",
+      "cousine": "Italian",
+      "id_legacy": "creamy-pesto-orzo-and-chicken"
+    },
+    {
+      "id": "pesto_pork_rigatoni",
+      "title": "Pesto Pork Rigatoni",
+      "subtitle": "Featuring Fresh Spinach and Parmesan",
+      "description": "Savor the gourmet blend of succulent pork and vibrant pesto, enriched by crisp spinach and a hint of rich Parmesan for a comforting winter dish.",
+      "prep_time": "30 minutes",
+      "cooking_time": "",
+      "total_time": "",
+      "servings": "4",
+      "difficulty": "Medium",
+      "serving_size": "",
+      "calories_per_serving": "790 kcal",
+      "dietary_info": "Quick; Contains Wheat, Milk, Soy; Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+      "ingredients": [
+        {
+          "name": "Pork Strips",
+          "quantity": "340 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredients/58dbc836313100596301e9b3-aa011ac7.png"
+        },
+        {
+          "name": "Rigatoni",
+          "quantity": "170 g",
+          "allergens": [
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/581b5efcb0a3604cb9102ac1-15bb60ba.png"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "6 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/554a363df8b25e1d268b456b.png"
+        },
+        {
+          "name": "Chicken Broth Concentrate",
+          "quantity": "1 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5755e5e9f8b25e45148b4567-d6ad65dc.png"
+        },
+        {
+          "name": "Basil Pesto",
+          "quantity": "\u00bc cup",
+          "allergens": [
+            "Milk",
+            "Soy"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5755e3c2f8b25e470d8b4567-820ddb98.png"
+        },
+        {
+          "name": "Baby Spinach",
+          "quantity": "56 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/577ec99e3933dc33508b4567.png"
+        },
+        {
+          "name": "Parmesan Cheese",
+          "quantity": "\u00bc cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5bbe2b9d30006c27504fa002-34f15c81.png"
+        },
+        {
+          "name": "Chili Flakes",
+          "quantity": "\u00bc tsp",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/554a35f4fd2cb9cf488b4569.png"
+        },
+        {
+          "name": "All-Purpose Flour",
+          "quantity": "1 tbsp",
+          "allergens": [
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b46a8-cd52fdfe.png"
+        },
+        {
+          "name": "Onion, chopped",
+          "quantity": "56 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110770f8b25ebd2e8b45e9-760c9978.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Milk*",
+          "quantity": "\u00bd cup",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57c06c6892eec975218b4569-ffca2aa9.png"
+        },
+        {
+          "name": "Salt*",
+          "quantity": "2 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+        },
+        {
+          "name": "Oil*",
+          "quantity": "\u00bd tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+        },
+        {
+          "name": "Salt and Pepper*",
+          "quantity": "\u00bc tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5995dab2c28800013e48e192-94c68656.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Before starting, wash and dry all produce. Heat Guide for Step 6 (dbl for 4 ppl): 1/4 tsp mild, 1/2 tsp medium and 1 tsp spicy! Add 10 cups water and 2 tsp salt in a large pot. (NOTE: Use same for 4 ppl.) Cover and bring to a boil over high heat. Add rigatoni to the pot of boiling water. Cook uncovered, stirring occasionally, until tender, 10-12 min. Drain and return the rigatoni to same pot.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/5fd8b4a3ffbca863e22bc928/step-71c4525c.jpg"
+        },
+        {
+          "step": 2,
+          "description": "While the rigatoni cooks, roughly chop the spinach. Peel, then mince or grate the garlic. Pat the pork strips dry with paper towels, then cut in half.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/5fd8b4a3ffbca863e22bc928/step-9ffab909.jpg"
+        },
+        {
+          "step": 3,
+          "description": "Heat a large non-stick pan over medium-high heat. When hot, add 1 tbsp oil (dbl for 4 ppl), the pork. Cook, stirring occasionally, until pork is cooked through, 3-4 min.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/5fd8b4a3ffbca863e22bc928/step-94df35af.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Add the onions and garlic to the pan with the pork. Cook, stirring occasionally, until veggies have softened, 3-4 min. Sprinkle the flour over the pork mixture, then stir to combine, 1 min.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/5fd8b4a3ffbca863e22bc928/step-642e7676.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Add 1/2 cup milk (dbl for 4 ppl), broth concentrate and spinach to the pan. Stir to combine. Cook, stirring often, until sauce thickens slightly, 1-2 min. Remove from heat. Season with salt and pepper.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/5fd8b4a3ffbca863e22bc928/step-3bff3b06.jpg"
+        },
+        {
+          "step": 6,
+          "description": "Pour the sauce over the rigatoni in the large pot and add the pesto. Stir to combine. Divide the pasta between bowls. Sprinkle over Parmesan cheese and 1/4 tsp chili flakes over top (reference heat guide).",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/5fd8b4a3ffbca863e22bc928/step-66edd78e.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "790 kcal",
+          "fat": "26 g",
+          "saturated_fat": "8 g",
+          "carbohydrate": "75 g",
+          "sugar": "8 g",
+          "dietary_fiber": "3 g",
+          "protein": "61 g",
+          "cholesterol": "130 mg",
+          "sodium": "1010 mg",
+          "potassium": "",
+          "calcium": "",
+          "iron": ""
+        }
+      },
+      "tags": [
+        "Quick"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/rigatonis-cremeux-au-porc-au-pesto-b1d4d4e6.jpg",
+      "cousine": "Italian",
+      "id_legacy": "creamy-pesto-pork-rigatoni"
+    },
+    {
+      "id": "rigatoni_with_chicken",
+      "title": "Rigatoni with Chicken",
+      "subtitle": "Featuring Garlicky Greens and Creme Fraiche",
+      "description": "A velvety pasta dish where tender chicken pairs beautifully with vibrant, garlicky greens and tangy creme fraiche.",
+      "prep_time": "30 minutes",
+      "cooking_time": "15 minutes",
+      "total_time": "45 minutes",
+      "servings": "2",
+      "difficulty": "Medium",
+      "serving_size": "234",
+      "calories_per_serving": "844 kcal",
+      "dietary_info": "Cereals containing gluten, Celery, Milk, Egg",
+      "ingredients": [
+        {
+          "name": "Echalion Shallot",
+          "quantity": "1",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5568817d4dab71121f8b4568-688abb42.png"
+        },
+        {
+          "name": "Garlic Clove",
+          "quantity": "2",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/58f11054d56afa789e7f2b22-7c9458e8.png"
+        },
+        {
+          "name": "Courgette",
+          "quantity": "1",
+          "allergens": [
+            "Celery"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/554a727dfd2cb959598b4574-5dc14237.png"
+        },
+        {
+          "name": "Lemon",
+          "quantity": "\u00bd",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/554a72ebfd2cb95a598b4570-34b3aef0.png"
+        },
+        {
+          "name": "Rigatoni Pasta",
+          "quantity": "180",
+          "allergens": [
+            "Cereals containing gluten"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/55686416f8b25e68408b456c-8102071b.png"
+        },
+        {
+          "name": "Baby Spinach",
+          "quantity": "100",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/555c9dd5fd2cb92f6c8b4569-9a8edcf9.png"
+        },
+        {
+          "name": "Diced British Chicken Breast",
+          "quantity": "260",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/6390aea605fc26d5313f23d2-8bbe1b68.png"
+        },
+        {
+          "name": "Vegetable Stock Paste",
+          "quantity": "10",
+          "allergens": [
+            "Celery"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/60002dce8c8c0a188200a96e-98a6ef0a.png"
+        },
+        {
+          "name": "Creme Fraiche",
+          "quantity": "150",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/555084f34dab718e128b4569-caa1bdd7.png"
+        },
+        {
+          "name": "Grated Hard Italian Style Cheese",
+          "quantity": "40",
+          "allergens": [
+            "Milk",
+            "Egg"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5550865efd2cb974658b4568-48d0df69.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Reserved Pasta Water",
+          "quantity": "100",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5fbe496c04c348699907c2a2-b5785fc4.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Put a large saucepan of water with 1/2 tsp salt on to boil for the pasta. Halve, peel and thinly slice the shallot. Peel and grate the garlic (or use a garlic press). Trim the courgette. Use a peeler to peel long ribbons down the length of the courgette, stopping at the spongy centre. Zest and halve the lemon.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/63b46bfb4ce8ac7a954a1fca/step-9a73d700.jpg"
+        },
+        {
+          "step": 2,
+          "description": "Once boiling, add the rigatoni to the water and bring back to the boil. Cook until tender, 12 mins. When ready, reserve some of the pasta water (see pantry for amount), then drain in a colander. Pop the pasta back into the pan, drizzle with oil and stir through to stop it sticking together.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/63b46bfb4ce8ac7a954a1fca/step-c0f7ab10.jpg"
+        },
+        {
+          "step": 3,
+          "description": "Meanwhile, heat a drizzle of oil in a large frying pan on medium heat. Once hot, add the courgette ribbons and season with salt and pepper. Cook until softened, 2-3 mins, then stir in the garlic and cook for 1 min more. Add the spinach a handful at a time and cook until wilted and piping hot, 1-2 mins. Once cooked, transfer everything to a large bowl and cover to keep warm.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/63b46bfb4ce8ac7a954a1fca/step-705e8f20.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Put your (now empty) frying pan back on medium-high heat with a drizzle of oil (if needed). Once hot, add the chicken to the pan and season with salt and pepper. Cook until browned all over, 5-6 mins. Turn occasionally. IMPORTANT: Wash your hands and equipment after handling raw chicken and its packaging. Add the shallot to the chicken pan and cook, stirring occasionally, until the shallot has softened, 3-4 mins. Stir in the veg stock paste and reserved pasta water, then simmer until reduced by half, 3-4 mins. Mix in the creme fraiche and heat through until piping hot, then season with pepper. Stir through three quarters of the grated hard Italian style cheese. IMPORTANT: The chicken is cooked when no longer pink in the middle.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/63b46bfb4ce8ac7a954a1fca/step-db131430.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Stir the cooked pasta through your sauce along with half the greens. Add a splash of water if it's a little too thick. Add a pinch of lemon zest and a squeeze of lemon juice. Taste and add more lemon juice, salt and pepper if needed.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/63b46bfb4ce8ac7a954a1fca/step-a22afa40.jpg"
+        },
+        {
+          "step": 6,
+          "description": "Share the creamy chicken pasta between your bowls and top with the remaining greens. Finish with a sprinkle of the remaining hard Italian style cheese. Enjoy!",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/63b46bfb4ce8ac7a954a1fca/step-150c6150.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "844 kcal",
+          "fat": "34 g",
+          "saturated_fat": "19.6 g",
+          "carbohydrate": "77.6 g",
+          "sugar": "10.2 g",
+          "dietary_fiber": "N/A",
+          "protein": "56.4 g",
+          "cholesterol": "N/A",
+          "sodium": "1.76 g",
+          "potassium": "N/A",
+          "calcium": "N/A",
+          "iron": "N/A"
+        }
+      },
+      "tags": [
+        "Italian",
+        "Pasta",
+        "Chicken"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF210216_R20_W13_UK_R1702-15_KB_Main_add_low-3d28e33a.jpg",
+      "cousine": "Italian",
+      "id_legacy": "creamy-rigatoni-with-chicken-breast"
+    },
+    {
+      "id": "creamy_rigatoni_with_sausage",
+      "title": "Creamy Rigatoni with Sausage",
+      "subtitle": "Infused with cream cheese, broccoli, lemon and parmesan",
+      "description": "A comforting medley of tender pasta and savory sausage enveloped in a velvety, tangy sauce, delivering vibrant textures and a satisfying finish.",
+      "prep_time": "5 minutes",
+      "cooking_time": "15 minutes",
+      "servings": "2",
+      "difficulty": "Easy",
+      "calories_per_serving": "920 kcal",
+      "dietary_info": "Contains Wheat and Milk. Produced in a facility that processes eggs, milk, fish, peanuts, sesame, shellfish, soy, tree nuts, and wheat.",
+      "ingredients": [
+        {
+          "name": "Broccoli Florets",
+          "quantity": "8 ounce",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/55b78d35f8b25ece088b4568.png"
+        },
+        {
+          "name": "Lemon",
+          "quantity": "1 unit",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/554a302ffd2cb9324b8b4569.png"
+        },
+        {
+          "name": "Rigatoni Pasta",
+          "quantity": "6 ounce",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57153f624dab716c318b4567-2a554e3d.png"
+        },
+        {
+          "name": "Italian Chicken Sausage",
+          "quantity": "9 ounce",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/581b470e4cdfb5171e0f4c42-626ae324.png"
+        },
+        {
+          "name": "PHILADELPHIA\u00ae Cream Cheese",
+          "quantity": "4 tablespoon",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5faf0b04ff7dec1f37136593-2dd503bf.png"
+        },
+        {
+          "name": "Sour Cream",
+          "quantity": "2 tablespoon",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5550e1064dab71893e8b4569-dc52e70d.png"
+        },
+        {
+          "name": "Garlic Powder",
+          "quantity": "1 teaspoon",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/55ef01fbf8b25eba7e8b4567-446bc04f.png"
+        },
+        {
+          "name": "Chicken Stock Concentrate",
+          "quantity": "1 unit",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5632315bf8b25e5a138b4568-07f14295.png"
+        },
+        {
+          "name": "Parmesan Cheese",
+          "quantity": "\u00bc cup",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5550e133fd2cb9a7168b456b-fb858db7.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Cooking Oil",
+          "quantity": "1 teaspoon",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/606db3ad4f75e662fe596b59-3600be54.png"
+        },
+        {
+          "name": "Butter",
+          "quantity": "2 tablespoon",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5566e4d74dab71e3078b4569.png"
+        },
+        {
+          "name": "Salt",
+          "quantity": "",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5566ceb7fd2cb95f7f8b4567-20f73b1d.png"
+        },
+        {
+          "name": "Pepper",
+          "quantity": "",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5566dc00f8b25e5b298b4568-b5daf661.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Bring a large pot of salted water to a boil. Wash and dry produce. Cut broccoli florets into bite-size pieces if necessary. Quarter lemon.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/61d5fa6a42ea1768b9252c3c/step-193dbc79.jpg"
+        },
+        {
+          "step": 2,
+          "description": "Once water is boiling, add rigatoni to pot. Cook, stirring occasionally, until al dente, 9-11 minutes. Reserve \u00be cup pasta cooking water (1 cup for 4 servings), then drain. TIP: If your water isn\u2019t boiling yet, get started on the next steps!",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/61d5fa6a42ea1768b9252c3c/step-bdca1810.jpg"
+        },
+        {
+          "step": 3,
+          "description": "Place broccoli in a medium, microwave-safe bowl (use a large bowl for 4 servings) and cover with plastic wrap. Microwave until tender, 1-2 minutes. TIP: No microwave? In the last 2-4 minutes of cooking pasta, add broccoli to boiling water and cook with pasta until tender.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/61d5fa6a42ea1768b9252c3c/step-7d2d4b94.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Place broccoli in a medium, microwave-safe bowl (use a large bowl for 4 servings) and cover with plastic wrap. Microwave until tender, 1-2 minutes. TIP: If no microwave is available, add broccoli to boiling pasta water in the last 2-4 minutes of cooking. Swap in chicken sausage for pork sausage. (No need to discard casing\u2014 there is none!)",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/61d5fa6a42ea1768b9252c3c/step-bee0ee0a.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Reduce heat to medium low. Stir Philadelphia cream cheese, sour cream, garlic powder, chicken stock concentrate, \u00bc cup pasta cooking water (1\u20443 cup for 4 servings), 2 TBSP butter (4 TBSP for 4), and a big squeeze of lemon juice into the pan with sausage. Season with salt and pepper. TIP: Add a pinch of chili flakes for a spicy kick if desired. Add rigatoni and broccoli, and cook, stirring, until pasta is coated in a creamy sauce. If needed, stir in additional pasta cooking water a splash at a time.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/61d5fa6a42ea1768b9252c3c/step-656bffb3.jpg"
+        },
+        {
+          "step": 6,
+          "description": "Divide pasta between bowls. Top with a squeeze of lemon juice. Sprinkle with Parmesan and serve with any remaining lemon wedges on the side.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/61d5fa6a42ea1768b9252c3c/step-9430dd9b.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "920 kcal",
+          "fat": "44 g",
+          "saturated_fat": "23 g",
+          "carbohydrate": "90 g",
+          "sugar": "9 g",
+          "dietary_fiber": "11 g",
+          "protein": "44 g",
+          "cholesterol": "190 mg",
+          "sodium": "1650 mg",
+          "potassium": "",
+          "calcium": "",
+          "iron": ""
+        }
+      },
+      "tags": [
+        "Easy Prep"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/61d5fa6a42ea1768b9252c3c-8187c429.jpg",
+      "recipe_url": "https://www.hellofresh.com/recipes/creamy-rigatoni-with-italian-chicken-sausage",
+      "pdf_url": "https://www.hellofresh.com/recipecards/card/creamy-rigatoni-with-italian-chicken-sausage-61d5fa6a42ea1768b9252c3c-7f0b1d0c.pdf",
+      "cousine": "Italian",
+      "id_legacy": "creamy-rigatoni-with-italian-chicken-sausage"
+    },
+    {
+      "id": "hearty_bolognese_pasta",
+      "title": "Hearty Bolognese Pasta",
+      "subtitle": "Infused with Fresh Baby Tomatoes",
+      "description": "A creative twist on an Italian classic that delivers a rich, savory sauce with a delightful burst of freshness.",
+      "prep_time": "30 minutes",
+      "cooking_time": "",
+      "total_time": "",
+      "servings": "24",
+      "difficulty": "Medium",
+      "serving_size": "",
+      "calories_per_serving": "970 kcal",
+      "dietary_info": "Contains Wheat, Sulphites, Milk. Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": "250 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110772f8b25ebd2e8b462d-edb66b38.png"
+        },
+        {
+          "name": "Spaghetti",
+          "quantity": "170 g",
+          "allergens": [
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/57110771f8b25ebd2e8b460f.png"
+        },
+        {
+          "name": "Balsamic Vinegar",
+          "quantity": "1 tbsp",
+          "allergens": [
+            "Sulphites"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/554a3879fd2cb9ba4f8b456a.png"
+        },
+        {
+          "name": "Zucchini",
+          "quantity": "200 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5553981df8b25e5d0c8b456a.png"
+        },
+        {
+          "name": "Garlic Puree",
+          "quantity": "1 tbsp",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5e72773fd47b5c0367730d8f-de6c3494.png"
+        },
+        {
+          "name": "Parmesan Cheese, shredded",
+          "quantity": "\u00bd cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110772f8b25ebd2e8b4625-8ffea243.png"
+        },
+        {
+          "name": "Basil Pesto",
+          "quantity": "\u00bc cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/6009bd1b3d6f696be177e9eb-820ddb98.png"
+        },
+        {
+          "name": "Italian Seasoning",
+          "quantity": "2 tbsp",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077cf8b25ebd2e8b4715-7ab11b87.png"
+        },
+        {
+          "name": "Baby Tomatoes",
+          "quantity": "113 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5fd1005e12e3ee2a0630c88e-580817ed.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Unsalted Butter*",
+          "quantity": "1 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5bc5064e30006c1a261b4612-4ffc3691.png"
+        },
+        {
+          "name": "Salt*",
+          "quantity": "0.13 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+        },
+        {
+          "name": "Oil*",
+          "quantity": "1 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+        },
+        {
+          "name": "Pepper*",
+          "quantity": "0.13 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Before starting, wash and dry all produce. Add 10 cups water and 2 tsp salt to a large pot (use same for 4 ppl). Cover and bring to a boil over high heat. Meanwhile, halve zucchini lengthwise, then cut into 1/4-inch half-moons. Halve tomatoes.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/62dfac22b9e975d18403758c/step-c0420b41.jpg"
+        },
+        {
+          "step": 2,
+          "description": "Add spaghetti to the boiling water. Cook uncovered, stirring occasionally, until tender, 10-12 min. Reserve 1/2 cup pasta water (dbl for 4 ppl), then drain.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/62dfac22b9e975d18403758c/step-ebd8e0be.jpg"
+        },
+        {
+          "step": 3,
+          "description": "Meanwhile, heat a large non-stick pan over medium-high heat. When hot, add 1 tbsp oil (dbl for 4 ppl), then beef, garlic puree and Italian Seasoning. Cook, breaking up beef into smaller pieces, until no pink remains, 4-5 min. Add zucchini. Cook, stirring occasionally, until tender, 3-4 min. Season with salt and pepper.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/62dfac22b9e975d18403758c/step-9ff63af4.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Add tomatoes, vinegar and 1/4 cup pasta water (dbl for 4 ppl) to beef mixture. (TIP: For a looser consistency, add more pasta water, 1 tbsp at a time!) Cook, stirring occasionally, until sauce thickens, 1-2 min.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/62dfac22b9e975d18403758c/step-f92a3656.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Add spaghetti, pesto, half the Parmesan and 1 tbsp butter (dbl for 4 ppl) to the pan with sauce. Remove the pan from heat. Toss to coat spaghetti. Season with salt and pepper, to taste.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/62dfac22b9e975d18403758c/step-42433a26.jpg"
+        },
+        {
+          "step": 6,
+          "description": "Divide Bolognese between bowls. Sprinkle remaining Parmesan over top.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/62dfac22b9e975d18403758c/step-f0fffd30.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "970 kcal",
+          "fat": "44 g",
+          "saturated_fat": "17 g",
+          "carbohydrate": "78 g",
+          "sugar": "8 g",
+          "dietary_fiber": "8 g",
+          "protein": "49 g",
+          "cholesterol": "90 mg",
+          "sodium": "600 mg",
+          "potassium": "",
+          "calcium": "",
+          "iron": ""
+        }
+      },
+      "tags": [
+        "Pasta",
+        "Italian",
+        "Bolognese"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/pates-a-la-bolognaise-aux-legumes-9684d137.jpg",
+      "cousine": "Italian",
+      "id_legacy": "harvest-bolognese-pasta"
+    },
+    {
+      "id": "roasted_dill-garlic_salmon",
+      "title": "Roasted Dill-Garlic Salmon",
+      "subtitle": "Warm Orzo and Spinach Salad",
+      "description": "Succulent salmon roasted with dill and garlic, paired with a Greek-inspired orzo salad accented by olives and feta for a uniquely bright flavor and texture.",
+      "prep_time": "25 minutes",
+      "cooking_time": "",
+      "total_time": "",
+      "servings": "24",
+      "difficulty": "Medium",
+      "serving_size": "",
+      "calories_per_serving": "700 kcal",
+      "dietary_info": "Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+      "ingredients": [
+        {
+          "name": "Salmon Fillets, skin-on",
+          "quantity": "250 g",
+          "allergens": [
+            "Salmon"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/62cecd6a61c10fc1cc0bc2eb-9b300930.png"
+        },
+        {
+          "name": "Orzo",
+          "quantity": "170 g",
+          "allergens": [
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5566f47ffd2cb952018b456e.png"
+        },
+        {
+          "name": "Yogurt Sauce",
+          "quantity": "3 tbsp",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/6482253bf0e65da77b034c0f-3ebdfaaf.png"
+        },
+        {
+          "name": "Baby Spinach",
+          "quantity": "28 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/577ec99e3933dc33508b4567.png"
+        },
+        {
+          "name": "Feta Cheese, crumbled",
+          "quantity": "\u00bc cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110775f8b25ebd2e8b4677-dec4ab3c.png"
+        },
+        {
+          "name": "Tomato",
+          "quantity": "1 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/556728a04dab71a90d8b456a.png"
+        },
+        {
+          "name": "Dill-Garlic Spice Blend",
+          "quantity": "1 tsp",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5ef0ce0f8530d62e2242a8fc-7d1cccb1.png"
+        },
+        {
+          "name": "Mixed Olives",
+          "quantity": "30 g",
+          "allergens": [
+            "Sulphites"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5566f37ffd2cb95e018b456a.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Oil*",
+          "quantity": "2 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+        },
+        {
+          "name": "Salt*",
+          "quantity": "0.13 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+        },
+        {
+          "name": "Pepper*",
+          "quantity": "0.06 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Before starting, preheat the oven to 450\u00b0F. Wash and dry all produce. Add 6 cups water and 1 tsp salt to a large pot (use same for 4 ppl). Cover and bring to a boil over high heat. Add orzo to the boiling water. Cook uncovered, stirring occasionally, until tender, 6-8 min.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6578582b9fd7381f2e07feaa/step-07f533cb.jpg"
+        },
+        {
+          "step": 2,
+          "description": "Meanwhile, pat salmon dry with paper towels. Sprinkle with half the Dill-Garlic Spice Blend, then season with salt and pepper. Arrange salmon on a lightly oiled, foil-lined baking sheet, skin-side down. Drizzle 2 tsp (4 tsp) oil over top. Roast in the middle of the oven until salmon is cooked through, 7-10 min.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6578582b9fd7381f2e07feaa/step-773588f9.jpg"
+        },
+        {
+          "step": 3,
+          "description": "Meanwhile, cut tomato into 1/2-inch pieces. Roughly chop spinach. Add spinach, tomatoes, yogurt sauce and remaining Dill-Garlic Spice Blend to a large bowl. Drain, then roughly chop olives.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6578582b9fd7381f2e07feaa/step-fd55b1e7.jpg"
+        },
+        {
+          "step": 4,
+          "description": "When orzo is tender, reserve 2 tbsp (4 tbsp) pasta water, then drain orzo well. Add orzo and reserved pasta water to the large bowl with spinach-yogurt sauce mixture. Season with salt, then stir to combine.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6578582b9fd7381f2e07feaa/step-6ca6e29d.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Divide warm orzo salad between plates. Top with olives, then dill-garlic salmon. Sprinkle feta over top.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6578582b9fd7381f2e07feaa/step-73a80acc.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "700 kcal",
+          "fat": "30 g",
+          "saturated_fat": "8 g",
+          "carbohydrate": "70 g",
+          "sugar": "5 g",
+          "dietary_fiber": "6 g",
+          "protein": "40 g",
+          "cholesterol": "95 mg",
+          "sodium": "770 mg",
+          "potassium": "950 mg",
+          "calcium": "175 mg",
+          "iron": "3.75 mg"
+        }
+      },
+      "tags": [
+        "Family Friendly",
+        "Quick",
+        "Low CO2"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/saumon-roti-a-laneth-et-a-lail-0625c81c.jpg",
+      "cousine": "Greek",
+      "id_legacy": "roasted-dill-garlic-salmon"
+    },
+    {
+      "id": "bacon_corn_chowder",
+      "title": "Bacon Corn Chowder",
+      "subtitle": "Crispy bacon, tangy sour cream, and crumbled feta",
+      "description": "A comforting stew bursting with rich textures and balanced flavors, merging smokiness with creaminess in every spoonful.",
+      "prep_time": "30 minutes",
+      "cooking_time": "8 minutes",
+      "total_time": "38 minutes",
+      "servings": "4",
+      "difficulty": "Easy",
+      "serving_size": "246 g",
+      "calories_per_serving": "590 kcal",
+      "dietary_info": "Calorie Smart, Carb Smart, Low CO2, Allergens - Milk, Wheat, Soy, Sulphites",
+      "ingredients": [
+        {
+          "name": "Bacon Strips",
+          "quantity": "100 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e585471101bf6720606cf6-21538551.png"
+        },
+        {
+          "name": "Russet Potato",
+          "quantity": "1 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e585611101bf672060703e-5bece27f.png"
+        },
+        {
+          "name": "Mirepoix",
+          "quantity": "113 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5880d2179df181780547f7f1-3f2cf596.png"
+        },
+        {
+          "name": "Cream",
+          "quantity": "56 mL",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65ef112d4916f82b1a901e53-1b7e8838.png"
+        },
+        {
+          "name": "Sour Cream",
+          "quantity": "1 unit(s)",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65ef01f9a66a6a1427fc21cf-f355306b.png"
+        },
+        {
+          "name": "Feta Cheese, crumbled",
+          "quantity": "\u00bc cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110775f8b25ebd2e8b4677-dec4ab3c.png"
+        },
+        {
+          "name": "Cream Sauce Spice Blend",
+          "quantity": "20 g",
+          "allergens": [
+            "Wheat",
+            "Tree nuts",
+            "Milk",
+            "Mustard",
+            "Peanuts",
+            "Sesame",
+            "Soy",
+            "Sulphites"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65ef1429d4f95068901461f6-fd1d6892.png"
+        },
+        {
+          "name": "Vegetable Stock Powder",
+          "quantity": "7.5 g",
+          "allergens": [
+            "Soy",
+            "Sulphites",
+            "Milk",
+            "Mustard",
+            "Tree nuts",
+            "Peanuts",
+            "Sesame",
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/6724ff5e9ba7c0b27f46d4ad-a8963eb9.png"
+        },
+        {
+          "name": "Mexican Seasoning",
+          "quantity": "4 g",
+          "allergens": [
+            "Sesame",
+            "Triticale",
+            "Peanuts",
+            "Tree nuts",
+            "Wheat",
+            "Mustard",
+            "Sulphites",
+            "Milk",
+            "Soy"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/66b386636d92980d0360c91d-c6cbf68d.png"
+        },
+        {
+          "name": "Green Onion",
+          "quantity": "1 unit(s)",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e585561101bf6720606ef2-1ff5c4d7.png"
+        },
+        {
+          "name": "Corn Kernels",
+          "quantity": "113 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e58541f5a5196d85e97b7b-22a7cc61.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Salt*",
+          "quantity": "0.06 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+        },
+        {
+          "name": "Pepper*",
+          "quantity": "0.06 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Cut bacon into 1/2-inch pieces. Heat a large pot over medium-high (use same for 4 servings). When hot, add bacon. Cook, stirring occasionally, until crispy, 5-7 min. (TIP: If bacon begins to brown too quickly, reduce heat to medium.) Remove from heat. Using a slotted spoon, transfer bacon to a paper towel-lined plate. Reserve fat in pot.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/66fdb590700e613c8be19381/step-b86d4100.jpg"
+        },
+        {
+          "step": 2,
+          "description": "While bacon cooks, on a clean cutting board, peel, then cut potato into 1/4-inch pieces. Thinly slice green onion.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/66fdb590700e613c8be19381/step-7e1b8010.jpg"
+        },
+        {
+          "step": 3,
+          "description": "Reheat the same pot over medium heat. When hot, add mirepoix, corn and potato. Cook, stirring often, until veggies are tender-crisp, 4-5 min.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/66fdb590700e613c8be19381/step-4d688d20.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Add Cream Sauce Spice Blend and half the Mexican Seasoning (use all for 4 servings). Stir to coat. Add vegetable stock powder, cream and 2 cups (3 1/2 cups) water. Bring to a simmer over high, then reduce heat to medium. Cook, stirring occasionally, until veggies are tender, 6-9 min. (TIP: If liquid reduces too quickly before veggies are tender, add water, 2 tbsp at a time).",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/66fdb590700e613c8be19381/step-bbc6e230.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Season chowder with salt and pepper to taste. Divide chowder between bowls. Dollop sour cream over top. Sprinkle bacon, feta and green onions over top.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/66fdb590700e613c8be19381/step-760f5840.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "590 kcal",
+          "fat": "39 g",
+          "saturated_fat": "17 g",
+          "carbohydrate": "50 g",
+          "sugar": "9 g",
+          "dietary_fiber": "5 g",
+          "protein": "15 g",
+          "cholesterol": "90 mg",
+          "sodium": "2070 mg",
+          "potassium": "1100 mg",
+          "calcium": "150 mg",
+          "iron": "2.5 mg"
+        }
+      },
+      "tags": [
+        "Calorie Smart",
+        "Carb Smart",
+        "Low CO2"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R1019_W28_CA_RP24935-1_Main_low-c8b10f67.jpg",
+      "cousine": "Mexican",
+      "id_legacy": "smart-esquites-bacon-and-corn-chowder"
+    },
+    {
+      "id": "roasted_pork_tenderloin",
+      "title": "Roasted Pork Tenderloin",
+      "subtitle": "Creamy Cauliflower Mash with Savory Shallot Gravy",
+      "description": "A modern twist on a classic dish, featuring succulent pork enhanced by velvety textures and aromatic spice for a truly delightful culinary experience.",
+      "prep_time": "40 minutes",
+      "cooking_time": "",
+      "total_time": "40 minutes",
+      "servings": "4",
+      "difficulty": "Medium",
+      "serving_size": "",
+      "calories_per_serving": "700 kcal",
+      "dietary_info": "Carb Smart, Calorie Smart",
+      "ingredients": [
+        {
+          "name": "Pork Tenderloin",
+          "quantity": "340 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5567235df8b25e472f8b4567.png"
+        },
+        {
+          "name": "Cauliflower, florets",
+          "quantity": "285 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/56a785f74dab7113398b4568.png"
+        },
+        {
+          "name": "Chicken Broth Concentrate",
+          "quantity": "1 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5755e5e9f8b25e45148b4567-d6ad65dc.png"
+        },
+        {
+          "name": "Shallot",
+          "quantity": "50 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/554a3dfbf8b25e1d268b456f.png"
+        },
+        {
+          "name": "Garlic Puree",
+          "quantity": "1 tbsp",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5e72773fd47b5c0367730d8f-de6c3494.png"
+        },
+        {
+          "name": "Dijon Mustard",
+          "quantity": "1 tbsp",
+          "allergens": [
+            "Mustard"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5ea33bb3b51a9a08711358d8-001a44ce.png"
+        },
+        {
+          "name": "All-Purpose Flour",
+          "quantity": "1 tbsp",
+          "allergens": [
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b46a8-cd52fdfe.png"
+        },
+        {
+          "name": "Zucchini",
+          "quantity": "400 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5553981df8b25e5d0c8b456a.png"
+        },
+        {
+          "name": "Montreal Spice Blend",
+          "quantity": "\u00bd tbsp",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5f5b6aa73446d2177a3e11e4-f7079c27.png"
+        },
+        {
+          "name": "Russet Potato",
+          "quantity": "230 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077df8b25ebd2e8b471b-b10a7316.png"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": "1.5 tsp",
+          "allergens": [
+            "Soy",
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/6009c1dc6ff085198b11dc2d-e35a259a.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Unsalted Butter*",
+          "quantity": "3 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5bc5064e30006c1a261b4612-4ffc3691.png"
+        },
+        {
+          "name": "Oil*",
+          "quantity": "2 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+        },
+        {
+          "name": "Pepper*",
+          "quantity": "0.13 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+        },
+        {
+          "name": "Salt*",
+          "quantity": "\u00bc tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Before starting, preheat the oven to 450\u00b0F. Wash and dry all produce. Stir together Dijon and half the garlic puree in a small bowl. Pat pork dry with paper towels, then cut in half crosswise. Season with salt and half the Montreal Steak Spice (use all for 4 ppl). Coat pork all over with Dijon-garlic mixture. Heat a large non-stick pan over medium-high heat. When hot, add 1 tbsp oil (dbl for 4 ppl), then pork. Sear, turning occasionally, until golden-brown, 4-5 min. Transfer pork to a parchment-lined baking sheet. Roast in the middle of the oven until cooked through, 14-16 min. When pork is done, transfer to a clean cutting board to rest, 3-5 min. Reserve any drippings to add to gravy. Carefully wipe the pan clean.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/621db09db7842714ab372e78/step-7ef1de2a.jpg"
+        },
+        {
+          "step": 2,
+          "description": "While pork cooks, peel, then cut potato into 1-inch pieces. Cut cauliflower into bite-sized pieces. Add cauliflower, potatoes, 2 tsp salt and enough water to cover (by approx. 1 inch) to a large pot (use same for 4 ppl). Cover and bring to a boil over high heat. Once boiling, reduce heat to medium-high. Cook uncovered until fork-tender, 10-12 min. Drain and return veggies to the same pot, off heat. Season with salt and pepper. Mash 2 tbsp butter (dbl for 4 ppl) into veggies until almost creamy. (NOTE: Cauliflower-potato mash will still have a few lumps!)",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/621db09db7842714ab372e78/step-fde533c7.jpg"
+        },
+        {
+          "step": 3,
+          "description": "While potatoes and cauliflower cook, peel, then cut shallot into 1/4-inch pieces. Cut zucchini into 1/4-inch rounds.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/621db09db7842714ab372e78/step-a5acd0dc.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Add zucchini, remaining garlic puree and 1 tbsp oil (dbl for 4 ppl) to an unlined baking sheet. Season with salt and pepper, then toss to combine. Roast in the top of the oven until tender-crisp, 12-14 min.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/621db09db7842714ab372e78/step-36ed08de.jpg"
+        },
+        {
+          "step": 5,
+          "description": "When pork is almost done, heat the same pan (from step 1) over medium. Add 1 tbsp butter (dbl for 4 ppl), then swirl the pan until melted. Add shallots. Cook, stirring often, until shallots soften slightly, 2-3 min. Sprinkle flour over top. Cook, stirring often, until shallots are coated, 1 min. Gradually whisk in 3/4 cup water (dbl for 4 ppl) until smooth. Add broth concentrate, soy sauce and any drippings from pork. Bring to a simmer over medium-high. Once simmering, cook, whisking occasionally, until gravy thickens slightly, 3-4 min. Season with salt and pepper, to taste.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/621db09db7842714ab372e78/step-85d4cc1e.jpg"
+        },
+        {
+          "step": 6,
+          "description": "Thinly slice pork. Divide pork, cauliflower-potato mash and zucchini between plates. Spoon shallot gravy over pork.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/621db09db7842714ab372e78/step-ac62fdde.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "700 kcal",
+          "fat": "37 g",
+          "saturated_fat": "14 g",
+          "carbohydrate": "47 g",
+          "sugar": "11 g",
+          "dietary_fiber": "7 g",
+          "protein": "48 g",
+          "cholesterol": "140 mg",
+          "sodium": "1170 mg",
+          "potassium": "",
+          "calcium": "",
+          "iron": ""
+        }
+      },
+      "tags": [
+        "Carb Smart",
+        "Calorie Smart"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/carb-smart-roasted-pork-tenderloin-c1c412a6.jpg",
+      "cousine": "Canadian",
+      "id_legacy": "smart-roasted-pork-tenderloin"
+    },
+    {
+      "id": "stovetop_pastitsio_fusilli",
+      "title": "Stovetop Pastitsio Fusilli",
+      "subtitle": "Creamy Greek B\u00e9chamel and Warm Turkish Spice",
+      "description": "This quick stovetop rendition boasts a creamy texture and warm spice infusion, reinventing a classic dish with ease.",
+      "prep_time": "30 minutes",
+      "cooking_time": "",
+      "total_time": "30 minutes",
+      "servings": "4",
+      "difficulty": "Medium",
+      "serving_size": "1 plate",
+      "calories_per_serving": "950 kcal",
+      "dietary_info": "Contains sulphites, milk, wheat. Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": "250 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110772f8b25ebd2e8b462d-edb66b38.png"
+        },
+        {
+          "name": "Crushed Tomatoes with Garlic and Onion",
+          "quantity": "1 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5a972e97ae08b50985677592-2726edc5.png"
+        },
+        {
+          "name": "Garlic Salt",
+          "quantity": "1 tsp",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57d30976d804b5661c8b4568-b3884a9e.png"
+        },
+        {
+          "name": "Beef Broth Concentrate",
+          "quantity": "1 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b46a4-4424c626.png"
+        },
+        {
+          "name": "Turkish Spice Blend",
+          "quantity": "1 tbsp",
+          "allergens": [
+            "Sulphites"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/62326264d786e66d653ef75e-547113d1.png"
+        },
+        {
+          "name": "Baby Spinach",
+          "quantity": "56 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/577ec99e3933dc33508b4567.png"
+        },
+        {
+          "name": "Feta Cheese, crumbled",
+          "quantity": "\u00bc cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110775f8b25ebd2e8b4677-dec4ab3c.png"
+        },
+        {
+          "name": "Cream Cheese",
+          "quantity": "43 g",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b469c-ed1c28fc.png"
+        },
+        {
+          "name": "Fusilli",
+          "quantity": "170 g",
+          "allergens": [
+            "Wheat"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/556731ee4dab710b0e8b4567.png"
+        },
+        {
+          "name": "Parsley",
+          "quantity": "7 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5553930af8b25e5e0c8b4569.png"
+        },
+        {
+          "name": "Yellow Onion",
+          "quantity": "1 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5d4cc2c1fc1713000b4c4174-a84db409.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Unsalted Butter*",
+          "quantity": "2 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5bc5064e30006c1a261b4612-4ffc3691.png"
+        },
+        {
+          "name": "Milk*",
+          "quantity": "3 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57c06c6892eec975218b4569-ffca2aa9.png"
+        },
+        {
+          "name": "Oil*",
+          "quantity": "\u00bd tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+        },
+        {
+          "name": "Salt*",
+          "quantity": "0.13 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+        },
+        {
+          "name": "Pepper*",
+          "quantity": "0.13 tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+        },
+        {
+          "name": "Sugar*",
+          "quantity": "\u00bd tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110775f8b25ebd2e8b4673-004d85b1.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Before starting, wash and dry all produce. Add 10 cups water and 2 tsp salt to a large pot (use same for 4 ppl). Cover and bring to a boil over high heat. Meanwhile, roughly chop parsley. Peel, then cut onion into 1/4-inch pieces. Add fusilli to the boiling water. Cook uncovered, stirring occasionally, until tender, 9-11 min. Reserve 1/4 cup (1/2 cup) pasta water, then drain and return fusilli to the same pot, off heat.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/651b0ac806806b7a2607cab9-40aab236.pdf"
+        },
+        {
+          "step": 2,
+          "description": "Meanwhile, heat a large non-stick pan over medium-high heat. When hot, add 1/2 tbsp (1 tbsp) oil, then onions. Cook, stirring occasionally, until softened slightly, 1-2 min. Add beef. Cook, breaking up beef into smaller pieces, until no pink remains, 4-5 min. Carefully drain and discard excess fat. Season with Turkish Spice Blend, garlic salt and pepper. Cook, stirring often, until fragrant, 30 sec.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/651b0ac806806b7a2607cab9/step-e8022e49.jpg"
+        },
+        {
+          "step": 3,
+          "description": "Reduce heat to medium-low. Add crushed tomatoes, broth concentrate and 1/2 tsp (1 tsp) sugar to the pan with beef. Cook, stirring occasionally, until sauce thickens slightly, 4-6 min.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/651b0ac806806b7a2607cab9/step-6e5d7f23.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Meanwhile, add cream cheese, 3 tbsp (6 tbsp) milk and 3 tbsp (6 tbsp) feta to a small pot. Heat over medium. Cook, whisking often, until sauce is mostly smooth and warmed through, 2-3 min. Add 1 tbsp (2 tbsp) butter, then season with salt and pepper, to taste. Whisk until butter melts. Remove pot from heat.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/651b0ac806806b7a2607cab9/step-eb9cb180.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Add meat sauce to the pot with fusilli. Return the pot to medium-high, then bring to a simmer. Once simmering, add spinach, reserved pasta water, half the parsley and 1 tbsp (2 tbsp) butter. Cook, stirring often, until spinach wilts and sauce thickens slightly, 2-3 min. Season with salt and pepper, to taste.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/651b0ac806806b7a2607cab9/step-fb699508.jpg"
+        },
+        {
+          "step": 6,
+          "description": "Divide fusilli between plates. Spoon 'b\u00e9chamel' sauce over top, then sprinkle with remaining parsley and remaining feta.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/651b0ac806806b7a2607cab9/step-75f263dd.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "950 kcal",
+          "fat": "44 g",
+          "saturated_fat": "21 g",
+          "carbohydrate": "95 g",
+          "sugar": "21 g",
+          "dietary_fiber": "10 g",
+          "protein": "45 g",
+          "cholesterol": "137 mg",
+          "sodium": "2120 mg",
+          "potassium": "",
+          "calcium": "",
+          "iron": ""
+        }
+      },
+      "tags": [
+        "Discovery"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,flossy,q_auto,w_1200/hellofresh_s3/image/fusillis-poeles-facon-pastitsio-c4abc9f4.jpg",
+      "cousine": "Greek-Inspired",
+      "id_legacy": "stovetop-pastitsio-inspired-fusilli"
+    },
+    {
+      "id": "taco-style_beef_bowls",
+      "title": "Taco-Style Beef Bowls",
+      "subtitle": "Basmati Rice and Lime Crema",
+      "description": "A quick, vibrant dish featuring smoky, tender beef paired with crisp vegetables for a festive flavor burst.",
+      "prep_time": "35 minutes",
+      "cooking_time": "",
+      "total_time": "35 minutes",
+      "servings": "2",
+      "difficulty": "Easy",
+      "serving_size": "1 bowl",
+      "calories_per_serving": "1030 kcal",
+      "dietary_info": "Contains Milk. Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "quantity": "250 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110772f8b25ebd2e8b462d-edb66b38.png"
+        },
+        {
+          "name": "Mexican Seasoning",
+          "quantity": "2 tbsp",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredients/5857fa50b32fbe0d5109bb31-3cf49757.png"
+        },
+        {
+          "name": "Basmati Rice",
+          "quantity": "\u00be cup",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/554a35914dab71716c8b4569.png"
+        },
+        {
+          "name": "Green Onion",
+          "quantity": "2 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/554a301f4dab71626c8b4569.png"
+        },
+        {
+          "name": "Green Bell Pepper",
+          "quantity": "200 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/554a35834dab71636c8b456a.png"
+        },
+        {
+          "name": "Tomato",
+          "quantity": "80 g",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/556728a04dab71a90d8b456a.png"
+        },
+        {
+          "name": "Monterey Jack Cheese, shredded",
+          "quantity": "\u00bd cup",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/55c109e74dab7112098b4567.png"
+        },
+        {
+          "name": "Garlic, cloves",
+          "quantity": "2 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/6137677a256fc53c23222228-c6553cc2.png"
+        },
+        {
+          "name": "Sour Cream",
+          "quantity": "3 tbsp",
+          "allergens": [
+            "Milk"
+          ],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/5550e1064dab71893e8b4569.png"
+        },
+        {
+          "name": "Lime",
+          "quantity": "1 unit",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/image/554a3c9efd2cb9ba4f8b456c.png"
+        },
+        {
+          "name": "Canned Corn",
+          "quantity": "1 can",
+          "allergens": [],
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/6053a383abe2c670f761cc17-7349a1e7.png"
+        }
+      ],
+      "not_included_in_delivery": [
+        {
+          "name": "Oil*",
+          "quantity": "2 tbsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+        },
+        {
+          "name": "Salt and Pepper*",
+          "quantity": "\u00bd tsp",
+          "image_url": "https://img.hellofresh.com/w_256,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/ingredient/5995dab2c28800013e48e192-94c68656.png"
+        }
+      ],
+      "cooking_steps": [
+        {
+          "step": 1,
+          "description": "Before starting, wash and dry all produce. Add 1 1/4 cups water (dbl for 4 ppl) to a medium pot. Cover and bring to a boil over high heat. While water comes to a boil, peel, then mince or grate garlic. Add rice to the boiling water. Reduce heat to low. Cover and cook until rice is tender and liquid is absorbed, 12-14 min. Remove the pot from heat. Set aside, still covered.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6225ef87a17ff42fb706880e/step-11b7ad39.jpg"
+        },
+        {
+          "step": 2,
+          "description": "While rice cooks, core, then cut pepper into 1/2-inch pieces. Cut tomato into 1/2-inch pieces. Thinly slice green onions. Drain, then rinse corn. Zest lime, then cut into wedges. Add lime zest and sour cream to a small bowl. Season with salt and pepper, then stir to combine.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6225ef87a17ff42fb706880e/step-bca71439.jpg"
+        },
+        {
+          "step": 3,
+          "description": "Heat a large non-stick pan over medium-high heat. When hot, add 1/2 tbsp oil (dbl for 4 ppl), then beef. Cook, breaking up beef into smaller pieces, until no pink remains, 4-5 min. Season with salt and pepper. Carefully drain and discard excess fat. Sprinkle with Mexican Seasoning. Cook, stirring often, until fragrant, 1 min. Transfer beef to a plate and set aside.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6225ef87a17ff42fb706880e/step-0536361e.jpg"
+        },
+        {
+          "step": 4,
+          "description": "Heat the same pan over medium-high. When hot, add 1/2 tbsp oil (dbl for 4 ppl), then peppers, corn and garlic. Cook, stirring often, until peppers are tender-crisp, 5-6 min. Remove the pan from heat, then transfer pepper mixture to a medium bowl.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6225ef87a17ff42fb706880e/step-520c7261.jpg"
+        },
+        {
+          "step": 5,
+          "description": "Fluff rice with a fork, then season with salt. Heat the same pan over medium-high. When hot, add 1 tbsp oil (dbl for 4 ppl), then rice. Cook, stirring occasionally, until any liquid is absorbed and rice starts to brown, 1-2 min. Add green onions and pepper mixture. Season with salt and pepper. Cook, stirring occasionally, until warmed through, 1-2 min.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6225ef87a17ff42fb706880e/step-0d74b5f2.jpg"
+        },
+        {
+          "step": 6,
+          "description": "Divide taco rice between bowls. Top with beef and tomatoes. Sprinkle with cheese, then dollop with lime crema. Squeeze a lime wedge over top, if desired.",
+          "image_url": "https://img.hellofresh.com/w_750,q_auto,f_auto,c_limit,fl_lossy/hellofresh_s3/6225ef87a17ff42fb706880e/step-409c0b25.jpg"
+        }
+      ],
+      "nutrition_values": {
+        "per_serving": {
+          "calories": "1030 kcal",
+          "fat": "46 g",
+          "saturated_fat": "17 g",
+          "carbohydrate": "112 g",
+          "sugar": "14 g",
+          "dietary_fiber": "8 g",
+          "protein": "45 g",
+          "cholesterol": "105 mg",
+          "sodium": "1250 mg",
+          "potassium": "",
+          "calcium": "",
+          "iron": ""
+        }
+      },
+      "tags": [
+        "Family Friendly"
+      ],
+      "image_url": "https://img.hellofresh.com/f_auto,fl_lossy,q_auto,w_1200/hellofresh_s3/image/bols-style-taco-au-boeuf-74bdcaa0.jpg",
+      "cousine": "Mexican",
+      "id_legacy": "taco-style-beef-bowls"
+    }
+  ]
+}

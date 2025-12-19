@@ -1,0 +1,187 @@
+{
+  "id": "tex-mex_beef_bowl",
+  "title": "Tex-Mex Beef Bowl",
+  "subtitle": "Smoky charred corn, zesty slaw, and cooling crema",
+  "description": "Experience a blend of smoky, crisp textures and creamy notes that deliver a perfectly balanced, vibrant meal.",
+  "prep_time": "25 minutes",
+  "cooking_time": "5 minutes",
+  "total_time": "30 minutes",
+  "servings": "1",
+  "difficulty": "Medium",
+  "serving_size": "246 g",
+  "calories_per_serving": "680 kcal",
+  "dietary_info": "Calorie Smart; Contains Milk, Mustard, Sulphites; may contain traces of Gluten, Fish, Sesame, Egg, Crustaceans, Wheat, Soy",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "quantity": "250 g",
+      "allergens": [],
+      "image_url": "images/ingredient/65e5855d1101bf6720606fdc-f89a8727.png"
+    },
+    {
+      "name": "Tex-Mex Paste",
+      "quantity": "1 tbsp",
+      "allergens": [
+        "Mustard",
+        "Gluten",
+        "Fish",
+        "Sesame",
+        "Egg",
+        "Crustaceans",
+        "Milk",
+        "Wheat",
+        "Sulphites",
+        "Soy"
+      ],
+      "image_url": "images/ingredient/67250acea598974dca3223f1-94912c07.png"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "quantity": "8 g",
+      "allergens": [
+        "Sesame",
+        "Triticale",
+        "Peanuts",
+        "Tree nuts",
+        "Wheat",
+        "Mustard",
+        "Sulphites",
+        "Milk",
+        "Soy"
+      ],
+      "image_url": "images/ingredient/66b386636d92980d0360c91d-c6cbf68d.png"
+    },
+    {
+      "name": "Corn Kernels",
+      "quantity": "113 g",
+      "allergens": [],
+      "image_url": "images/ingredient/65e58541f5a5196d85e97b7b-22a7cc61.png"
+    },
+    {
+      "name": "Red Cabbage, shredded",
+      "quantity": "56 g",
+      "allergens": [],
+      "image_url": "images/ingredient/65e585411101bf6720606c04-28e5305e.jpg"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "quantity": "1 tbsp",
+      "allergens": [
+        "Sulphites",
+        "Egg",
+        "Fish",
+        "Milk",
+        "Mustard",
+        "Sesame",
+        "Soy",
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/6687cdb41839b5db2281dd73-8dd0509b.png"
+    },
+    {
+      "name": "Green Onion",
+      "quantity": "1 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/65e585561101bf6720606ef2-1ff5c4d7.png"
+    },
+    {
+      "name": "Feta Cheese, crumbled",
+      "quantity": "¼ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/57110775f8b25ebd2e8b4677-dec4ab3c.png"
+    },
+    {
+      "name": "Sour Cream",
+      "quantity": "1 unit(s)",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/65e5853f1101bf6720606bc3-4d005f30.png"
+    },
+    {
+      "name": "Wild Rice Medley",
+      "quantity": "½ cup",
+      "allergens": [],
+      "image_url": "images/ingredient/6113d3a5439a9e6824084664-b5871440.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Oil*",
+      "quantity": "3.5 tsp",
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+    },
+    {
+      "name": "Pepper*",
+      "quantity": "0.13 tsp",
+      "image_url": "images/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+    },
+    {
+      "name": "Salt*",
+      "quantity": "0.38 tsp",
+      "image_url": "images/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Before starting, wash and dry all produce. Using a strainer, rinse rice until water runs clear. In a medium pot, stir together wild rice medley, 1 cup (2 cups) water and 1/4 tsp (1/2 tsp) salt. Bring to a boil over high heat. Once boiling, reduce heat to medium-low. Cover and cook for 20-22 min, until rice is tender and liquid is absorbed. Remove from heat. Set aside, still covered.",
+      "image_url": "images/cooking_step/step-67ab5300.jpg"
+    },
+    {
+      "step": 2,
+      "description": "Meanwhile, thinly slice green onion. To a medium bowl, add 2 tsp (4 tsp) vinegar and 2 tsp (4 tsp) oil. (TIP: Add 1/4 tsp [1/2 tsp] sugar, if desired.) Season with salt and pepper, then whisk until combined. Add cabbage, then toss to combine.",
+      "image_url": "images/cooking_step/step-1d068d10.jpg"
+    },
+    {
+      "step": 3,
+      "description": "Meanwhile, heat a large non-stick pan over medium-high. While the pan heats, pat corn dry with paper towels. When hot, add corn to the dry pan. Cook for 5 min, stirring occasionally, until dark brown in spots. Add half the Mexican Seasoning. Cook for 15 sec., stirring often, until fragrant. Transfer corn to the medium bowl with slaw, then toss to combine. Carefully wipe the pan clean.",
+      "image_url": "images/cooking_step/step-db7fb120.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Return the same pan to medium-high. When the pan is hot, add 1/2 tbsp (1 tbsp) oil, then beef. Cook for 4-5 min, breaking up beef into smaller pieces, until no pink remains. Add Tex-Mex paste, remaining Mexican Seasoning and 2 tbsp (4 tbsp) water. Cook for 30 sec.-1 min, stirring often, until fragrant and no longer watery. Season with pepper.",
+      "image_url": "images/cooking_step/step-9da57830.jpg"
+    },
+    {
+      "step": 5,
+      "description": "To a small bowl, add sour cream, remaining vinegar and 1 tsp (2 tsp) water. Season with salt and pepper, then stir to combine.",
+      "image_url": "images/cooking_step/step-42fdc540.jpg"
+    },
+    {
+      "step": 6,
+      "description": "Add half the green onions to the pot with wild rice medley, then fluff with a fork. Divide wild rice medley between bowls. Top with slaw and beef. Sprinkle feta and remaining green onions over top. Dollop crema over bowls.",
+      "image_url": "images/cooking_step/step-65d92450.jpg"
+    },
+    {
+      "step": 7,
+      "description": "If you've opted to get beef, cook in the same way the recipe instructs you to cook the turkey.",
+      "image_url": "images/cooking_step/menu-top.png"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "680 kcal",
+      "fat": "34 g",
+      "saturated_fat": "12 g",
+      "carbohydrate": "60 g",
+      "sugar": "7 g",
+      "dietary_fiber": "4 g",
+      "protein": "35 g",
+      "cholesterol": "95 mg",
+      "sodium": "1310 mg",
+      "potassium": "950 mg",
+      "calcium": "150 mg",
+      "iron": "4 mg"
+    }
+  },
+  "tags": [
+    "Quick",
+    "Calorie Smart"
+  ],
+  "image_url": "images/dish/HF_Y23_R1027_W29_CA_RT157675-1_Main_low-789505be.jpg",
+  "cousine": "Tex-Mex",
+  "id_legacy": "cal-smart-tex-mex-beef-bowls"
+}

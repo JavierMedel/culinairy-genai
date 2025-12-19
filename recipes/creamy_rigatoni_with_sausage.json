@@ -1,0 +1,135 @@
+{
+  "id": "creamy_rigatoni_with_sausage",
+  "title": "Creamy Rigatoni with Sausage",
+  "subtitle": "Infused with cream cheese, broccoli, lemon and parmesan",
+  "description": "A comforting medley of tender pasta and savory sausage enveloped in a velvety, tangy sauce, delivering vibrant textures and a satisfying finish.",
+  "prep_time": "5 minutes",
+  "cooking_time": "15 minutes",
+  "servings": "2",
+  "difficulty": "Easy",
+  "calories_per_serving": "920 kcal",
+  "dietary_info": "Contains Wheat and Milk. Produced in a facility that processes eggs, milk, fish, peanuts, sesame, shellfish, soy, tree nuts, and wheat.",
+  "ingredients": [
+    {
+      "name": "Broccoli Florets",
+      "quantity": "8 ounce",
+      "image_url": "images/ingredient/55b78d35f8b25ece088b4568.png"
+    },
+    {
+      "name": "Lemon",
+      "quantity": "1 unit",
+      "image_url": "images/ingredient/554a302ffd2cb9324b8b4569.png"
+    },
+    {
+      "name": "Rigatoni Pasta",
+      "quantity": "6 ounce",
+      "image_url": "images/ingredient/57153f624dab716c318b4567-2a554e3d.png"
+    },
+    {
+      "name": "Italian Chicken Sausage",
+      "quantity": "9 ounce",
+      "image_url": "images/ingredient/581b470e4cdfb5171e0f4c42-626ae324.png"
+    },
+    {
+      "name": "PHILADELPHIA® Cream Cheese",
+      "quantity": "4 tablespoon",
+      "image_url": "images/ingredient/5faf0b04ff7dec1f37136593-2dd503bf.png"
+    },
+    {
+      "name": "Sour Cream",
+      "quantity": "2 tablespoon",
+      "image_url": "images/ingredient/5550e1064dab71893e8b4569-dc52e70d.png"
+    },
+    {
+      "name": "Garlic Powder",
+      "quantity": "1 teaspoon",
+      "image_url": "images/ingredient/55ef01fbf8b25eba7e8b4567-446bc04f.png"
+    },
+    {
+      "name": "Chicken Stock Concentrate",
+      "quantity": "1 unit",
+      "image_url": "images/ingredient/5632315bf8b25e5a138b4568-07f14295.png"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "quantity": "¼ cup",
+      "image_url": "images/ingredient/5550e133fd2cb9a7168b456b-fb858db7.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Cooking Oil",
+      "quantity": "1 teaspoon",
+      "image_url": "images/ingredient/606db3ad4f75e662fe596b59-3600be54.png"
+    },
+    {
+      "name": "Butter",
+      "quantity": "2 tablespoon",
+      "image_url": "images/ingredient/5566e4d74dab71e3078b4569.png"
+    },
+    {
+      "name": "Salt",
+      "quantity": "",
+      "image_url": "images/ingredient/5566ceb7fd2cb95f7f8b4567-20f73b1d.png"
+    },
+    {
+      "name": "Pepper",
+      "quantity": "",
+      "image_url": "images/ingredient/5566dc00f8b25e5b298b4568-b5daf661.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Bring a large pot of salted water to a boil. Wash and dry produce. Cut broccoli florets into bite-size pieces if necessary. Quarter lemon.",
+      "image_url": "images/cooking_step/step-193dbc79.jpg"
+    },
+    {
+      "step": 2,
+      "description": "Once water is boiling, add rigatoni to pot. Cook, stirring occasionally, until al dente, 9-11 minutes. Reserve ¾ cup pasta cooking water (1 cup for 4 servings), then drain. TIP: If your water isn’t boiling yet, get started on the next steps!",
+      "image_url": "images/cooking_step/step-bdca1810.jpg"
+    },
+    {
+      "step": 3,
+      "description": "Place broccoli in a medium, microwave-safe bowl (use a large bowl for 4 servings) and cover with plastic wrap. Microwave until tender, 1-2 minutes. TIP: No microwave? In the last 2-4 minutes of cooking pasta, add broccoli to boiling water and cook with pasta until tender.",
+      "image_url": "images/cooking_step/step-7d2d4b94.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Place broccoli in a medium, microwave-safe bowl (use a large bowl for 4 servings) and cover with plastic wrap. Microwave until tender, 1-2 minutes. TIP: If no microwave is available, add broccoli to boiling pasta water in the last 2-4 minutes of cooking. Swap in chicken sausage for pork sausage. (No need to discard casing— there is none!)",
+      "image_url": "images/cooking_step/step-bee0ee0a.jpg"
+    },
+    {
+      "step": 5,
+      "description": "Reduce heat to medium low. Stir Philadelphia cream cheese, sour cream, garlic powder, chicken stock concentrate, ¼ cup pasta cooking water (1⁄3 cup for 4 servings), 2 TBSP butter (4 TBSP for 4), and a big squeeze of lemon juice into the pan with sausage. Season with salt and pepper. TIP: Add a pinch of chili flakes for a spicy kick if desired. Add rigatoni and broccoli, and cook, stirring, until pasta is coated in a creamy sauce. If needed, stir in additional pasta cooking water a splash at a time.",
+      "image_url": "images/cooking_step/step-656bffb3.jpg"
+    },
+    {
+      "step": 6,
+      "description": "Divide pasta between bowls. Top with a squeeze of lemon juice. Sprinkle with Parmesan and serve with any remaining lemon wedges on the side.",
+      "image_url": "images/cooking_step/step-9430dd9b.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "920 kcal",
+      "fat": "44 g",
+      "saturated_fat": "23 g",
+      "carbohydrate": "90 g",
+      "sugar": "9 g",
+      "dietary_fiber": "11 g",
+      "protein": "44 g",
+      "cholesterol": "190 mg",
+      "sodium": "1650 mg",
+      "potassium": "",
+      "calcium": "",
+      "iron": ""
+    }
+  },
+  "tags": [
+    "Easy Prep"
+  ],
+  "image_url": "images/dish/61d5fa6a42ea1768b9252c3c-8187c429.jpg",
+  "cousine": "Italian",
+  "id_legacy": "creamy-rigatoni-with-italian-chicken-sausage"
+}

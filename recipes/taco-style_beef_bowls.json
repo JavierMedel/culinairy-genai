@@ -1,0 +1,152 @@
+{
+  "id": "taco-style_beef_bowls",
+  "title": "Taco-Style Beef Bowls",
+  "subtitle": "Basmati Rice and Lime Crema",
+  "description": "A quick, vibrant dish featuring smoky, tender beef paired with crisp vegetables for a festive flavor burst.",
+  "prep_time": "35 minutes",
+  "cooking_time": "",
+  "total_time": "35 minutes",
+  "servings": "2",
+  "difficulty": "Easy",
+  "serving_size": "1 bowl",
+  "calories_per_serving": "1030 kcal",
+  "dietary_info": "Contains Milk. Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "quantity": "250 g",
+      "allergens": [],
+      "image_url": "images/ingredient/57110772f8b25ebd2e8b462d-edb66b38.png"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "quantity": "2 tbsp",
+      "allergens": [],
+      "image_url": "images/ingredient/5857fa50b32fbe0d5109bb31-3cf49757.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "quantity": "¾ cup",
+      "allergens": [],
+      "image_url": "images/ingredient/554a35914dab71716c8b4569.png"
+    },
+    {
+      "name": "Green Onion",
+      "quantity": "2 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/554a301f4dab71626c8b4569.png"
+    },
+    {
+      "name": "Green Bell Pepper",
+      "quantity": "200 g",
+      "allergens": [],
+      "image_url": "images/ingredient/554a35834dab71636c8b456a.png"
+    },
+    {
+      "name": "Tomato",
+      "quantity": "80 g",
+      "allergens": [],
+      "image_url": "images/ingredient/556728a04dab71a90d8b456a.png"
+    },
+    {
+      "name": "Monterey Jack Cheese, shredded",
+      "quantity": "½ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/55c109e74dab7112098b4567.png"
+    },
+    {
+      "name": "Garlic, cloves",
+      "quantity": "2 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/6137677a256fc53c23222228-c6553cc2.png"
+    },
+    {
+      "name": "Sour Cream",
+      "quantity": "3 tbsp",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/5550e1064dab71893e8b4569.png"
+    },
+    {
+      "name": "Lime",
+      "quantity": "1 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/554a3c9efd2cb9ba4f8b456c.png"
+    },
+    {
+      "name": "Canned Corn",
+      "quantity": "1 can",
+      "allergens": [],
+      "image_url": "images/ingredient/6053a383abe2c670f761cc17-7349a1e7.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Oil*",
+      "quantity": "2 tbsp",
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+    },
+    {
+      "name": "Salt and Pepper*",
+      "quantity": "½ tsp",
+      "image_url": "images/ingredient/5995dab2c28800013e48e192-94c68656.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Before starting, wash and dry all produce. Add 1 1/4 cups water (dbl for 4 ppl) to a medium pot. Cover and bring to a boil over high heat. While water comes to a boil, peel, then mince or grate garlic. Add rice to the boiling water. Reduce heat to low. Cover and cook until rice is tender and liquid is absorbed, 12-14 min. Remove the pot from heat. Set aside, still covered.",
+      "image_url": "images/cooking_step/step-11b7ad39.jpg"
+    },
+    {
+      "step": 2,
+      "description": "While rice cooks, core, then cut pepper into 1/2-inch pieces. Cut tomato into 1/2-inch pieces. Thinly slice green onions. Drain, then rinse corn. Zest lime, then cut into wedges. Add lime zest and sour cream to a small bowl. Season with salt and pepper, then stir to combine.",
+      "image_url": "images/cooking_step/step-bca71439.jpg"
+    },
+    {
+      "step": 3,
+      "description": "Heat a large non-stick pan over medium-high heat. When hot, add 1/2 tbsp oil (dbl for 4 ppl), then beef. Cook, breaking up beef into smaller pieces, until no pink remains, 4-5 min. Season with salt and pepper. Carefully drain and discard excess fat. Sprinkle with Mexican Seasoning. Cook, stirring often, until fragrant, 1 min. Transfer beef to a plate and set aside.",
+      "image_url": "images/cooking_step/step-0536361e.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Heat the same pan over medium-high. When hot, add 1/2 tbsp oil (dbl for 4 ppl), then peppers, corn and garlic. Cook, stirring often, until peppers are tender-crisp, 5-6 min. Remove the pan from heat, then transfer pepper mixture to a medium bowl.",
+      "image_url": "images/cooking_step/step-520c7261.jpg"
+    },
+    {
+      "step": 5,
+      "description": "Fluff rice with a fork, then season with salt. Heat the same pan over medium-high. When hot, add 1 tbsp oil (dbl for 4 ppl), then rice. Cook, stirring occasionally, until any liquid is absorbed and rice starts to brown, 1-2 min. Add green onions and pepper mixture. Season with salt and pepper. Cook, stirring occasionally, until warmed through, 1-2 min.",
+      "image_url": "images/cooking_step/step-0d74b5f2.jpg"
+    },
+    {
+      "step": 6,
+      "description": "Divide taco rice between bowls. Top with beef and tomatoes. Sprinkle with cheese, then dollop with lime crema. Squeeze a lime wedge over top, if desired.",
+      "image_url": "images/cooking_step/step-409c0b25.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "1030 kcal",
+      "fat": "46 g",
+      "saturated_fat": "17 g",
+      "carbohydrate": "112 g",
+      "sugar": "14 g",
+      "dietary_fiber": "8 g",
+      "protein": "45 g",
+      "cholesterol": "105 mg",
+      "sodium": "1250 mg",
+      "potassium": "",
+      "calcium": "",
+      "iron": ""
+    }
+  },
+  "tags": [
+    "Family Friendly"
+  ],
+  "image_url": "images/dish/bols-style-taco-au-boeuf-74bdcaa0.jpg",
+  "cousine": "Mexican",
+  "id_legacy": "taco-style-beef-bowls"
+}

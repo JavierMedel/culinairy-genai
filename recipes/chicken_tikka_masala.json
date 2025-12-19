@@ -1,0 +1,168 @@
+{
+  "id": "chicken_tikka_masala",
+  "title": "Chicken Tikka Masala",
+  "subtitle": "Savory Carrots and Garlic Rice",
+  "description": "A hearty curry boasting a balance of bold spices and creamy texture that elevates tender chicken to a comforting delight.",
+  "prep_time": "30 minutes",
+  "cooking_time": "8 minutes",
+  "total_time": "38 minutes",
+  "servings": "4",
+  "difficulty": "Medium",
+  "serving_size": "246 g",
+  "calories_per_serving": "740 kcal",
+  "dietary_info": "Contains Milk. May contain traces of Egg, Sesame, Mustard, Sulphites, Wheat, Soy, Gluten, Fish, Crustaceans, Tree nuts, and Peanuts. Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+  "ingredients": [
+    {
+      "name": "Chicken Breasts",
+      "quantity": "2 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/65e5853f762a70483e9d8ae2-c2108407.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "quantity": "¾ cup",
+      "allergens": [],
+      "image_url": "images/ingredient/65e5853f1101bf6720606bbd-df308ea7.png"
+    },
+    {
+      "name": "Carrot",
+      "quantity": "1 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/65e5854e762a70483e9d8ce9-1f167c7d.png"
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": "28 g",
+      "allergens": [],
+      "image_url": "images/ingredient/65e585591101bf6720606f4b-f54e83c4.png"
+    },
+    {
+      "name": "Garlic, cloves",
+      "quantity": "1 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/65e5856ef5a5196d85e98159-6bc5fc53.png"
+    },
+    {
+      "name": "Tikka Sauce",
+      "quantity": "½ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/67250d55738eb980ccb9d738-6818c9d5.png"
+    },
+    {
+      "name": "Curry Paste",
+      "quantity": "2 tbsp",
+      "allergens": [
+        "Mustard",
+        "Milk",
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Crustaceans",
+        "Egg",
+        "Sesame",
+        "Sulphites",
+        "Wheat",
+        "Tree nuts"
+      ],
+      "image_url": "images/ingredient/66a82d7271ae0e887989ea46-8694b7b3.png"
+    },
+    {
+      "name": "Garlic Salt",
+      "quantity": "4 g",
+      "allergens": [
+        "Milk",
+        "Sulphites",
+        "Wheat",
+        "Tree nuts",
+        "Triticale",
+        "Mustard",
+        "Soy",
+        "Sesame",
+        "Peanuts"
+      ],
+      "image_url": "images/ingredient/66b388e96d92980d0360c946-62a53812.png"
+    },
+    {
+      "name": "Cream",
+      "quantity": "56 mL",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/65ef112d4916f82b1a901e53-1b7e8838.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Salt*",
+      "quantity": "0.13 tsp",
+      "image_url": "images/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+    },
+    {
+      "name": "Pepper*",
+      "quantity": "0.13 tsp",
+      "image_url": "images/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+    },
+    {
+      "name": "Oil*",
+      "quantity": "1 tbsp",
+      "image_url": "images/ingredient/65e6f87c1101bf672060a1c3-6893ff30.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Peel, then mince or grate garlic. Heat a medium pot over medium heat. When the pot is hot, add 1/2 tbsp (1 tbsp) oil, then rice and garlic. Cook, stirring often, until fragrant, 2-3 min. Add 1 1/4 cups (2 1/2 cups) water and half the garlic salt. Bring to a boil over high. Once boiling, reduce heat to low. Cover and cook until rice is tender and liquid is absorbed, 12-14 min. Remove from heat. Set aside, still covered.",
+      "image_url": "images/cooking_step/step-291ee500.jpg"
+    },
+    {
+      "step": 2,
+      "description": "Meanwhile, peel, then halve carrot lengthwise. Cut into 1/4-inch half-moons. Roughly chop spinach.",
+      "image_url": "images/cooking_step/step-cd709610.jpg"
+    },
+    {
+      "step": 3,
+      "description": "Heat a large non-stick pan over medium-high heat. When the pan is hot, add 1/2 cup (3/4 cup) water, then carrots. Cook, stirring often, until water is absorbed and carrots are tender-crisp, 5-6 min. Season with salt and pepper, to taste, then transfer to a plate.",
+      "image_url": "images/cooking_step/step-f7897720.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Pat chicken dry with paper towels. Cut into 1-inch pieces. Season with remaining garlic salt and pepper. Reheat the same pan over medium. When the pan is hot, add 1/2 tbsp (1 tbsp) oil, then chicken. Cook until golden-brown, 2-3 min per side. (NOTE: Chicken will finish cooking in the next step.)",
+      "image_url": "images/cooking_step/step-a4cc2930.jpg"
+    },
+    {
+      "step": 5,
+      "description": "Add curry paste to the pan with chicken. Cook, stirring often, until fragrant, 30 sec. Reduce heat to medium-low, then add tikka sauce, cream and 1/4 cup (1/2 cup) water. Cook, stirring occasionally, until sauce thickens slightly and chicken is cooked through, 5-7 min. Add carrots and spinach. Season with salt and pepper, then stir until spinach wilts, 1-2 min.",
+      "image_url": "images/cooking_step/step-21bd8340.jpg"
+    },
+    {
+      "step": 6,
+      "description": "Fluff garlic rice with a fork. Divide rice between plates. Top with chicken tikka masala.",
+      "image_url": "images/cooking_step/step-94633b50.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "740 kcal",
+      "fat": "25 g",
+      "saturated_fat": "9 g",
+      "carbohydrate": "80 g",
+      "sugar": "11 g",
+      "dietary_fiber": "5 g",
+      "protein": "48 g",
+      "cholesterol": "160 mg",
+      "sodium": "1350 mg",
+      "potassium": "1300 mg",
+      "calcium": "150 mg",
+      "iron": "4.5 mg"
+    }
+  },
+  "tags": [
+    "Spicy",
+    "Bestseller"
+  ],
+  "image_url": "images/dish/poulet-tikka-masala-79aae4bb-abca9e27.jpg",
+  "cousine": "Indian",
+  "id_legacy": "chicken-tikka-masala"
+}

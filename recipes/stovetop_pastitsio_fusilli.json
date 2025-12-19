@@ -1,0 +1,176 @@
+{
+  "id": "stovetop_pastitsio_fusilli",
+  "title": "Stovetop Pastitsio Fusilli",
+  "subtitle": "Creamy Greek Béchamel and Warm Turkish Spice",
+  "description": "This quick stovetop rendition boasts a creamy texture and warm spice infusion, reinventing a classic dish with ease.",
+  "prep_time": "30 minutes",
+  "cooking_time": "",
+  "total_time": "30 minutes",
+  "servings": "4",
+  "difficulty": "Medium",
+  "serving_size": "1 plate",
+  "calories_per_serving": "950 kcal",
+  "dietary_info": "Contains sulphites, milk, wheat. Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "quantity": "250 g",
+      "allergens": [],
+      "image_url": "images/ingredient/57110772f8b25ebd2e8b462d-edb66b38.png"
+    },
+    {
+      "name": "Crushed Tomatoes with Garlic and Onion",
+      "quantity": "1 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/5a972e97ae08b50985677592-2726edc5.png"
+    },
+    {
+      "name": "Garlic Salt",
+      "quantity": "1 tsp",
+      "allergens": [],
+      "image_url": "images/ingredient/57d30976d804b5661c8b4568-b3884a9e.png"
+    },
+    {
+      "name": "Beef Broth Concentrate",
+      "quantity": "1 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b46a4-4424c626.png"
+    },
+    {
+      "name": "Turkish Spice Blend",
+      "quantity": "1 tbsp",
+      "allergens": [
+        "Sulphites"
+      ],
+      "image_url": "images/ingredient/62326264d786e66d653ef75e-547113d1.png"
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": "56 g",
+      "allergens": [],
+      "image_url": "images/ingredient/577ec99e3933dc33508b4567.png"
+    },
+    {
+      "name": "Feta Cheese, crumbled",
+      "quantity": "¼ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/57110775f8b25ebd2e8b4677-dec4ab3c.png"
+    },
+    {
+      "name": "Cream Cheese",
+      "quantity": "43 g",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b469c-ed1c28fc.png"
+    },
+    {
+      "name": "Fusilli",
+      "quantity": "170 g",
+      "allergens": [
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/556731ee4dab710b0e8b4567.png"
+    },
+    {
+      "name": "Parsley",
+      "quantity": "7 g",
+      "allergens": [],
+      "image_url": "images/ingredient/5553930af8b25e5e0c8b4569.png"
+    },
+    {
+      "name": "Yellow Onion",
+      "quantity": "1 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/5d4cc2c1fc1713000b4c4174-a84db409.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Unsalted Butter*",
+      "quantity": "2 tbsp",
+      "image_url": "images/ingredient/5bc5064e30006c1a261b4612-4ffc3691.png"
+    },
+    {
+      "name": "Milk*",
+      "quantity": "3 tbsp",
+      "image_url": "images/ingredient/57c06c6892eec975218b4569-ffca2aa9.png"
+    },
+    {
+      "name": "Oil*",
+      "quantity": "½ tbsp",
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+    },
+    {
+      "name": "Salt*",
+      "quantity": "0.13 tsp",
+      "image_url": "images/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+    },
+    {
+      "name": "Pepper*",
+      "quantity": "0.13 tsp",
+      "image_url": "images/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+    },
+    {
+      "name": "Sugar*",
+      "quantity": "½ tsp",
+      "image_url": "images/ingredient/57110775f8b25ebd2e8b4673-004d85b1.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Before starting, wash and dry all produce. Add 10 cups water and 2 tsp salt to a large pot (use same for 4 ppl). Cover and bring to a boil over high heat. Meanwhile, roughly chop parsley. Peel, then cut onion into 1/4-inch pieces. Add fusilli to the boiling water. Cook uncovered, stirring occasionally, until tender, 9-11 min. Reserve 1/4 cup (1/2 cup) pasta water, then drain and return fusilli to the same pot, off heat.",
+      "image_url": "images/cooking_step/651b0ac806806b7a2607cab9-40aab236.pdf"
+    },
+    {
+      "step": 2,
+      "description": "Meanwhile, heat a large non-stick pan over medium-high heat. When hot, add 1/2 tbsp (1 tbsp) oil, then onions. Cook, stirring occasionally, until softened slightly, 1-2 min. Add beef. Cook, breaking up beef into smaller pieces, until no pink remains, 4-5 min. Carefully drain and discard excess fat. Season with Turkish Spice Blend, garlic salt and pepper. Cook, stirring often, until fragrant, 30 sec.",
+      "image_url": "images/cooking_step/step-e8022e49.jpg"
+    },
+    {
+      "step": 3,
+      "description": "Reduce heat to medium-low. Add crushed tomatoes, broth concentrate and 1/2 tsp (1 tsp) sugar to the pan with beef. Cook, stirring occasionally, until sauce thickens slightly, 4-6 min.",
+      "image_url": "images/cooking_step/step-6e5d7f23.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Meanwhile, add cream cheese, 3 tbsp (6 tbsp) milk and 3 tbsp (6 tbsp) feta to a small pot. Heat over medium. Cook, whisking often, until sauce is mostly smooth and warmed through, 2-3 min. Add 1 tbsp (2 tbsp) butter, then season with salt and pepper, to taste. Whisk until butter melts. Remove pot from heat.",
+      "image_url": "images/cooking_step/step-eb9cb180.jpg"
+    },
+    {
+      "step": 5,
+      "description": "Add meat sauce to the pot with fusilli. Return the pot to medium-high, then bring to a simmer. Once simmering, add spinach, reserved pasta water, half the parsley and 1 tbsp (2 tbsp) butter. Cook, stirring often, until spinach wilts and sauce thickens slightly, 2-3 min. Season with salt and pepper, to taste.",
+      "image_url": "images/cooking_step/step-fb699508.jpg"
+    },
+    {
+      "step": 6,
+      "description": "Divide fusilli between plates. Spoon 'béchamel' sauce over top, then sprinkle with remaining parsley and remaining feta.",
+      "image_url": "images/cooking_step/step-75f263dd.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "950 kcal",
+      "fat": "44 g",
+      "saturated_fat": "21 g",
+      "carbohydrate": "95 g",
+      "sugar": "21 g",
+      "dietary_fiber": "10 g",
+      "protein": "45 g",
+      "cholesterol": "137 mg",
+      "sodium": "2120 mg",
+      "potassium": "",
+      "calcium": "",
+      "iron": ""
+    }
+  },
+  "tags": [
+    "Discovery"
+  ],
+  "image_url": "images/dish/fusillis-poeles-facon-pastitsio-c4abc9f4.jpg",
+  "cousine": "Greek-Inspired",
+  "id_legacy": "stovetop-pastitsio-inspired-fusilli"
+}

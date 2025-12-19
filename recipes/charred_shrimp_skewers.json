@@ -1,0 +1,156 @@
+{
+  "id": "charred_shrimp_skewers",
+  "title": "Charred Shrimp Skewers",
+  "subtitle": "Zesty flavors with a tropical twist",
+  "description": "Experience succulent shrimp with a charred exterior and a vibrant, citrus-kissed finish that delights the palate.",
+  "prep_time": "30 minutes",
+  "cooking_time": "",
+  "total_time": "",
+  "servings": "2",
+  "difficulty": "Easy",
+  "serving_size": "",
+  "calories_per_serving": "0 kcal",
+  "dietary_info": "Lactose Free, Eat First, Gluten free",
+  "ingredients": [
+    {
+      "name": "Lime",
+      "quantity": "1 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/554a3c9efd2cb9ba4f8b456c.png"
+    },
+    {
+      "name": "Wooden Skewers",
+      "quantity": "4 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/5550dca4fd2cb90e1a8b4568.png"
+    },
+    {
+      "name": "Jalapeño",
+      "quantity": "1 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/57110772f8b25ebd2e8b4630-28ab42a1.png"
+    },
+    {
+      "name": "Basmati Rice",
+      "quantity": "¾ cup",
+      "allergens": [],
+      "image_url": "images/ingredient/554a35914dab71716c8b4569.png"
+    },
+    {
+      "name": "Shrimp",
+      "quantity": "285 g",
+      "allergens": [
+        "Crustacean/Crustacé"
+      ],
+      "image_url": "images/ingredient/57110772f8b25ebd2e8b462c.png"
+    },
+    {
+      "name": "Pineapple",
+      "quantity": "113 g",
+      "allergens": [],
+      "image_url": "images/ingredient/5b3e7f9cae08b51a1d7f75f2-b4c153f2.png"
+    },
+    {
+      "name": "Mexican Oregano",
+      "quantity": "1 tsp",
+      "allergens": [],
+      "image_url": "images/ingredient/5711077bf8b25ebd2e8b46fd-172dc93a.png"
+    },
+    {
+      "name": "Avocado",
+      "quantity": "1 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/55661b614dab71627d8b4568.png"
+    },
+    {
+      "name": "Cilantro",
+      "quantity": "7 g",
+      "allergens": [],
+      "image_url": "images/ingredient/554a3c4d4dab71716c8b456c.png"
+    },
+    {
+      "name": "Red Onion",
+      "quantity": "56 g",
+      "allergens": [],
+      "image_url": "images/ingredient/554a3947fd2cb9cf488b456b.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Salt*",
+      "quantity": "unit",
+      "image_url": "images/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+    },
+    {
+      "name": "Pepper*",
+      "quantity": "unit",
+      "image_url": "images/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+    },
+    {
+      "name": "Oil*",
+      "quantity": "unit",
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Prep: Heat your broiler to high or oven to 500°F. Soak the wooden skewers in water in a shallow pan. In a small pot, bring 1½ cups water (double for 4 people) to boil with a large pinch of salt. Wash and dry all produce. Mince the pickled jalapeños, removing the ribs and seeds if you prefer less heat. Zest and juice the lime(s).",
+      "image_url": "images/cooking_step/step_5761b1584b89f.jpg"
+    },
+    {
+      "step": 2,
+      "description": "Cook the rice: Once boiling, add the rice to the pot, cover, and simmer for 15 minutes, until tender.",
+      "image_url": ""
+    },
+    {
+      "step": 3,
+      "description": "Make the skewers: Meanwhile, toss the shrimp with the lime zest and half the lime juice in a medium bowl. Season with salt, pepper, and Mexican oregano. Thread the shrimp onto half the skewers. Thread the pineapple onto the remaining skewers.",
+      "image_url": "images/cooking_step/step_5761b15871c1e.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Cook the skewers: Place the skewers on a lightly oiled baking sheet and set under the broiler or in the oven for 2-3 minutes per side, until pineapple is lightly charred and shrimp are opaque.",
+      "image_url": "images/cooking_step/step_5761b158dec6c.jpg"
+    },
+    {
+      "step": 5,
+      "description": "Meanwhile, halve, pit, and peel the avocado, then cut into 1/2-inch cubes.",
+      "image_url": "images/cooking_step/step_5761b158f0661.jpg"
+    },
+    {
+      "step": 6,
+      "description": "Make the pineapple-avocado salsa: Remove the pineapple from the skewers and cut into ½-inch cubes. In a medium bowl, toss together the pineapple, avocado, remaining lime juice, half the cilantro, as much jalapeño and red onion as you like (to taste), and a drizzle of oil. Season with salt and pepper.",
+      "image_url": ""
+    },
+    {
+      "step": 7,
+      "description": "Finish and serve: Fluff the rice with a fork and toss in the remaining cilantro. Serve with the shrimp and a generous serving of pineapple salsa on top. Olé! BBQ TIP: Instead of broiling, grill shrimp and pineapple skewers on medium-high, with lid open, 2 to 3 minutes per side.",
+      "image_url": ""
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "0 kcal",
+      "fat": "0 g",
+      "saturated_fat": "0 g",
+      "carbohydrate": "0 g",
+      "sugar": "0 g",
+      "dietary_fiber": "0 g",
+      "protein": "0 g",
+      "cholesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "0 mg",
+      "calcium": "0 mg",
+      "iron": "0 mg"
+    }
+  },
+  "tags": [
+    "Lactose Free",
+    "Eat First",
+    "Gluten free"
+  ],
+  "image_url": "images/dish/charred-shrimp-skewers-a6e67989.jpg",
+  "cousine": "Mexican",
+  "id_legacy": "charred-shrimp-skewers"
+}

@@ -1,0 +1,177 @@
+{
+  "id": "lemon_chicken_tenders",
+  "title": "Lemon Chicken Tenders",
+  "subtitle": "With Zucchini and Peppers",
+  "description": "A creamy lemon sauce coats tender chicken, enhanced with fresh vegetables for a light, flavorful dinner.",
+  "prep_time": "25 minutes",
+  "cooking_time": "8 minutes",
+  "total_time": "33 minutes",
+  "servings": "2",
+  "difficulty": "Medium",
+  "serving_size": "1 serving",
+  "calories_per_serving": "530 kcal",
+  "dietary_info": "Contains Sulphites, Milk. Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean and sulphites.",
+  "ingredients": [
+    {
+      "name": "Chicken Breast Tenders",
+      "quantity": "310 g",
+      "allergens": [],
+      "image_url": "images/ingredient/65e5855cf5a5196d85e97f19-f8f6a6e6.png"
+    },
+    {
+      "name": "Zucchini",
+      "quantity": "2 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/65e5855af5a5196d85e97eca-bc03eec2.png"
+    },
+    {
+      "name": "Sweet Bell Pepper",
+      "quantity": "1 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/5c1a8527c445fa1c487319b2-35ee6fcd.png"
+    },
+    {
+      "name": "Garlic, cloves",
+      "quantity": "1 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/65e5856ef5a5196d85e98159-6bc5fc53.png"
+    },
+    {
+      "name": "Dill-Garlic Spice Blend",
+      "quantity": "1 tsp",
+      "allergens": [
+        "Sulphites",
+        "Milk",
+        "Mustard",
+        "Tree nuts",
+        "Peanuts",
+        "Sesame",
+        "Soy",
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/65f87e05473c4f42771cea72-4a0bb124.png"
+    },
+    {
+      "name": "Lemon",
+      "quantity": "1 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/65e585631101bf6720607070-36b864f4.png"
+    },
+    {
+      "name": "Cream",
+      "quantity": "56 mL",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/65ef112d4916f82b1a901e53-1b7e8838.png"
+    },
+    {
+      "name": "Chicken Broth Concentrate",
+      "quantity": "1 unit(s)",
+      "allergens": [],
+      "image_url": "images/ingredient/5755e5e9f8b25e45148b4567-d6ad65dc.png"
+    },
+    {
+      "name": "Lemon-Pepper Seasoning",
+      "quantity": "1 tbsp",
+      "allergens": [
+        "Sesame",
+        "Soy",
+        "Sulphites",
+        "Tree nuts",
+        "Wheat",
+        "Milk",
+        "Mustard",
+        "Peanuts"
+      ],
+      "image_url": "images/ingredient/65ef1c4ed4f950689014653f-3dc8cb72.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Pepper*",
+      "quantity": "0.06 tsp",
+      "image_url": "images/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+    },
+    {
+      "name": "Unsalted Butter*",
+      "quantity": "1 tbsp",
+      "image_url": "images/ingredient/5bc5064e30006c1a261b4612-4ffc3691.png"
+    },
+    {
+      "name": "Oil*",
+      "quantity": "1.5 tbsp",
+      "image_url": "images/ingredient/65e6f87c1101bf672060a1c3-6893ff30.png"
+    },
+    {
+      "name": "Salt*",
+      "quantity": "0.13 tsp",
+      "image_url": "images/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Cut zucchini into 1/4-inch rounds. Core, then cut pepper into 1-inch pieces. Peel, then mince or grate garlic. Zest half the lemon (whole lemon for 4 ppl). Cut both halves into wedges.",
+      "image_url": "images/cooking_step/step-7f86a900.jpg"
+    },
+    {
+      "step": 2,
+      "description": "Add zucchini, peppers and 1 tbsp oil to an unlined baking sheet. (NOTE: For 4 ppl, use 2 baking sheets, with 1 tbsp oil per sheet.) Season with salt, pepper and Dill-Garlic Spice Blend. Toss to combine. Roast in the middle of the oven, 5 min. (NOTE: For 4 ppl, roast in the top and middle of the oven, rotating sheets halfway through. Veggies will continue to roast in step 4.)",
+      "image_url": "images/cooking_step/step-89cff910.jpg"
+    },
+    {
+      "step": 3,
+      "description": "Meanwhile, pat chicken dry with paper towels. Season with salt and 2 tsp (4 tsp) Lemon-Pepper Seasoning. Heat a large non-stick pan over medium-high heat. When the pan is hot, add 1/2 tbsp (1 tbsp) oil, then chicken breast tenders. Sear until tenders are golden-brown and cooked through, 3-5 min per side.",
+      "image_url": "images/cooking_step/step-f838a020.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Continue to roast in the middle of the oven until veggies are tender and chicken is cooked through, 10-12 min.",
+      "image_url": "images/cooking_step/step-e4746730.jpg"
+    },
+    {
+      "step": 5,
+      "description": "Meanwhile, reheat the same pan (from step 3) over medium. When the pan is hot, add 1 tbsp (2 tbsp) butter, then garlic. Cook, stirring often, until fragrant, 30 sec. Add 1/4 cup (1/2 cup) water, cream, broth concentrate and remaining Lemon-Pepper Seasoning. Cook, stirring occasionally, until sauce thickens slightly, 2-3 min. Remove the pan from heat, then stir in half the lemon zest.",
+      "image_url": "images/cooking_step/step-c9c6bb40.jpg"
+    },
+    {
+      "step": 6,
+      "description": "When veggies are done, sprinkle with remaining lemon zest. Toss gently to coat. Divide chicken and veggies between plates. Drizzle lemon cream sauce over chicken. Squeeze a lemon wedge over top, if desired.",
+      "image_url": "images/cooking_step/step-435bc250.jpg"
+    },
+    {
+      "step": 7,
+      "description": "If you've opted to get chicken breast tenders, prepare and cook them in the same way the recipe instructs you to prepare and cook the chicken breast. Increase sear time to 3-5 min per side, until cooked through. Skip the step to roast. Transfer tenders to a plate and cover to keep warm.",
+      "image_url": ""
+    },
+    {
+      "step": 8,
+      "description": "Plate chicken breast tenders as the recipe instructs you to plate the chicken breast, no need to slice.",
+      "image_url": ""
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "530 kcal",
+      "fat": "32 g",
+      "saturated_fat": "12 g",
+      "carbohydrate": "18 g",
+      "sugar": "9 g",
+      "dietary_fiber": "4 g",
+      "protein": "42 g",
+      "cholesterol": "175 mg",
+      "sodium": "820 mg",
+      "potassium": "1250 mg",
+      "calcium": "75 mg",
+      "iron": "2 mg"
+    }
+  },
+  "tags": [
+    "Carb Smart",
+    "Quick"
+  ],
+  "image_url": "images/dish/carb-smart-lemon-cream-chicken-4f885a82-a63f5867.jpg",
+  "cousine": "Canadian",
+  "id_legacy": "carb-smart-lemon-cream-chicken-breast-tenders"
+}

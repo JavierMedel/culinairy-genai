@@ -1,0 +1,143 @@
+{
+  "id": "chicken_caesar_salad",
+  "title": "Chicken Caesar Salad",
+  "subtitle": "Featuring Crispy Chickpea Croutons",
+  "description": "Experience a fresh twist on a classic salad with tender chicken and crunchy, protein-rich chickpea croutons delivering satisfying textures and balanced flavors.",
+  "prep_time": "30 minutes",
+  "cooking_time": "",
+  "total_time": "",
+  "servings": "4",
+  "difficulty": "Medium",
+  "serving_size": "1 serving",
+  "calories_per_serving": "750 kcal",
+  "dietary_info": "Contains Egg, Mustard, Milk; Produced in a facility that processes milk, sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, wheat, soybean, and sulphites.",
+  "ingredients": [
+    {
+      "name": "Chicken Breasts",
+      "quantity": "2 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/5715013bfd2cb9c71f8b4568.png"
+    },
+    {
+      "name": "Chickpeas",
+      "quantity": "370 mL",
+      "allergens": [],
+      "image_url": "images/ingredient/554a4024f8b25e1d268b4570.png"
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": "113 g",
+      "allergens": [],
+      "image_url": "images/ingredient/577ec99e3933dc33508b4567.png"
+    },
+    {
+      "name": "Lemon",
+      "quantity": "1 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/554a302ffd2cb9324b8b4569.png"
+    },
+    {
+      "name": "Mayonnaise",
+      "quantity": "4 tbsp",
+      "allergens": [
+        "Egg",
+        "Mustard"
+      ],
+      "image_url": "images/ingredient/554a2f494dab71636c8b4569.png"
+    },
+    {
+      "name": "Parmesan Cheese, grated",
+      "quantity": "¼ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/606ed9241c6c855ddb0c743b-45a42476.png"
+    },
+    {
+      "name": "Garlic, cloves",
+      "quantity": "1 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/6137677a256fc53c23222228-c6553cc2.png"
+    },
+    {
+      "name": "Dijon Mustard",
+      "quantity": "1.5 tsp",
+      "allergens": [
+        "Mustard"
+      ],
+      "image_url": "images/ingredient/5ea33bb3b51a9a08711358d8-001a44ce.png"
+    },
+    {
+      "name": "Chicken Salt",
+      "quantity": "1 tbsp",
+      "allergens": [],
+      "image_url": "images/ingredient/6177ff1fc6637801005337a4-cbd88b3e.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Oil*",
+      "quantity": "2.5 tbsp",
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+    },
+    {
+      "name": "Pepper*",
+      "quantity": "0.13 tsp",
+      "image_url": "images/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Before starting, preheat the oven to 425˚F. Wash and dry all produce. Garlic Guide for Step 4 (dbl for 4 ppl): 1/8 tsp mild, 1/4 tsp medium and 1/2 tsp extra! Drain and rinse chickpeas, then pat dry with paper towels. Zest, then juice half the lemon. Cut remaining lemon into wedges. Peel, then mince or grate garlic.",
+      "image_url": "images/cooking_step/step-60452682.jpg"
+    },
+    {
+      "step": 2,
+      "description": "Pat chicken dry with paper towels. Season with half the chicken salt and pepper. Heat a large non-stick pan over medium-high heat. When hot, add 1/2 tbsp oil (dbl for 4 ppl), then chicken. Cook until golden-brown, 1-2 min per side. (NOTE: Don't overcrowd the pan; cook chicken in 2 batches if needed!) Transfer chicken to an unlined baking sheet. Bake in the middle of the oven until chicken is cooked through, 12-14 min.",
+      "image_url": "images/cooking_step/step-cb3b0a2b.jpg"
+    },
+    {
+      "step": 3,
+      "description": "While chicken bakes, heat the same pan over medium. When hot, add 2 tbsp oil (dbl for 4 ppl), then chickpeas and remaining chicken salt. Season with pepper. Cover and cook, stirring occasionally, until chickpeas are golden, 5-6 min. Transfer chickpeas to a plate to cool slightly.",
+      "image_url": "images/cooking_step/step-b9c06b72.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Add mayo, Dijon, lemon zest, half the Parmesan, 1 tsp lemon juice (dbl for 4 ppl) and 1/8 tsp garlic to a large bowl. (NOTE: Reference garlic guide.) Season with pepper, then stir to combine.",
+      "image_url": "images/cooking_step/step-ccfd668b.jpg"
+    },
+    {
+      "step": 5,
+      "description": "Add chickpeas and spinach to the large bowl with dressing, then toss to combine.",
+      "image_url": "images/cooking_step/step-d62e4a13.jpg"
+    },
+    {
+      "step": 6,
+      "description": "Let chicken rest for 3-5 min, then thinly slice. Add chicken to the bowl with salad, then toss to combine. Divide salad between plates. Sprinkle remaining Parmesan over top. Squeeze over a lemon wedge, if desired.",
+      "image_url": "images/cooking_step/step-73db29cb.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "750 kcal",
+      "fat": "48 g",
+      "saturated_fat": "5 g",
+      "carbohydrate": "33 g",
+      "sugar": "6 g",
+      "dietary_fiber": "11 g",
+      "protein": "50 g",
+      "cholesterol": "155 mg",
+      "sodium": "1520 mg",
+      "potassium": "",
+      "calcium": "",
+      "iron": ""
+    }
+  },
+  "tags": [
+    "Carb Smart"
+  ],
+  "image_url": "images/dish/carb-smart-chicken-caesar-salad-1f55ccd7.jpg",
+  "cousine": "American",
+  "id_legacy": "carb-smart-chicken-caesar-salad"
+}

@@ -1,0 +1,166 @@
+{
+  "id": "roasted_pork_tenderloin",
+  "title": "Roasted Pork Tenderloin",
+  "subtitle": "Creamy Cauliflower Mash with Savory Shallot Gravy",
+  "description": "A modern twist on a classic dish, featuring succulent pork enhanced by velvety textures and aromatic spice for a truly delightful culinary experience.",
+  "prep_time": "40 minutes",
+  "cooking_time": "",
+  "total_time": "40 minutes",
+  "servings": "4",
+  "difficulty": "Medium",
+  "serving_size": "",
+  "calories_per_serving": "700 kcal",
+  "dietary_info": "Carb Smart, Calorie Smart",
+  "ingredients": [
+    {
+      "name": "Pork Tenderloin",
+      "quantity": "340 g",
+      "allergens": [],
+      "image_url": "images/ingredient/5567235df8b25e472f8b4567.png"
+    },
+    {
+      "name": "Cauliflower, florets",
+      "quantity": "285 g",
+      "allergens": [],
+      "image_url": "images/ingredient/56a785f74dab7113398b4568.png"
+    },
+    {
+      "name": "Chicken Broth Concentrate",
+      "quantity": "1 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/5755e5e9f8b25e45148b4567-d6ad65dc.png"
+    },
+    {
+      "name": "Shallot",
+      "quantity": "50 g",
+      "allergens": [],
+      "image_url": "images/ingredient/554a3dfbf8b25e1d268b456f.png"
+    },
+    {
+      "name": "Garlic Puree",
+      "quantity": "1 tbsp",
+      "allergens": [],
+      "image_url": "images/ingredient/5e72773fd47b5c0367730d8f-de6c3494.png"
+    },
+    {
+      "name": "Dijon Mustard",
+      "quantity": "1 tbsp",
+      "allergens": [
+        "Mustard"
+      ],
+      "image_url": "images/ingredient/5ea33bb3b51a9a08711358d8-001a44ce.png"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "quantity": "1 tbsp",
+      "allergens": [
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b46a8-cd52fdfe.png"
+    },
+    {
+      "name": "Zucchini",
+      "quantity": "400 g",
+      "allergens": [],
+      "image_url": "images/ingredient/5553981df8b25e5d0c8b456a.png"
+    },
+    {
+      "name": "Montreal Spice Blend",
+      "quantity": "½ tbsp",
+      "allergens": [],
+      "image_url": "images/ingredient/5f5b6aa73446d2177a3e11e4-f7079c27.png"
+    },
+    {
+      "name": "Russet Potato",
+      "quantity": "230 g",
+      "allergens": [],
+      "image_url": "images/ingredient/5711077df8b25ebd2e8b471b-b10a7316.png"
+    },
+    {
+      "name": "Soy Sauce",
+      "quantity": "1.5 tsp",
+      "allergens": [
+        "Soy",
+        "Wheat"
+      ],
+      "image_url": "images/ingredient/6009c1dc6ff085198b11dc2d-e35a259a.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Unsalted Butter*",
+      "quantity": "3 tbsp",
+      "image_url": "images/ingredient/5bc5064e30006c1a261b4612-4ffc3691.png"
+    },
+    {
+      "name": "Oil*",
+      "quantity": "2 tbsp",
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b46a2-c505cf3d.png"
+    },
+    {
+      "name": "Pepper*",
+      "quantity": "0.13 tsp",
+      "image_url": "images/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+    },
+    {
+      "name": "Salt*",
+      "quantity": "¼ tsp",
+      "image_url": "images/ingredient/57110778f8b25ebd2e8b46bc-ea83c952.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Before starting, preheat the oven to 450°F. Wash and dry all produce. Stir together Dijon and half the garlic puree in a small bowl. Pat pork dry with paper towels, then cut in half crosswise. Season with salt and half the Montreal Steak Spice (use all for 4 ppl). Coat pork all over with Dijon-garlic mixture. Heat a large non-stick pan over medium-high heat. When hot, add 1 tbsp oil (dbl for 4 ppl), then pork. Sear, turning occasionally, until golden-brown, 4-5 min. Transfer pork to a parchment-lined baking sheet. Roast in the middle of the oven until cooked through, 14-16 min. When pork is done, transfer to a clean cutting board to rest, 3-5 min. Reserve any drippings to add to gravy. Carefully wipe the pan clean.",
+      "image_url": "images/cooking_step/step-7ef1de2a.jpg"
+    },
+    {
+      "step": 2,
+      "description": "While pork cooks, peel, then cut potato into 1-inch pieces. Cut cauliflower into bite-sized pieces. Add cauliflower, potatoes, 2 tsp salt and enough water to cover (by approx. 1 inch) to a large pot (use same for 4 ppl). Cover and bring to a boil over high heat. Once boiling, reduce heat to medium-high. Cook uncovered until fork-tender, 10-12 min. Drain and return veggies to the same pot, off heat. Season with salt and pepper. Mash 2 tbsp butter (dbl for 4 ppl) into veggies until almost creamy. (NOTE: Cauliflower-potato mash will still have a few lumps!)",
+      "image_url": "images/cooking_step/step-fde533c7.jpg"
+    },
+    {
+      "step": 3,
+      "description": "While potatoes and cauliflower cook, peel, then cut shallot into 1/4-inch pieces. Cut zucchini into 1/4-inch rounds.",
+      "image_url": "images/cooking_step/step-a5acd0dc.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Add zucchini, remaining garlic puree and 1 tbsp oil (dbl for 4 ppl) to an unlined baking sheet. Season with salt and pepper, then toss to combine. Roast in the top of the oven until tender-crisp, 12-14 min.",
+      "image_url": "images/cooking_step/step-36ed08de.jpg"
+    },
+    {
+      "step": 5,
+      "description": "When pork is almost done, heat the same pan (from step 1) over medium. Add 1 tbsp butter (dbl for 4 ppl), then swirl the pan until melted. Add shallots. Cook, stirring often, until shallots soften slightly, 2-3 min. Sprinkle flour over top. Cook, stirring often, until shallots are coated, 1 min. Gradually whisk in 3/4 cup water (dbl for 4 ppl) until smooth. Add broth concentrate, soy sauce and any drippings from pork. Bring to a simmer over medium-high. Once simmering, cook, whisking occasionally, until gravy thickens slightly, 3-4 min. Season with salt and pepper, to taste.",
+      "image_url": "images/cooking_step/step-85d4cc1e.jpg"
+    },
+    {
+      "step": 6,
+      "description": "Thinly slice pork. Divide pork, cauliflower-potato mash and zucchini between plates. Spoon shallot gravy over pork.",
+      "image_url": "images/cooking_step/step-ac62fdde.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "700 kcal",
+      "fat": "37 g",
+      "saturated_fat": "14 g",
+      "carbohydrate": "47 g",
+      "sugar": "11 g",
+      "dietary_fiber": "7 g",
+      "protein": "48 g",
+      "cholesterol": "140 mg",
+      "sodium": "1170 mg",
+      "potassium": "",
+      "calcium": "",
+      "iron": ""
+    }
+  },
+  "tags": [
+    "Carb Smart",
+    "Calorie Smart"
+  ],
+  "image_url": "images/dish/carb-smart-roasted-pork-tenderloin-c1c412a6.jpg",
+  "cousine": "Canadian",
+  "id_legacy": "smart-roasted-pork-tenderloin"
+}

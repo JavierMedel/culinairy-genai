@@ -1,0 +1,242 @@
+{
+  "id": "garlic_salmon_penne",
+  "title": "Garlic Salmon Penne",
+  "subtitle": "Spinach and Parmesan add vibrant appeal",
+  "description": "Savor silky pasta with tender salmon, aromatic garlic, fresh spinach, and a rich Parmesan finish.",
+  "prep_time": "20 minutes",
+  "cooking_time": "3 minutes",
+  "total_time": "23 minutes",
+  "servings": "2",
+  "difficulty": "Medium",
+  "serving_size": "246 g",
+  "calories_per_serving": "780 kcal",
+  "dietary_info": "Contains: Salmon, Wheat, Sulphites, Milk; May contain traces of sesame, eggs, fish, shellfish, crustaceans, mustard, tree nuts, peanuts, soybean.",
+  "ingredients": [
+    {
+      "name": "Salmon Fillets, skin-on",
+      "quantity": "250 g",
+      "allergens": [
+        "Salmon"
+      ],
+      "image_url": "images/ingredient/65ef34c3a66a6a1427fc317e-22414fd8.png"
+    },
+    {
+      "name": "Baby Spinach",
+      "quantity": "56 g",
+      "allergens": [],
+      "image_url": "images/ingredient/65e585591101bf6720606f4b-f54e83c4.png"
+    },
+    {
+      "name": "Lemon-Pepper Seasoning",
+      "quantity": "6 g",
+      "allergens": [
+        "Triticale",
+        "Mustard",
+        "Wheat",
+        "Sesame",
+        "Soy",
+        "Peanuts",
+        "Sulphites",
+        "Milk",
+        "Tree nuts"
+      ],
+      "image_url": "images/ingredient/66b3a0df1047ce98804591ce-e54dc87d.png"
+    },
+    {
+      "name": "Quick-Cook Penne",
+      "quantity": "227 g",
+      "allergens": [
+        "Wheat",
+        "Crustaceans",
+        "Egg",
+        "Fish",
+        "Gluten",
+        "Milk",
+        "Mustard",
+        "Soy",
+        "Sulphites"
+      ],
+      "image_url": "images/ingredient/672512ca781d45521669a337-ad33dab5.jpg"
+    },
+    {
+      "name": "Yellow Onion",
+      "quantity": "1 unit",
+      "allergens": [],
+      "image_url": "images/ingredient/65e58565762a70483e9d9002-d4d03260.png"
+    },
+    {
+      "name": "Garlic Puree",
+      "quantity": "1 tbsp",
+      "allergens": [
+        "Wheat",
+        "Crustaceans",
+        "Fish",
+        "Mustard",
+        "Gluten",
+        "Sesame",
+        "Sulphites",
+        "Soy",
+        "Milk",
+        "Tree nuts",
+        "Egg"
+      ],
+      "image_url": "images/ingredient/66a7dae372d2a210384ae00c-a0900083.png"
+    },
+    {
+      "name": "Cream Sauce Spice Blend",
+      "quantity": "10 g",
+      "allergens": [
+        "Wheat",
+        "Tree nuts",
+        "Milk",
+        "Mustard",
+        "Peanuts",
+        "Sesame",
+        "Soy",
+        "Sulphites"
+      ],
+      "image_url": "images/ingredient/65ef1429d4f95068901461f6-fd1d6892.png"
+    },
+    {
+      "name": "White Cooking Wine",
+      "quantity": "4 tbsp",
+      "allergens": [
+        "Sulphites",
+        "Sesame",
+        "Wheat",
+        "Gluten",
+        "Tree nuts",
+        "Mustard",
+        "Soy",
+        "Egg",
+        "Fish",
+        "Milk",
+        "Crustaceans"
+      ],
+      "image_url": "images/ingredient/66a8039d1f846dd185487e31-442ee3a0.png"
+    },
+    {
+      "name": "Vegetable Broth Concentrate",
+      "quantity": "1 unit",
+      "allergens": [
+        "Milk",
+        "Sesame",
+        "Gluten",
+        "Egg",
+        "Fish",
+        "Mustard",
+        "Crustaceans",
+        "Soy",
+        "Tree nuts",
+        "Wheat",
+        "Sulphites"
+      ],
+      "image_url": "images/ingredient/66a7d9b71f846dd185487d90-d4abc143.png"
+    },
+    {
+      "name": "Cream Cheese",
+      "quantity": "3 unit",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/65ef01b4d4f9506890145cdc-50d0b635.png"
+    },
+    {
+      "name": "Parmesan Cheese, shredded",
+      "quantity": "¼ cup",
+      "allergens": [
+        "Milk"
+      ],
+      "image_url": "images/ingredient/57110772f8b25ebd2e8b4625-8ffea243.png"
+    },
+    {
+      "name": "Chili Flakes",
+      "quantity": "4 g",
+      "allergens": [
+        "Sulphites",
+        "Tree nuts",
+        "Mustard",
+        "Soy",
+        "Milk",
+        "Sesame",
+        "Triticale",
+        "Wheat",
+        "Peanuts"
+      ],
+      "image_url": "images/ingredient/66b387201047ce9880458ebc-bc66ac76.png"
+    }
+  ],
+  "not_included_in_delivery": [
+    {
+      "name": "Butter*",
+      "quantity": "2 tbsp",
+      "image_url": "images/ingredient/57110777f8b25ebd2e8b46a3-24de9dfc.png"
+    },
+    {
+      "name": "Pepper*",
+      "quantity": "0.13 tsp",
+      "image_url": "images/ingredient/5711077ef8b25ebd2e8b473c-716de0eb.png"
+    },
+    {
+      "name": "Salt*",
+      "quantity": "0.13 tsp",
+      "image_url": "images/ingredient/65e6f882f5a5196d85e9b826-83082ef0.png"
+    }
+  ],
+  "cooking_steps": [
+    {
+      "step": 1,
+      "description": "Before starting, preheat the broiler to high. Wash and dry all produce. To a large pot, add 10 cups water and 1 tbsp salt (use same for 4 servings). Cover and bring to a boil over high heat. Heat a large non-stick pan over medium-high. While the pan heats, roughly chop spinach. Pat salmon dry with paper towels, then season with salt and Lemon-Pepper Seasoning.",
+      "image_url": "images/cooking_step/step-fdc2b700.jpg"
+    },
+    {
+      "step": 2,
+      "description": "When the pan is hot, add 1 tbsp (2 tbsp) butter, then swirl until melted. Add salmon, skin-side down. Sear for 1-2 min, until golden. Transfer to a foil-lined baking sheet, skin-side down. Drizzle remaining melted butter over salmon. Broil in the middle of the oven for 4-6 min, until salmon is cooked through.",
+      "image_url": "images/cooking_step/step-c37e2710.jpg"
+    },
+    {
+      "step": 3,
+      "description": "While salmon broils, add penne to the boiling water. Cook uncovered for 2-3 min, stirring occasionally, until tender. Reserve 1 cup (2 cups) pasta water, then drain and return penne to the same pot, off heat.",
+      "image_url": "images/cooking_step/step-fbdbd120.jpg"
+    },
+    {
+      "step": 4,
+      "description": "Meanwhile, return the same pan (from step 2) to medium. Add 1 tbsp (2 tbsp) butter, then onions. Season with salt and pepper. Cook for 1-2 min, stirring occasionally, until slightly softened. Add garlic puree and Cream Sauce Spice Blend, then stir to coat, 30 sec. Add cooking wine. Cook for 20-40 sec., stirring often, until wine reduces by half.",
+      "image_url": "images/cooking_step/step-a53b2f30.jpg"
+    },
+    {
+      "step": 5,
+      "description": "Add reserved pasta water, broth concentrate and cream cheese to the pan with onion mixture. Cook, whisking often, until sauce comes to a simmer. Simmer for 2-3 min, stirring often, until cream cheese is combined and sauce thickens slightly. Add penne, spinach and half the Parmesan. Cook for 1-2 min, stirring often, until sauce coats pasta and spinach wilts. Season with salt and pepper, to taste.",
+      "image_url": "images/cooking_step/step-f4cb1540.jpg"
+    },
+    {
+      "step": 6,
+      "description": "Carefully remove and discard salmon skin, if desired. Divide penne between bowls. Top with salmon. Sprinkle remaining Parmesan and chili flakes over top, if desired.",
+      "image_url": "images/cooking_step/step-a179c450.jpg"
+    }
+  ],
+  "nutrition_values": {
+    "per_serving": {
+      "calories": "780 kcal",
+      "fat": "42 g",
+      "saturated_fat": "17 g",
+      "carbohydrate": "58 g",
+      "sugar": "9 g",
+      "dietary_fiber": "5 g",
+      "protein": "39 g",
+      "cholesterol": "140 mg",
+      "sodium": "1430 mg",
+      "potassium": "1100 mg",
+      "calcium": "250 mg",
+      "iron": "3 mg"
+    }
+  },
+  "tags": [
+    "Quick",
+    "Spicy",
+    "Low CO2"
+  ],
+  "image_url": "images/dish/HF_Y25_R1029_W01_CA_RF154375-8_Main_low-c460b1dd.jpg",
+  "cousine": "Italian",
+  "id_legacy": "creamy-garlic-salmon-penne"
+}
