@@ -183,6 +183,7 @@ Built as a portfolio project by an AI / GenAI Engineer, with a focus on:
 - Retrieval-Augmented Generation (RAG)
 - Production system design
 - LLM reliability and validation
+- ZenML
 
 ---
 
