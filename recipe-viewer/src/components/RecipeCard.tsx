@@ -17,31 +17,42 @@ const RecipeCard: React.FC<RecipeCardProps> = ({ recipe }) => {
         addToCart(recipe);
     };
 
+    // Calculate time display
+    const timeDisplay = recipe.total_time ||
+        (recipe.prep_time && recipe.cook_time ? `${recipe.prep_time} + ${recipe.cook_time}` :
+            recipe.prep_time || recipe.cook_time || 'N/A');
+
+    // Handle image URL - new data has full URLs from HelloFresh
+    const imageUrl = recipe.image_url?.startsWith('http') ? recipe.image_url : (recipe.image_url ? `/${recipe.image_url}` : '');
+
     return (
         <Link to={`/recipe/${recipe.id}`} className="recipe-card">
             <div className="recipe-card-image-container">
                 <img
-                    src={`/${recipe.image_url}`}
+                    src={imageUrl}
                     alt={recipe.title}
                     className="recipe-card-image"
                     loading="lazy"
                 />
                 <div className="recipe-card-overlay">
-                    <span className="recipe-difficulty">{recipe.difficulty}</span>
+                    <span className="recipe-difficulty">{recipe.difficulty || 'Easy'}</span>
                 </div>
             </div>
             <div className="recipe-card-content">
                 <div className="recipe-tags">
-                    {recipe.tags.slice(0, 2).map(tag => (
+                    {recipe.tags?.slice(0, 2).map(tag => (
                         <span key={tag} className="recipe-tag">{tag}</span>
                     ))}
                 </div>
                 <h3 className="recipe-title">{recipe.title}</h3>
-                <p className="recipe-subtitle">{recipe.subtitle}</p>
+                {recipe.subtitle && <p className="recipe-subtitle">{recipe.subtitle}</p>}
                 <div className="recipe-meta">
-                    <span className="recipe-time">⏱ {recipe.total_time}</span>
+                    <span className="recipe-time">⏱ {timeDisplay}</span>
                     <div className="meta-right">
-                        <span className="recipe-calories">🔥 {recipe.calories_per_serving}</span>
+                        {recipe.calories_per_serving && <span className="recipe-calories">🔥 {recipe.calories_per_serving}</span>}
+                        {recipe.nutrition?.Calories && !recipe.calories_per_serving && (
+                            <span className="recipe-calories">🔥 {recipe.nutrition.Calories}</span>
+                        )}
                         <button
                             className="quick-add-btn"
                             onClick={handleQuickAdd}

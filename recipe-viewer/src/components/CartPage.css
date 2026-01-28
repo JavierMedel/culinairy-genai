@@ -58,7 +58,7 @@
 .cart-recipes-sidebar {
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 12px;
     position: sticky;
     top: 20px;
 }
@@ -66,15 +66,22 @@
 .recipe-select-card {
     background: var(--color-surface);
     border-radius: 12px;
-    padding: 16px;
+    padding: 8px 12px;
     display: flex;
     align-items: center;
-    gap: 16px;
+    gap: 12px;
     cursor: pointer;
     border: 1px solid transparent;
-    /* Reserve space for border */
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
     transition: all 0.2s ease;
+}
+
+.recipe-select-thumb {
+    width: 40px;
+    height: 40px;
+    border-radius: 6px;
+    object-fit: cover;
+    background: #eee;
 }
 
 .recipe-select-card:hover {
@@ -85,27 +92,13 @@
 .recipe-select-card.active {
     border-color: #E63946;
     background: #FFF5F6;
-    /* Light reddish tint */
 }
 
-.recipe-select-thumb {
-    width: 60px;
-    height: 60px;
-    border-radius: 8px;
-    object-fit: cover;
-    background: #eee;
-}
-
-.recipe-select-info h3 {
-    margin: 0 0 4px 0;
-    font-size: 1rem;
-    font-weight: 600;
+.recipe-select-card h3 {
+    margin: 0;
+    font-size: 0.95rem;
+    font-weight: 500;
     color: var(--color-text);
-}
-
-.recipe-meta {
-    font-size: 0.8rem;
-    color: #666;
 }
 
 .view-all-btn {

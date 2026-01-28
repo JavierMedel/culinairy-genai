@@ -2,29 +2,36 @@ import React, { useState, useEffect } from 'react';
 import RecipeCard from './RecipeCard';
 import type { Recipe } from '../types';
 import './RecipeList.css';
-import recipesData from '../data/recipes.json';
-import { useCart } from '../context/CartContext';
-import { useTheme } from '../context/ThemeContext';
+
+// Dynamically import all JSON files from the recipes directory
+const recipeModules = import.meta.glob('../data/recipes/*.json', { eager: true });
 
 const RecipeList: React.FC = () => {
     const [recipes, setRecipes] = useState<Recipe[]>([]);
     const [searchTerm, setSearchTerm] = useState('');
-    const { toggleCart, items } = useCart();
-    const { theme, toggleTheme } = useTheme();
 
     useEffect(() => {
-        // In a real app, this might be an API call
-        // The JSON structure has a "recipes" key which is an array
-        // @ts-ignore - The JSON import might not perfectly match the strict type without casting
-        setRecipes(recipesData.recipes as unknown as Recipe[]);
+        const loadedRecipes: Recipe[] = Object.entries(recipeModules).map(([path, module]) => {
+            const data = (module as any).default || module;
+
+            // Extract a clean ID from the filename (e.g., BBQ_Beef_Meatballs)
+            const idFromPath = path.split('/').pop()?.replace('-extracted.json', '') || 'unknown';
+
+            return {
+                ...data,
+                id: data.id || idFromPath
+            };
+        });
+
+        setRecipes(loadedRecipes);
     }, []);
 
     const filteredRecipes = recipes.filter(recipe => {
         const term = searchTerm.toLowerCase();
         return (
-            recipe.title.toLowerCase().includes(term) ||
-            recipe.ingredients.some(ing => ing.name.toLowerCase().includes(term)) ||
-            recipe.tags.some(tag => tag.toLowerCase().includes(term))
+            (recipe.title?.toLowerCase() || '').includes(term) ||
+            recipe.ingredients?.some(ing => ing.name?.toLowerCase().includes(term)) ||
+            recipe.tags?.some(tag => tag.toLowerCase().includes(term))
         );
     });
 

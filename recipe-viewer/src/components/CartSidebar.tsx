@@ -3,7 +3,7 @@ import { useCart } from '../context/CartContext';
 import './CartSidebar.css';
 
 const CartSidebar: React.FC = () => {
-    const { items, removeFromCart, isCartOpen, toggleCart, clearCart } = useCart();
+    const { items, isCartOpen, toggleCart, clearCart } = useCart();
 
     // Group items by recipe for better display
     const [orderedRecipes, setOrderedRecipes] = React.useState<string[]>([]);
@@ -94,27 +94,16 @@ const CartSidebar: React.FC = () => {
                                         onDrop={(e) => handleDrop(e, recipeTitle)}
                                         style={{ cursor: 'grab' }}
                                     >
-                                        <h3 className="cart-recipe-title">
-                                            <span className="drag-handle">☰</span> {recipeTitle}
-                                        </h3>
-                                        <ul className="cart-items-list">
-                                            {groupItems.map(item => (
-                                                <li key={item.id} className="cart-item">
-                                                    <img src={`/${item.image_url}`} alt={item.name} className="cart-item-img" />
-                                                    <div className="cart-item-details">
-                                                        <span className="cart-item-name">{item.name}</span>
-                                                        <span className="cart-item-qty">{item.quantity}</span>
-                                                    </div>
-                                                    <button
-                                                        className="remove-item-btn"
-                                                        onClick={() => removeFromCart(item.id)}
-                                                        aria-label="Remove item"
-                                                    >
-                                                        ×
-                                                    </button>
-                                                </li>
-                                            ))}
-                                        </ul>
+                                        <div className="cart-recipe-header">
+                                            <img
+                                                src={`/${groupItems[0].recipeImageUrl}`}
+                                                alt={recipeTitle}
+                                                className="cart-recipe-thumb"
+                                            />
+                                            <h3 className="cart-recipe-title">
+                                                <span className="drag-handle">☰</span> {recipeTitle}
+                                            </h3>
+                                        </div>
                                     </div>
                                 );
                             })}

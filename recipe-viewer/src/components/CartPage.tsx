@@ -140,10 +140,7 @@ const CartPage: React.FC = () => {
                             onClick={() => handleRecipeClick(recipe.id)}
                         >
                             <img src={`/${recipe.imageUrl}`} alt={recipe.title} className="recipe-select-thumb" />
-                            <div className="recipe-select-info">
-                                <h3>{recipe.title}</h3>
-                                <span className="recipe-meta">{recipe.totalIngredients} ingredients</span>
-                            </div>
+                            <h3>{recipe.title}</h3>
                         </div>
                     ))}
 
